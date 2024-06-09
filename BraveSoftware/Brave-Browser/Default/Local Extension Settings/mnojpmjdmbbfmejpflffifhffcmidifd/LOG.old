@@ -1,0 +1,53 @@
+2024/06/09-15:50:29.368 4c52 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2024/06/09-15:50:29.374 4c52 Recovering log #994
+2024/06/09-15:50:29.422 4c52 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000994.log 
+2024/06/09-15:57:31.654 4c50 Compacting 2@0 + 0@1 files
+2024/06/09-15:57:31.693 4c50 Generated table #997@0: 31 keys, 91062 bytes
+2024/06/09-15:57:31.693 4c50 Compacted 2@0 + 0@1 files => 91062 bytes
+2024/06/09-15:57:31.699 4c50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/09-15:57:31.700 4c50 Delete type=2 #992
+2024/06/09-15:57:31.700 4c50 Delete type=2 #995
+2024/06/09-15:57:52.666 4c50 Level-0 table #999: started
+2024/06/09-15:57:52.693 4c50 Level-0 table #999: 351839 bytes OK
+2024/06/09-15:57:52.699 4c50 Delete type=0 #994
+2024/06/09-16:32:09.075 4c50 Compacting 1@0 + 1@1 files
+2024/06/09-16:32:09.089 4c50 Generated table #1000@0: 44 keys, 93616 bytes
+2024/06/09-16:32:09.089 4c50 Compacted 1@0 + 1@1 files => 93616 bytes
+2024/06/09-16:32:09.093 4c50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/09-16:32:09.094 4c50 Delete type=2 #997
+2024/06/09-16:32:09.094 4c50 Delete type=2 #999
+2024/06/09-16:43:09.509 4c4f Level-0 table #1002: started
+2024/06/09-16:43:09.529 4c4f Level-0 table #1002: 350323 bytes OK
+2024/06/09-16:43:09.533 4c4f Delete type=0 #998
+2024/06/09-16:55:10.396 4c50 Compacting 1@0 + 1@1 files
+2024/06/09-16:55:10.410 4c50 Generated table #1003@0: 44 keys, 92679 bytes
+2024/06/09-16:55:10.411 4c50 Compacted 1@0 + 1@1 files => 92679 bytes
+2024/06/09-16:55:10.414 4c50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/09-16:55:10.414 4c50 Delete type=2 #1000
+2024/06/09-16:55:10.414 4c50 Delete type=2 #1002
+2024/06/09-16:59:10.549 4c50 Level-0 table #1005: started
+2024/06/09-16:59:10.568 4c50 Level-0 table #1005: 348655 bytes OK
+2024/06/09-16:59:10.573 4c50 Delete type=0 #1001
+2024/06/09-17:10:42.798 4c4f Level-0 table #1007: started
+2024/06/09-17:10:42.816 4c4f Level-0 table #1007: 348395 bytes OK
+2024/06/09-17:10:42.822 4c4f Delete type=0 #1004
+2024/06/09-17:21:12.046 4c50 Compacting 2@0 + 1@1 files
+2024/06/09-17:21:12.067 4c50 Generated table #1008@0: 46 keys, 90741 bytes
+2024/06/09-17:21:12.067 4c50 Compacted 2@0 + 1@1 files => 90741 bytes
+2024/06/09-17:21:12.071 4c50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/09-17:21:12.072 4c50 Delete type=2 #1003
+2024/06/09-17:21:12.072 4c50 Delete type=2 #1005
+2024/06/09-17:21:12.072 4c50 Delete type=2 #1007
+2024/06/09-17:55:27.824 4c50 Level-0 table #1010: started
+2024/06/09-17:55:27.843 4c50 Level-0 table #1010: 357119 bytes OK
+2024/06/09-17:55:27.848 4c50 Delete type=0 #1006
+2024/06/09-17:57:17.892 4c52 Level-0 table #1012: started
+2024/06/09-17:57:17.917 4c52 Level-0 table #1012: 349450 bytes OK
+2024/06/09-17:57:17.922 4c52 Delete type=0 #1009
+2024/06/09-18:04:15.973 4c50 Compacting 2@0 + 1@1 files
+2024/06/09-18:04:15.992 4c50 Generated table #1013@0: 68 keys, 96322 bytes
+2024/06/09-18:04:15.992 4c50 Compacted 2@0 + 1@1 files => 96322 bytes
+2024/06/09-18:04:15.998 4c50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/09-18:04:15.999 4c50 Delete type=2 #1008
+2024/06/09-18:04:15.999 4c50 Delete type=2 #1010
+2024/06/09-18:04:15.999 4c50 Delete type=2 #1012

@@ -1,0 +1,14 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 10px;
+      background-color:gray;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .form{
+        display: flex;
+        flex-direction: column;
+    }

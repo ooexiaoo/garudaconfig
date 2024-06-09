@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://wolfr13:1205mongo@cluster0.xdkd2iw.mongodb.net
+TOKEN_SECRET=eyJhbGciOiJIUzUxMiJ9.eyJkYXRhIjp7InRva2VuIjoiNDViYzVlZThkYmM0ZmIzNzhlZGU5ZmE3NWNjOGE0ODUifX0.QEWeCq_InAhJLUsPus8nfnIOu7SEpTio6I5sJHwdKsHeeERFwWqhjhAAcZWL8yyUR9MPynhwui09KcLQNmc5Bw
+DOMAIN=http://127.0.0.1:3000

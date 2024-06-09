@@ -1,0 +1,447 @@
+[05387583-07fc-4d88-97d4-7c53867be410]
+Description=Application settings for kawaiidoro-thekawaiianimepomodorotimer-nativefier-f7ad3e
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=kawaiidoro-thekawaiianimepomodorotimer-nativefier-f7ad3e
+wmclassmatch=1
+
+[07e6d5f3-ef92-49f2-921f-ebc4c460a807]
+Description=Application settings for obsidian
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=obsidian
+wmclassmatch=1
+
+[1]
+Description=Application settings for org.kde.konsole
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[10]
+Description=Application settings for code-oss
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=code-oss
+wmclassmatch=1
+
+[11]
+Description=Application settings for plasma-systemmonitor
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=plasma-systemmonitor
+wmclassmatch=1
+
+[12]
+Description=Application settings for plasmashell
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=plasmashell
+wmclassmatch=1
+
+[13]
+Description=Application settings for konsole
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=konsole
+wmclassmatch=1
+
+[14]
+Description=Application settings for firedragon
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=Navigator firedragon
+wmclasscomplete=true
+wmclassmatch=1
+
+[15]
+Description=Application settings for dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=dolphin
+wmclassmatch=1
+
+[16]
+Description=Application settings for NoiseTorch-ng
+clientmachine=localhost
+noborder=true
+noborderrule=2
+skipswitcher=true
+type=5
+typerule=2
+wmclass=NoiseTorch-ng
+wmclassmatch=1
+
+[17]
+Description=Application settings for org.kde.dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[18]
+Description=Application settings for systemsettings
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=systemsettings
+wmclassmatch=1
+
+[19bbb7cb-640b-498b-84ec-595eeb00ea65]
+Description=Application settings for code-oss
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=code-oss
+wmclassmatch=1
+
+[2]
+Description=Application settings for FreeTube
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=freetube FreeTube
+wmclasscomplete=true
+wmclassmatch=1
+
+[22fb3e6c-aee6-4567-9a71-99ba1bde2584]
+Description=Application settings for Spotify
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=spotify Spotify
+wmclasscomplete=true
+wmclassmatch=1
+
+[2851de92-760a-4648-856d-c30ad36a97c5]
+Description=Application settings for org.kde.kate
+noborder=true
+noborderrule=2
+wmclass=kate org.kde.kate
+wmclasscomplete=true
+wmclassmatch=1
+
+[2a786875-525f-4466-aa4d-66234caccbae]
+Description=Application settings for dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=dolphin
+wmclassmatch=1
+
+[2bbf4fab-e626-4a9f-b558-af9612c5cfa9]
+Description=Application settings for konsole
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=konsole
+wmclassmatch=1
+
+[2d10f4d9-4def-4272-98bd-4ee062a75184]
+Description=Application settings for org.kde.dolphin
+noborder=true
+noborderrule=2
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[3]
+Description=Application settings for soffice.bin
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=soffice.bin
+wmclassmatch=1
+
+[352bf943-b332-43a7-a05d-b21ff6ffdc48]
+Description=Application settings for realminvader.exe
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=realminvader.exe
+wmclassmatch=1
+
+[3f549e24-3424-4f6d-97c5-021139712dc9]
+Description=Application settings for org.kde.konsole
+noborder=true
+noborderrule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[4]
+Description=Application settings for Spacedrive
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=spacedrive Spacedrive
+wmclasscomplete=true
+wmclassmatch=1
+
+[488f175a-dc16-4b07-96c3-5b417123be6e]
+Description=Application settings for Brave-browser
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=brave-browser Brave-browser
+wmclasscomplete=true
+wmclassmatch=1
+
+[4a55c4b1-b72c-458e-89e4-394e4cd9dd7f]
+Description=Application settings for firedragon
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=Navigator firedragon
+wmclasscomplete=true
+wmclassmatch=1
+
+[5]
+Description=Application settings for Free Download Manager
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=fdm Free Download Manager
+wmclasscomplete=true
+wmclassmatch=1
+
+[54c2d354-3945-42ab-bd6f-ef4fa8363c18]
+Description=Application settings for kate
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=kate
+wmclassmatch=1
+
+[5a39a35b-eb8c-4fbc-9bf3-e25642d77d69]
+Description=Application settings for plasma-systemmonitor
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=plasma-systemmonitor
+wmclassmatch=1
+
+[5f6cd995-dcf0-4de9-b0aa-ef621214c170]
+Description=Application settings for soffice.bin
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=soffice.bin
+wmclassmatch=1
+
+[6]
+Description=Application settings for Spotify
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=spotify Spotify
+wmclasscomplete=true
+wmclassmatch=1
+
+[61bc3eb1-618f-41a3-9539-8ef3a9878ff4]
+Description=Application settings for FreeTube
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=freetube FreeTube
+wmclasscomplete=true
+wmclassmatch=1
+
+[6aef98a6-2038-407a-a7e3-b8adb1313705]
+Description=Application settings for org.kde.dolphin
+noborder=true
+noborderrule=2
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[7]
+Description=Application settings for obsidian
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=obsidian
+wmclassmatch=1
+
+[7394b59b-375f-40d0-824d-2da44c9b5e8b]
+Description=Application settings for konsole
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=konsole
+wmclassmatch=1
+
+[761302d1-61ab-4e9c-b20b-ac950da6a9f4]
+Description=Application settings for plasmashell
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=plasmashell
+wmclassmatch=1
+
+[7ce8fbde-6e9b-4cc0-9803-21d0609dcc52]
+Description=Application settings for systemsettings
+noborder=true
+noborderrule=2
+wmclass=systemsettings
+wmclassmatch=1
+
+[7dc985a3-b614-4c8d-bacc-f69ca213fadf]
+Description=Application settings for Spotify
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=spotify Spotify
+wmclasscomplete=true
+wmclassmatch=1
+
+[8]
+Description=Application settings for kate
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=kate
+wmclassmatch=1
+
+[81be2cb3-c7e5-41bf-9129-cb4fa66d12ee]
+Description=Application settings for NoiseTorch-ng
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=NoiseTorch-ng
+wmclassmatch=1
+
+[9]
+Description=Application settings for Brave-browser
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=brave-browser Brave-browser
+wmclasscomplete=true
+wmclassmatch=1
+
+[9e8c7a6f-a866-4139-b840-1fd967c09aa8]
+Description=Application settings for Brave-browser
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=brave-browser Brave-browser
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=18
+rules=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+
+[a262527b-64ea-44cd-9f1f-7e0905e5c770]
+Description=Application settings for NoiseTorch
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=NoiseTorch
+wmclassmatch=1
+
+[a37c8ec3-01a2-4904-a03f-e4461cf27815]
+Description=Application settings for Free Download Manager
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=fdm Free Download Manager
+wmclasscomplete=true
+wmclassmatch=1
+
+[a9605da7-9c33-4717-948c-7c6665166369]
+Description=Application settings for kate
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=kate
+wmclassmatch=1
+
+[b107f6f5-6189-4332-bbc1-d562d5709be5]
+Description=Application settings for Postman
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=postman Postman
+wmclasscomplete=true
+wmclassmatch=1
+
+[c9988809-3f74-46fb-9278-a14c1e4e59b5]
+Description=Application settings for dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=dolphin
+wmclassmatch=1
+
+[d368a9d9-6458-4ee2-b8ac-5c736fac2910]
+Description=Application settings for firewall-config
+noborder=true
+noborderrule=2
+wmclass=python3.11 firewall-config
+wmclasscomplete=true
+wmclassmatch=1
+
+[d6d7ed3b-2f9b-49d6-97d9-b164de925d3a]
+Description=Application settings for code-oss
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=code-oss
+wmclassmatch=1
+
+[e0747851-cf82-47f9-9a8b-2d58aabb013d]
+Description=Application settings for Spacedrive
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=spacedrive Spacedrive
+wmclasscomplete=true
+wmclassmatch=1
+
+[e1f2e0d9-eb9f-43b0-a963-7f30473bea60]
+Description=Application settings for org.kde.konsole
+noborder=true
+noborderrule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[ee5e980b-1ff6-4f7f-9ac0-9f7734cfc861]
+Description=Application settings for obsidian
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=obsidian
+wmclassmatch=1
+
+[f04185d0-4747-4caa-a0a5-704885c26887]
+Description=Application settings for vlc
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=vlc
+wmclassmatch=1
+
+[f6305b21-068e-46b3-82b5-2d262fdca094]
+Description=Application settings for MongoDB Compass
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=mongodb compass MongoDB Compass
+wmclasscomplete=true
+wmclassmatch=1

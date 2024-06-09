@@ -1,0 +1,15 @@
+[MainWindow]
+1920x1080 screen: Height=998
+1920x1080 screen: Width=952
+1920x1080 screen: XPosition=963
+1920x1080 screen: YPosition=77
+CommandList=
+HostList=
+LVDS-1=LVDS-1
+MenuBar=Disabled
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAA7gAAAPQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=1
+isMinimized=false

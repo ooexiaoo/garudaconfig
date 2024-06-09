@@ -1,0 +1,10 @@
+const mongoose = require("mongoose");
+const mongoURI = "mongodb+srv://wolfr13:<password>@cluster0.xdkd2iw.mongodb.net/";
+
+const connectToMongo = () => {
+    mongoose.connect(mongoURI, () => {
+        console.log("Connected to mongo successfully");
+    })
+}
+
+module.exports = connectToMongo

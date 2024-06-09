@@ -1,0 +1,20 @@
+2024-05-31 13:50:01.682 [info] Deleted uninstalled extension from disk codeium.codeium /home/exia/.vscode-oss/extensions/codeium.codeium-1.8.37-universal
+2024-05-31 13:50:08.932 [info] Getting Manifest... codeium.codeium
+2024-05-31 13:50:10.525 [info] Installing extension: codeium.codeium
+2024-05-31 13:50:14.464 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+2024-05-31 13:50:14.466 [info] Extension signature verification is not done: codeium.codeium
+2024-05-31 13:50:15.074 [info] Extracted extension to file:///home/exia/.vscode-oss/extensions/codeium.codeium-1.8.50-universal: codeium.codeium
+2024-05-31 13:50:15.085 [info] Renamed to /home/exia/.vscode-oss/extensions/codeium.codeium-1.8.50-universal
+2024-05-31 13:50:15.092 [info] Extracting extension completed. codeium.codeium
+2024-05-31 13:50:15.127 [info] Extension installed successfully: codeium.codeium
+2024-05-31 13:50:15.146 [info] Marked extension as uninstalled codeium.codeium-1.8.45-universal
+2024-05-31 13:50:15.208 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp'
+    at a.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

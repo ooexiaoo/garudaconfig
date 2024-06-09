@@ -1,0 +1,6 @@
+2024/03/28-07:17:06.398 1e9a Creating DB /home/exia/.config/Postman/Partitions/84d03303-a1a2-4919-95d7-ce6ba03d6a8c/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2024/03/28-07:17:06.415 1e9a Reusing MANIFEST /home/exia/.config/Postman/Partitions/84d03303-a1a2-4919-95d7-ce6ba03d6a8c/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/03/28-07:17:06.426 1edf Level-0 table #5: started
+2024/03/28-07:17:06.432 1edf Level-0 table #5: 482 bytes OK
+2024/03/28-07:17:06.450 1edf Delete type=0 #3
+2024/03/28-07:17:06.450 1edf Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

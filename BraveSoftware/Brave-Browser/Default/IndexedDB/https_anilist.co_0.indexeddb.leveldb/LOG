@@ -1,0 +1,7 @@
+2024/05/12-20:33:27.903 ebe Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_anilist.co_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/12-20:33:27.904 ebe Recovering log #3
+2024/05/12-20:33:27.904 ebe Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_anilist.co_0.indexeddb.leveldb/000003.log 
+2024/05/12-20:34:24.261 ebc Level-0 table #5: started
+2024/05/12-20:34:24.265 ebc Level-0 table #5: 1602 bytes OK
+2024/05/12-20:34:24.269 ebc Delete type=0 #3
+2024/05/12-20:34:24.269 ebc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

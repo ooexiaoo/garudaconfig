@@ -1,0 +1,28 @@
+2024-06-01 12:36:36.574 [info] Log level: Info
+2024-06-01 12:36:36.574 [info] Validating found git in: "git"
+2024-06-01 12:36:36.574 [info] Using git "2.45.1" from "git"
+2024-06-01 12:36:36.574 [info] > git rev-parse --show-toplevel [14ms]
+2024-06-01 12:36:36.574 [info] fatal: detected dubious ownership in repository at '/mnt/MINE/backup/Projects/Random Projects/TEST'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/mnt/MINE/backup/Projects/Random Projects/TEST'
+2024-06-01 12:36:36.574 [info] > git rev-parse --show-toplevel [19ms]
+2024-06-01 12:36:36.574 [info] fatal: detected dubious ownership in repository at '/mnt/MINE/backup/Projects/Random Projects/TEST'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/mnt/MINE/backup/Projects/Random Projects/TEST'
+2024-06-01 12:36:36.601 [info] > git rev-parse --show-toplevel [11ms]
+2024-06-01 12:36:36.601 [info] fatal: detected dubious ownership in repository at '/mnt/MINE/backup/Projects/Random Projects/TEST'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/mnt/MINE/backup/Projects/Random Projects/TEST'
+2024-06-01 12:36:39.058 [info] > git rev-parse --show-toplevel [206ms]
+2024-06-01 12:36:39.058 [info] fatal: detected dubious ownership in repository at '/mnt/MINE/backup/Projects/Random Projects/TEST'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/mnt/MINE/backup/Projects/Random Projects/TEST'
+2024-06-01 12:36:39.262 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-01 12:36:39.262 [info] fatal: detected dubious ownership in repository at '/mnt/MINE/backup/Projects/Random Projects/TEST'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/mnt/MINE/backup/Projects/Random Projects/TEST'

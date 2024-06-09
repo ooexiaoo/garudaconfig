@@ -1,0 +1,7 @@
+2024-06-08 11:32:40.678 [INFO]: No proxy settings found
+2024-06-08 11:32:45.688 [ERROR]: Failed to initialize Unleash: undefined
+2024-06-08 11:32:55.804 [ERROR]: [deadline_exceeded] the operation timed out
+2024-06-08 11:32:55.806 [ERROR]: Failed to get user status from API server [deadline_exceeded] the operation timed out
+2024-06-08 11:32:55.827 [INFO]: Creating manager directory: /tmp/7f07ea7f-3553-459f-aa15-3d563eac40fa/codeium/manager
+2024-06-08 11:32:55.833 [INFO]: a6fe046230abf98ffec08c41e07bd70c108ee4a2 not found, downloading language server
+2024-06-08 11:32:55.872 [INFO]: No proxy settings found

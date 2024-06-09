@@ -1,0 +1,42 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[FullScreen]
+FullScreenModeActive=true
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+1920x1080 screen: Height=990
+1920x1080 screen: Width=1910
+1920x1080 screen: XPosition=5
+1920x1080 screen: YPosition=85
+LVDS-1=LVDS-1
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=/mnt/G/Anime/Yesterday/NHNL/Twitter/IMG_20200530_183731.jpg
+File10[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/046.webp
+File2[$e]=/mnt/G/Anime/Yesterday/NHNL/Twitter/IMG_20200530_183728.jpg
+File3[$e]=/mnt/MINE/Inshot/Screenshot_20200131_144112.jpg
+File4[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/credit.webp
+File5[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/048.webp
+File6[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/047.webp
+File7[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/043.webp
+File8[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/044.webp
+File9[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/045.webp
+Name1[$e]=IMG_20200530_183731.jpg
+Name10[$e]=046.webp
+Name2[$e]=IMG_20200530_183728.jpg
+Name3[$e]=Screenshot_20200131_144112.jpg
+Name4[$e]=credit.webp
+Name5[$e]=048.webp
+Name6[$e]=047.webp
+Name7[$e]=043.webp
+Name8[$e]=044.webp
+Name9[$e]=045.webp
+
+[SideBar]
+InformationSplitterSizes=216,239

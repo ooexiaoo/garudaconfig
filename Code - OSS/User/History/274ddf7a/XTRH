@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://wolfr13:1205mongo@cluster0.xdkd2iw.mongodb.net
+TOKEN_SECRET=CHAIAURCODE
+DOMAIN=http://localhost:3000

@@ -1,0 +1,7 @@
+2024/06/07-18:23:41.728 8f5 Creating DB /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
+2024/06/07-18:23:41.739 8f5 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/07-18:23:41.835 907 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/07-18:23:44.906 8f6 Level-0 table #5: started
+2024/06/07-18:23:44.910 8f6 Level-0 table #5: 3896 bytes OK
+2024/06/07-18:23:44.914 8f6 Delete type=0 #3
+2024/06/07-18:23:44.917 8f6 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,307 @@
+2024-05-31 13:50:10.145 [INFO]: No proxy settings found
+2024-05-31 13:50:12.912 [INFO]: Creating manager directory: /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager
+2024-05-31 13:50:14.937 [INFO]: Using cached LS with valid crc32: /home/exia/.vscode-oss/extensions/codeium.codeium-1.8.45-universal/dist/83dadda2bd1a9946542096cce0cfd2bb4d2a9074/language_server_linux_x64
+2024-05-31 13:50:14.959 [INFO]: Language server started
+2024-05-31 13:50:15.198 [INFO]: [Language Server (stderr)]:
+I0531 13:50:15.195448 60654 main.go:555] Starting language server manager with pid 60654
+I0531 13:50:15.195695 60654 main.go:110] Manager acquired its lock file /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager/locks/manager.lock
+2024-05-31 13:50:15.202 [INFO]: [Language Server (stderr)]:
+I0531 13:50:15.197533 60654 main.go:248] Waiting for random port file in /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager/child_random_port_1717143615195960280_627187153366655403 to be created
+2024-05-31 13:50:15.440 [INFO]: [Language Server (stderr)]:
+I0531 13:50:15.437804 60661 main.go:549] Starting language server process with pid 60661
+I0531 13:50:15.438228 60661 server.go:154] Language server will attempt to listen on host 127.0.0.1
+2024-05-31 13:50:15.441 [INFO]: [Language Server (stderr)]:
+I0531 13:50:15.438763 60661 server.go:161] Language server listening on random port at 46797
+I0531 13:50:15.439104 60661 proxy.go:113] proxyplease.proxy> No proxy provided. Attempting to infer from system.
+I0531 13:50:15.439209 60661 proxy.go:113] proxyplease.proxy> No proxy could be determined. Assuming a direct connection.
+I0531 13:50:15.439297 60661 client.go:589] [DEBUG] GET https://server.codeium.com/exa.api_server_pb.ApiServerService/GetCompletions
+2024-05-31 13:50:16.413 [INFO]: [Language Server (stderr)]:
+I0531 13:50:16.411217 60661 unleash.go:90] Initializing Unleash
+2024-05-31 13:50:17.178 [INFO]: [Language Server (stderr)]:
+I0531 13:50:17.171111 60661 unleash.go:110] Successfully initialized Unleash
+2024-05-31 13:50:17.220 [INFO]: [Language Server (stderr)]:
+E0531 13:50:17.218767 60661 client_manager.go:270] Metadata is nil when trying to refresh user JWT
+2024-05-31 13:50:17.936 [INFO]: [Language Server (stderr)]:
+I0531 13:50:17.934617 60661 server.go:353] Successfully created API server client
+2024-05-31 13:50:18.075 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.070065 60661 server.go:362] Successfully initialized tokenizer
+2024-05-31 13:50:18.077 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.074710 60661 server.go:461] Local search is enabled, will index local files.
+I0531 13:50:18.074789 60661 server.go:465] Using 1 indexer workers
+I0531 13:50:18.074907 60661 search_provider.go:192] Using database at /home/exia/.codeium/database/9c0694567290725d9dcba14ade58e297/2/MODEL_EMBED_6591
+2024-05-31 13:50:18.091 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.089307 60661 database.go:121] Bad db state detected: false
+I0531 13:50:18.090018 60661 search_provider.go:205] Successfully created embedding search database in 15ms
+2024-05-31 13:50:18.094 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.091552 60661 search_provider.go:227] Successfully created and started indexer
+I0531 13:50:18.091681 60661 search_provider.go:253] Successfully created embedding search provider
+I0531 13:50:18.091705 60661 server.go:499] Successfully created exact search provider
+2024-05-31 13:50:18.112 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.108302 60661 server.go:527] Successfully created completion provider
+2024-05-31 13:50:18.114 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.109865 60661 server.go:575] Child process attempting to acquire lock file /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager/locks/child_lock_1717143615196077028_1303087424130090485
+I0531 13:50:18.110212 60661 server.go:583] Child process acquired lock file /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager/locks/child_lock_1717143615196077028_1303087424130090485
+2024-05-31 13:50:18.134 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.132522 60661 server.go:181] LSP listening on random port at 38329
+2024-05-31 13:50:18.138 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.133697 60661 web_server.go:239] Chat Web Server listening at ws://127.0.0.1:39515
+2024-05-31 13:50:18.215 [INFO]: [Language Server (stdout)]:
+38329
+2024-05-31 13:50:18.220 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.212454 60654 main.go:284] Language server manager found random server port 46797
+I0531 13:50:18.212661 60654 main.go:285] Language server manager found random lsp port 38329
+I0531 13:50:18.212729 60654 main.go:292] Language server manager attempting to connect to language server at 127.0.0.1:46797
+2024-05-31 13:50:18.280 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.277353 60654 main.go:163] Fixing language server port at 46797
+I0531 13:50:18.277535 60654 main.go:343] Language server manager successfully connected to new language server at 127.0.0.1:46797
+2024-05-31 13:50:18.355 [INFO]: Found language server running on port 46797
+2024-05-31 13:50:18.400 [INFO]: Downloaded binary: /home/exia/.codeium/bin/af6b6c543b224d348a8876f0c06245d9ea7929c5/ripgrep_linux_x64
+2024-05-31 13:50:18.473 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.470604 60661 rpcs_miscellaneous.go:118] Ripgrep available at /home/exia/.codeium/bin/af6b6c543b224d348a8876f0c06245d9ea7929c5/ripgrep_linux_x64
+2024-05-31 13:50:18.501 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.498771 60661 utils.go:163] Analyzing workspace files for /mnt/MINE/backup/Projects/Random Projects/Matrix/
+2024-05-31 13:50:18.520 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.517238 60661 utils.go:223] Done analyzing workspace files for /mnt/MINE/backup/Projects/Random Projects/Matrix/
+I0531 13:50:18.517298 60661 lsp.go:207] Found 38 files in workspace /mnt/MINE/backup/Projects/Random Projects/Matrix/
+2024-05-31 13:50:18.524 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.522242 60661 indexing_listener.go:187] Add workspace event with uid: 1
+2024-05-31 13:50:18.728 [INFO]: [Language Server (stderr)]:
+I0531 13:50:18.720311 60661 rpcs_miscellaneous.go:312] University version is up to date.
+2024-05-31 13:50:20.137 [INFO]: [Language Server (stderr)]:
+I0531 13:50:20.135857 60661 lazy_model.go:29] Successfully created faiss index
+2024-05-31 13:50:31.745 [INFO]: [Language Server (stderr)]:
+I0531 13:50:31.734952 60661 indexing_listener.go:220] Done enqueue workspace with uid: 1
+2024-05-31 13:51:01.245 [INFO]: [Language Server (stderr)]:
+E0531 13:51:01.190535 60661 embedding.go:34] GetEmbeddings error: inference api server wire error: unavailable: rpc error: code = Unavailable desc = closing transport due to: connection error: desc = "error reading from server: read tcp 10.102.40.204:58988->10.102.199.92:50050: read: connection reset by peer", received prior goaway: code: NO_ERROR: rpc error: code = Unavailable desc = closing transport due to: connection error: desc = "error reading from server: read tcp 10.102.40.204:58988->10.102.199.92:50050: read: connection reset by peer", received prior goaway: code: NO_ERROR
+2024-05-31 13:51:09.492 [INFO]: Completion request was cancelled by token (115.31ms)
+2024-05-31 13:51:10.612 [INFO]: Completion request succeeded (1073.06ms)
+2024-05-31 13:51:10.618 [INFO]: No completions were generated
+2024-05-31 13:51:10.619 [INFO]: provideInlineCompletionItems request succeeded (1083.35ms)
+2024-05-31 13:51:18.417 [INFO]: [Language Server (stderr)]:
+E0531 13:51:18.413253 60661 unleash.go:60] Unleash error: Post "https://unleash.codeium.com/api/client/metrics": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2024-05-31 13:51:30.011 [INFO]: Completion request was cancelled by token (61.25ms)
+2024-05-31 13:51:30.428 [INFO]: Completion request was cancelled by token (359.67ms)
+2024-05-31 13:51:30.716 [INFO]: Completion request was cancelled by token (239.52ms)
+2024-05-31 13:51:31.443 [INFO]: Completion request succeeded (678.67ms)
+2024-05-31 13:51:31.447 [INFO]: No completions were generated
+2024-05-31 13:51:31.448 [INFO]: provideInlineCompletionItems request succeeded (686.41ms)
+2024-05-31 13:53:37.015 [INFO]: Completion request was cancelled by token (51.52ms)
+2024-05-31 13:53:37.101 [INFO]: Completion request was cancelled by token (71.32ms)
+2024-05-31 13:53:37.236 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:38.913 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:39.477 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:39.913 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:40.233 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:41.474 [INFO]: Completion request was cancelled by token (116.56ms)
+2024-05-31 13:53:41.530 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:41.739 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:41.956 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:53:43.208 [INFO]: Skipping completions because autocomplete is open
+2024-05-31 13:54:15.520 [INFO]: Completion request was cancelled by token (62.67ms)
+2024-05-31 13:54:15.812 [INFO]: Completion request was cancelled by token (230.69ms)
+2024-05-31 13:54:16.023 [INFO]: Completion request was cancelled by token (145.1ms)
+2024-05-31 13:54:16.745 [INFO]: Completion request succeeded (673.49ms)
+2024-05-31 13:54:16.750 [INFO]: No completions were generated
+2024-05-31 13:54:16.751 [INFO]: provideInlineCompletionItems request succeeded (681.82ms)
+2024-05-31 13:54:53.098 [INFO]: Completion request was cancelled by token (527.45ms)
+2024-05-31 13:54:53.738 [INFO]: Completion request succeeded (603.46ms)
+2024-05-31 13:54:53.743 [INFO]: Generated 1 completion
+2024-05-31 13:54:53.752 [INFO]: provideInlineCompletionItems request succeeded (618.86ms)
+2024-05-31 13:54:54.683 [INFO]: Completion request was cancelled by token (144.2ms)
+2024-05-31 13:54:55.998 [INFO]: Completion request succeeded (1225.36ms)
+2024-05-31 13:54:56.004 [INFO]: Generated 6 completions
+2024-05-31 13:54:56.021 [INFO]: provideInlineCompletionItems request succeeded (1253.94ms)
+2024-05-31 13:56:26.728 [INFO]: Completion request was cancelled by token (414.09ms)
+2024-05-31 13:56:27.304 [INFO]: Completion request was cancelled by token (529.18ms)
+2024-05-31 13:56:28.460 [INFO]: Completion request succeeded (1103.91ms)
+2024-05-31 13:56:28.465 [INFO]: No completions were generated
+2024-05-31 13:56:28.466 [INFO]: provideInlineCompletionItems request succeeded (1111.4ms)
+2024-05-31 13:57:53.942 [INFO]: Completion request was cancelled by token (108.22ms)
+2024-05-31 13:57:54.062 [INFO]: Completion request was cancelled by token (55.07ms)
+2024-05-31 13:57:54.304 [INFO]: Completion request was cancelled by token (201.83ms)
+2024-05-31 13:57:54.990 [INFO]: Completion request succeeded (632.81ms)
+2024-05-31 13:57:54.994 [INFO]: No completions were generated
+2024-05-31 13:57:54.995 [INFO]: provideInlineCompletionItems request succeeded (638.71ms)
+2024-05-31 13:58:03.666 [INFO]: Completion request was cancelled by token (65.98ms)
+2024-05-31 13:58:04.032 [INFO]: Completion request was cancelled by token (311.25ms)
+2024-05-31 13:58:04.208 [INFO]: Completion request was cancelled by token (125.12ms)
+2024-05-31 13:58:05.071 [INFO]: Completion request succeeded (811.61ms)
+2024-05-31 13:58:05.081 [INFO]: No completions were generated
+2024-05-31 13:58:05.084 [INFO]: provideInlineCompletionItems request succeeded (825.26ms)
+2024-05-31 13:58:07.417 [INFO]: Completion request was cancelled by token (76.06ms)
+2024-05-31 13:58:07.682 [INFO]: Completion request was cancelled by token (211.55ms)
+2024-05-31 13:58:07.925 [INFO]: Completion request was cancelled by token (181.43ms)
+2024-05-31 13:58:08.960 [INFO]: Completion request succeeded (963.81ms)
+2024-05-31 13:58:08.967 [INFO]: No completions were generated
+2024-05-31 13:58:08.970 [INFO]: provideInlineCompletionItems request succeeded (977.86ms)
+2024-05-31 13:58:16.496 [INFO]: Completion request was cancelled by token (99.84ms)
+2024-05-31 13:58:16.755 [INFO]: Completion request was cancelled by token (215.4ms)
+2024-05-31 13:58:16.934 [INFO]: Completion request was cancelled by token (133.02ms)
+2024-05-31 13:58:17.678 [INFO]: Completion request succeeded (692.46ms)
+2024-05-31 13:58:17.681 [INFO]: No completions were generated
+2024-05-31 13:58:17.682 [INFO]: provideInlineCompletionItems request succeeded (699.74ms)
+2024-05-31 13:59:08.759 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:08.855 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:17.509 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:17.678 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:17.819 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:20.795 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:21.346 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:21.551 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:21.667 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:21.909 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:22.256 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:22.410 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:22.607 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:22.773 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:24.044 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:24.259 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:24.525 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:24.647 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:24.824 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:24.969 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:25.070 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:25.351 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:26.012 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:26.565 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:26.870 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:27.022 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:27.183 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:27.278 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:28.944 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:29.820 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:29.886 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:30.487 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:30.612 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:31.030 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:31.219 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:31.453 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:31.578 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:31.666 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:32.649 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:32.794 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:32.908 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:33.660 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:33.868 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:34.072 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:34.207 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:34.334 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:34.519 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:34.622 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:34.714 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:34.896 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:35.093 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:35.222 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:35.432 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:35.891 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:36.034 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:36.159 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:36.281 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:37.012 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:37.138 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:37.210 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:37.326 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:37.575 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:37.894 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:38.060 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:38.129 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:38.541 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:38.696 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:39.007 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:39.615 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:39.718 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:42.755 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:42.838 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:43.324 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:43.436 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:43.551 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:44.018 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:45.138 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:45.866 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:47.007 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:47.112 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:47.568 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:48.939 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:49.112 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:49.204 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:49.392 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:49.496 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:49.678 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:59.342 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:59.454 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:59.566 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 13:59:59.634 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:00.483 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:00.655 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:00.805 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:01.432 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:02.258 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:02.357 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:02.506 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:16.710 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:17.279 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:17.498 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:18.312 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:18.450 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:18.988 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:19.068 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:19.206 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:19.410 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:19.536 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:19.596 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:19.797 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:19.951 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:20.029 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:20.094 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:20.191 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:20.627 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:20.880 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:21.081 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:21.800 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:21.930 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:22.107 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:22.191 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:22.283 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:22.383 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:22.526 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:23.905 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:25.725 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:26.002 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:26.073 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:26.374 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:26.498 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:26.581 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:26.991 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:27.903 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:28.060 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:29.675 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:29.791 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:30.389 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:30.676 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:30.847 [INFO]: Codeium is not enabled for the current document.
+2024-05-31 14:00:46.185 [INFO]: Completion request was cancelled by token (490.04ms)
+2024-05-31 14:00:46.446 [INFO]: Completion request was cancelled by token (224.92ms)
+2024-05-31 14:00:47.546 [INFO]: Completion request succeeded (1007.21ms)
+2024-05-31 14:00:47.561 [INFO]: No completions were generated
+2024-05-31 14:00:47.562 [INFO]: provideInlineCompletionItems request succeeded (1029.37ms)
+2024-05-31 14:01:00.610 [INFO]: Completion request was cancelled by token (355.47ms)
+2024-05-31 14:01:01.412 [INFO]: Completion request was cancelled by token (755.55ms)
+2024-05-31 14:01:01.523 [INFO]: Completion request was cancelled by token (57.46ms)
+2024-05-31 14:01:02.517 [INFO]: Completion request succeeded (928.53ms)
+2024-05-31 14:01:02.520 [INFO]: No completions were generated
+2024-05-31 14:01:02.521 [INFO]: provideInlineCompletionItems request succeeded (938.35ms)
+2024-05-31 14:01:08.569 [INFO]: Completion request was cancelled by token (166.77ms)
+2024-05-31 14:01:09.731 [INFO]: Completion request succeeded (1098.09ms)
+2024-05-31 14:01:09.754 [INFO]: No completions were generated
+2024-05-31 14:01:09.760 [INFO]: provideInlineCompletionItems request succeeded (1131.17ms)
+2024-05-31 14:01:23.069 [INFO]: Completion request succeeded (1029.23ms)
+2024-05-31 14:01:23.073 [INFO]: No completions were generated
+2024-05-31 14:01:23.074 [INFO]: provideInlineCompletionItems request succeeded (1038.07ms)
+2024-05-31 14:01:42.971 [INFO]: Disposing language server process
+2024-05-31 14:01:42.973 [INFO]: Deleting manager directory: /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager
+2024-05-31 14:01:42.980 [INFO]: Successfully disposed language server
+2024-05-31 14:01:43.086 [INFO]: [Language Server (stderr)]:
+W0531 14:01:42.973854 60654 main.go:114] Language server manager got signal terminated, shutting down
+E0531 14:01:42.996330 60654 main.go:357] Failed to acquire lock on /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager/locks/child_lock_1717143615196077028_1303087424130090485: open /tmp/f29b86b0-cff3-4cd1-84e2-3f444484ef0b/codeium/manager/locks/child_lock_1717143615196077028_1303087424130090485: no such file or directory
+I0531 14:01:43.001009 60661 server.go:684] Exit requested on language server process 60661
+I0531 14:01:43.006897 60661 server.go:661] Language server shutting down

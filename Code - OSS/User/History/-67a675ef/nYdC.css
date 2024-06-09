@@ -1,0 +1,357 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --menu: #ffbe0b;
+  --about: #fb5607;
+  --gallery: #ff006e;
+  --resources: #8338ec;
+  --blog: #3a86ff;
+  --bg: #001219;
+  --white: #fff;
+  --contact: #d62828;
+  --careers: #000;
+}
+body {
+  font-family: "Space Mono", monospace;
+  color: white;
+  max-width: 1200px;
+  margin: 0 auto; /* Center the body horizontally */
+  margin-bottom: 50px;
+  padding: 0px 10px; /* Add padding to maintain spacing */
+  box-sizing: border-box; /* Include padding and border in the total width */
+  display: flex;
+  flex-direction: column; /* Arrange contents in a column */
+  align-items: start; /* Center contents horizontally */
+
+  background-color: var(--bg);
+  opacity: 0.9;
+  background-size: 13px 13px;
+  background-image: repeating-linear-gradient(
+    45deg,
+    #4b4b4b 0,
+    #535353 1.3px,
+    #282828 0,
+    #282828 50%
+  );
+}
+
+.main {
+  max-width: 1200px; /* Set max-width for the container */
+  margin: 0;
+  padding: 0; /* Add padding to maintain spacing */
+  box-sizing: border-box; /* Include padding and border in the total width */
+  display: flex;
+  flex-direction: column; /* Arrange contents in a column */
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: left;
+  width: 85%;
+  max-width: 950px;
+  float: left;
+  height: 100%;
+  margin: 15px 250px 0 0;
+  padding: 0;
+}
+
+.menu {
+  width: 15%;
+  max-width: 150px;
+  min-width: 100px; /* Set a minimum width to ensure menu content remains visible */
+  min-height: calc(100vh - 50px);
+  background-color: transparent;
+  position:fixed;
+  top: 0;
+  padding: 0 10px 0 10px; /* Adjust padding as needed */
+  box-sizing: border-box;
+  overflow-y: auto; /* Add vertical scrollbar if needed */
+  z-index: 999; /* Ensure the menu is above other content */
+}
+
+.sticky {
+  position: sticky;
+  top: 0; /* Ensure it sticks to the top of the viewport */
+}
+
+.inner-section {
+  transition: height 0.5s ease;
+}
+
+#menu-content {
+  height: calc(2 * (100vh / 9));
+}
+
+#menu-content,
+#about-content,
+#gallery-content,
+#resources-content,
+#blog-content,
+#contact-content,
+#careers-content {
+  padding: 5px;
+  border-radius: 15px;
+  margin: 5px 0 5px 0px;
+ /*  min-height: 100px; */
+  cursor: pointer;
+  transition: height 0.5s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+#menu-content {
+  background-color: var(--menu);
+}
+
+#about-content {
+  background-color: var(--about);
+}
+
+#gallery-content {
+  background-color: var(--gallery);
+}
+
+#resources-content {
+  background-color: var(--resources);
+}
+
+#blog-content {
+  background-color: var(--blog);
+}
+
+#contact-content {
+  background-color: var(--contact);
+}
+
+#careers-content {
+  background-color: var(--careers);
+}
+
+#menu-content p,
+#about-content p,
+#gallery-content p,
+#resources-content p,
+#blog-content p,
+#contact-content p,
+#careers-content p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#number {
+  font-size: 12px;
+}
+.dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: transparent; /* Set initial color */
+  transition: all 0.5s ease-in-out;
+}
+
+.active .dot {
+  background-color: var(--white); /* Change color for active state */
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px;
+}
+.section img {
+  max-width: 50%;
+  margin: 20px 50px 20px 50px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.write {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 50px;
+}
+.write h2 {
+  font-size: 4vw;
+  font-weight: 900;
+}
+.write p {
+  font-size: 2vw;
+  font-weight: 400;
+}
+
+#home-section {
+  background-color: var(--menu);
+  border-radius: 15px;
+  margin: 20px 0 20px 0px;
+}
+#about-section {
+  background-color: var(--about);
+  border-radius: 15px;
+  margin: 20px 0 20px 0px;
+}
+#gallery-section {
+  background-color: var(--gallery);
+  border-radius: 15px;
+  margin: 20px 0 20px 0px;
+}
+#resources-section {
+  background-color: var(--resources);
+  border-radius: 15px;
+  margin: 20px 0 20px 0px;
+}
+#blog-section {
+  background-color: var(--blog);
+  border-radius: 15px;
+  margin: 20px 0 20px 0px;
+}
+#contact-section {
+  background-color: var(--contact);
+  border-radius: 15px;
+  margin: 20px 0 20px 0px;
+}
+#careers-section {
+  background-color: var(--careers);
+  border-radius: 15px;
+  margin: 20px 0 20px 0px;
+}
+
+.formo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 320px;
+  margin: 50px auto;
+  background-color: var(--contact);
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.name, .email {
+  background: #333;
+  border: 0;
+  padding: 16px;
+  width: 100%;
+  border-radius: 6px;
+  color: #fff;
+  width: 250px;
+  margin: 5px;
+}
+
+
+button {
+  width: 250px;
+  display: inline-block;
+  border: 0;
+  padding: 10px;
+  background: #fff;
+  border-radius: 6px;
+  margin: 5px;
+  background-color: white;
+}
+
+
+@media screen and (min-width: 1500px) {
+  .menu {
+    right: calc(
+      50% - 900px
+    ); /* Position the menu 50% from the center of the screen */
+  }
+  .content {
+    right: calc(
+      85% - 100px
+    ); /* Position the menu 50% from the center of the screen */
+  }
+  .write h2 {
+    font-size: 48px; /* Set a specific font size at this breakpoint */
+  }
+
+  .write p {
+    font-size: 24px; /* Set a specific font size at this breakpoint */
+  }
+  .formo {
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .menu {
+    right: 0; /* Position the menu at the right edge of the screen */
+  }
+  .formo {
+    margin: auto;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .content {
+    min-width: 200px;
+    width: calc(
+      95% - 5%
+    ); /* Adjust the width of the content based on the menu width */
+    margin: 0px;
+  }
+  .menu {
+    width: 10%;
+    right: 0; /* Position the menu at the right edge of the screen */
+    min-width: 50px;
+  }
+  #home-section,
+  #about-section,
+  #gallery-section,
+  #resources-section,
+  #blog-section,
+  #contact-section,
+  #careers-section {
+    margin: 5px 0 5px 0px;
+  }
+  .section {
+    padding: 5px 10px;
+  }
+  #menu-content p,
+  #about-content p,
+  #gallery-content p,
+  #resources-content p,
+  #blog-content p,
+  #contact-content p,
+  #careers-content p {
+    font-size: 10px;
+    transform-origin: left top;
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+    writing-mode: vertical-lr;
+  }
+  .formo {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 768px){
+  .formo {
+    margin: 0;
+  }
+}

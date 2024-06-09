@@ -1,0 +1,10 @@
+2024-06-01 08:22:29.188 [INFO]: No proxy settings found
+2024-06-01 08:22:34.195 [ERROR]: Failed to initialize Unleash: undefined
+2024-06-01 08:22:44.279 [ERROR]: [deadline_exceeded] the operation timed out
+2024-06-01 08:22:44.286 [ERROR]: Failed to get user status from API server [deadline_exceeded] the operation timed out
+2024-06-01 08:22:44.318 [INFO]: Creating manager directory: /tmp/bb3792bf-676d-4a8e-8666-b12ade0fc646/codeium/manager
+2024-06-01 08:22:44.326 [INFO]: 6c2eb02148d739af823f7519cf7ba75a4a439ad9 not found, downloading language server
+2024-06-01 08:22:44.336 [INFO]: No proxy settings found
+2024-06-01 08:25:10.020 [ERROR]: Failed to download from https://github.com/Exafunction/codeium/releases/download/language-server-v1.8.50/language_server_linux_x64.gz
+2024-06-01 08:25:10.023 [ERROR]: Language server binary not found: undefined
+2024-06-01 08:25:10.039 [ERROR]: [unavailable] getaddrinfo EAI_AGAIN server.codeium.com

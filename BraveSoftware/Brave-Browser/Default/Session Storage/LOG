@@ -1,0 +1,8 @@
+2024/06/09-18:14:41.538 4 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/06/09-18:14:41.540 4 Recovering log #333
+2024/06/09-18:14:41.541 4 Level-0 table #336: started
+2024/06/09-18:14:41.550 4 Level-0 table #336: 21233 bytes OK
+2024/06/09-18:14:41.552 4 Recovering log #336
+2024/06/09-18:14:41.553 4 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000336.log 
+2024/06/09-18:14:41.569 4 Delete type=0 #333
+2024/06/09-18:14:41.569 4 Delete type=2 #337

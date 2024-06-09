@@ -1,0 +1,82 @@
+2024-06-08 14:39:46.097 [INFO]: No proxy settings found
+2024-06-08 14:39:49.601 [INFO]: Creating manager directory: /tmp/b2acf97e-783d-43a4-b8bb-6645a8e35fd5/codeium/manager
+2024-06-08 14:39:49.606 [INFO]: a6fe046230abf98ffec08c41e07bd70c108ee4a2 not found, downloading language server
+2024-06-08 14:39:49.614 [INFO]: No proxy settings found
+2024-06-08 14:40:23.179 [INFO]: Language server started
+2024-06-08 14:40:24.183 [INFO]: [Language Server (stderr)]:
+I0608 14:40:24.179306  6456 main.go:558] Starting language server manager with pid 6456
+2024-06-08 14:40:24.186 [INFO]: [Language Server (stderr)]:
+I0608 14:40:24.180776  6456 main.go:110] Manager acquired its lock file /tmp/b2acf97e-783d-43a4-b8bb-6645a8e35fd5/codeium/manager/locks/manager.lock
+I0608 14:40:24.182055  6456 main.go:248] Waiting for random port file in /tmp/b2acf97e-783d-43a4-b8bb-6645a8e35fd5/codeium/manager/child_random_port_1717837824180982027_8934475386682977081 to be created
+2024-06-08 14:40:24.450 [INFO]: [Language Server (stderr)]:
+I0608 14:40:24.445796  6464 main.go:552] Starting language server process with pid 6464
+I0608 14:40:24.445990  6464 server.go:156] Language server will attempt to listen on host 127.0.0.1
+I0608 14:40:24.446298  6464 server.go:163] Language server listening on random port at 32809
+2024-06-08 14:40:24.456 [INFO]: [Language Server (stderr)]:
+I0608 14:40:24.452094  6464 proxy.go:113] proxyplease.proxy> No proxy provided. Attempting to infer from system.
+I0608 14:40:24.452409  6464 proxy.go:113] proxyplease.proxy> No proxy could be determined. Assuming a direct connection.
+2024-06-08 14:40:24.459 [INFO]: [Language Server (stderr)]:
+I0608 14:40:24.452698  6464 client.go:589] [DEBUG] GET https://server.codeium.com/exa.api_server_pb.ApiServerService/GetCompletions
+2024-06-08 14:40:25.362 [INFO]: [Language Server (stderr)]:
+I0608 14:40:25.357269  6464 unleash.go:90] Initializing Unleash
+2024-06-08 14:40:26.098 [INFO]: [Language Server (stderr)]:
+I0608 14:40:26.094407  6464 unleash.go:110] Successfully initialized Unleash
+2024-06-08 14:40:26.171 [INFO]: [Language Server (stderr)]:
+E0608 14:40:26.168584  6464 client_manager.go:270] Metadata is nil when trying to refresh user JWT
+2024-06-08 14:40:27.033 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.027289  6464 server.go:355] Successfully created API server client
+2024-06-08 14:40:27.159 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.156158  6464 server.go:364] Successfully initialized tokenizer
+2024-06-08 14:40:27.408 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.405670  6464 server.go:471] Local search is enabled, will index local files.
+I0608 14:40:27.405755  6464 server.go:475] Using 1 indexer workers
+2024-06-08 14:40:27.415 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.405945  6464 search_provider.go:193] Using database at /home/exia/.codeium/database/9c0694567290725d9dcba14ade58e297/2/MODEL_EMBED_6591
+2024-06-08 14:40:27.428 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.427681  6464 database.go:127] Bad db state detected: false
+2024-06-08 14:40:27.436 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.434974  6464 search_provider.go:206] Successfully created embedding search database in 21ms
+2024-06-08 14:40:27.437 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.435643  6464 search_provider.go:228] Successfully created and started indexer
+I0608 14:40:27.435758  6464 search_provider.go:254] Successfully created embedding search provider
+I0608 14:40:27.435785  6464 server.go:510] Successfully created exact search provider
+2024-06-08 14:40:27.452 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.451486  6464 server.go:540] Successfully created completion provider
+I0608 14:40:27.451652  6464 server.go:589] Child process attempting to acquire lock file /tmp/b2acf97e-783d-43a4-b8bb-6645a8e35fd5/codeium/manager/locks/child_lock_1717837824181084376_4924559599587707259
+2024-06-08 14:40:27.453 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.451796  6464 server.go:597] Child process acquired lock file /tmp/b2acf97e-783d-43a4-b8bb-6645a8e35fd5/codeium/manager/locks/child_lock_1717837824181084376_4924559599587707259
+2024-06-08 14:40:27.472 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.468642  6464 server.go:183] LSP listening on random port at 34141
+2024-06-08 14:40:27.474 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.469674  6464 web_server.go:239] Chat Web Server listening at ws://127.0.0.1:46025
+2024-06-08 14:40:27.507 [INFO]: [Language Server (stdout)]:
+34141
+2024-06-08 14:40:27.509 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.505617  6456 main.go:284] Language server manager found random server port 32809
+I0608 14:40:27.505718  6456 main.go:285] Language server manager found random lsp port 34141
+I0608 14:40:27.505748  6456 main.go:292] Language server manager attempting to connect to language server at 127.0.0.1:32809
+2024-06-08 14:40:27.543 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.542874  6456 main.go:163] Fixing language server port at 32809
+I0608 14:40:27.542933  6456 main.go:343] Language server manager successfully connected to new language server at 127.0.0.1:32809
+2024-06-08 14:40:27.584 [INFO]: Found language server running on port 32809
+2024-06-08 14:40:27.674 [INFO]: Downloaded binary: /home/exia/.codeium/bin/af6b6c543b224d348a8876f0c06245d9ea7929c5/ripgrep_linux_x64
+2024-06-08 14:40:27.781 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.764002  6464 rpcs_miscellaneous.go:118] Ripgrep available at /home/exia/.codeium/bin/af6b6c543b224d348a8876f0c06245d9ea7929c5/ripgrep_linux_x64
+2024-06-08 14:40:27.903 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.895669  6464 rpcs_miscellaneous.go:312] University version is up to date.
+2024-06-08 14:40:27.914 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.900444  6464 utils.go:163] Analyzing workspace files for /mnt/MINE/backup/Projects/Random Projects/HTML-CSS COURSE/Intro-to-html/
+2024-06-08 14:40:27.951 [INFO]: [Language Server (stderr)]:
+I0608 14:40:27.928578  6464 utils.go:223] Done analyzing workspace files for /mnt/MINE/backup/Projects/Random Projects/HTML-CSS COURSE/Intro-to-html/
+I0608 14:40:27.928641  6464 lsp.go:208] Found 34 files in workspace /mnt/MINE/backup/Projects/Random Projects/HTML-CSS COURSE/Intro-to-html/
+I0608 14:40:27.938943  6464 lsp.go:232] Adding workspace listener for [0xc001b11f80]
+I0608 14:40:27.939038  6464 indexing_listener.go:187] Add workspace event with uid: 1
+2024-06-08 14:40:29.254 [INFO]: [Language Server (stderr)]:
+I0608 14:40:29.250919  6464 indexing_listener.go:220] Done enqueue workspace with uid: 1
+2024-06-08 14:40:29.906 [INFO]: [Language Server (stderr)]:
+I0608 14:40:29.899937  6464 lazy_model.go:29] Successfully created faiss index
+2024-06-08 14:40:34.654 [INFO]: Disposing language server process
+2024-06-08 14:40:34.655 [INFO]: Deleting manager directory: /tmp/b2acf97e-783d-43a4-b8bb-6645a8e35fd5/codeium/manager
+2024-06-08 14:40:34.664 [INFO]: Successfully disposed language server
+2024-06-08 14:40:34.761 [INFO]: [Language Server (stderr)]:
+W0608 14:40:34.656032  6456 main.go:114] Language server manager got signal terminated, shutting down

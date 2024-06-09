@@ -1,0 +1,7 @@
+2024/05/22-22:13:09.182 c59 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/WebStorage/52/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/05/22-22:13:09.183 c59 Recovering log #3
+2024/05/22-22:13:09.183 c59 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/WebStorage/52/IndexedDB/indexeddb.leveldb/000003.log 
+2024/05/22-22:13:21.087 c57 Level-0 table #5: started
+2024/05/22-22:13:21.090 c57 Level-0 table #5: 1200 bytes OK
+2024/05/22-22:13:21.094 c57 Delete type=0 #3
+2024/05/22-22:13:21.095 c57 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,19 @@
+2024-06-08 14:39:43.728 [info] Extension host with pid 6018 started
+2024-06-08 14:39:43.729 [info] Skipping acquiring lock for /home/exia/.config/Code - OSS/User/workspaceStorage/dc75fb0c2d99026a921b3c62c1b1aa0c.
+2024-06-08 14:39:43.891 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-08 14:39:43.912 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-06-08 14:39:44.368 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-08 14:39:44.461 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-08 14:39:44.886 [info] Eager extensions activated
+2024-06-08 14:39:45.029 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 14:39:45.035 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 14:39:45.060 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 14:39:45.749 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 14:39:45.870 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 14:39:45.959 [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-08 14:39:46.441 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-08 14:39:46.514 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-08 14:39:46.639 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-08 14:39:52.138 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-06-08 14:40:34.548 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-08 14:40:34.784 [info] Extension host with pid 6018 exiting with code 0

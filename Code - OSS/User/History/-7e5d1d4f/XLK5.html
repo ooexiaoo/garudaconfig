@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOHA Heavy Industries UI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="communications">
+            <h2>Communications</h2>
+            <div class="messages">
+                <h3>Messages</h3>
+                <ul>
+                    <li>Unread Messages: <span id="unread-messages">0</span></li>
+                    <li>Read Messages: <span id="read-messages">0</span></li>
+                </ul>
+            </div>
+        </div>
+        <div class="date">
+            <h2>Date</h2>
+            <p id="current-date">Loading...</p>
+        </div>
+        <div class="sector">
+            <h2>Sector</h2>
+            <p>Latitude: <span id="latitude">0.00</span></p>
+            <p>Longitude: <span id="longitude">0.00</span></p>
+        </div>
+        <div class="threat">
+            <h2>Threat</h2>
+            <ul id="threat-list">
+                <li>Loading...</li>
+            </ul>
+        </div>
+        <div class="terminal-access">
+            <h2>Terminal Access</h2>
+            <input type="text" id="command-input" placeholder="Enter command...">
+            <button class="button" id="execute-command">Execute</button>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

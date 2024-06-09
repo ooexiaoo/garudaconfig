@@ -1,0 +1,231 @@
+.inboxsdk__menu > .inboxsdk__menuContent {
+    /* margin-bottom: 23px; */
+    border: none !important;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.2) !important;
+    border-radius: 3px;
+}
+.inboxsdk__composeButton {
+    cursor: pointer;
+    position: relative;
+}
+body:not(.inboxsdk__gmailv1css) .inboxsdk__composeButton::before {
+    opacity: 0 !important;
+}
+.inboxsdk__composeButton:after {
+    content: '';
+    display: block;
+    opacity: 0;
+    position: absolute;
+    transition-duration: .15s;
+    transition-timing-function: cubic-bezier(0.4,0.0,0.2,1);
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    background: none;
+    box-sizing: border-box;
+    transform: scale(0);
+    transition-property: transform,opacity;
+    border-radius: 4px;
+}
+.inboxsdk__composeButton:hover:after {
+    background-color: rgba(32,33,36,0.082);
+    border: none;
+    opacity: 1;
+    transform: scale(1);
+}
+
+.container {
+    display: flex;
+    width: 426px;
+    height: 36px;
+    color: #444444;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.container_send_later {
+    width: 315px !important;
+}
+.box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 0 13px;
+    margin: 2px;
+}
+.box:hover {
+    background: #f2f2f2;
+    border-radius: 5px;
+}
+.box_1 {
+    width: 123px;
+    cursor: pointer;
+}
+.box_2 {
+    width: 164px;
+    margin: 0;
+    padding: 2px 3px;
+    display: block;
+}
+.box_2:hover {
+    background: transparent;
+}
+.box_2:before {
+    position: absolute;
+    content: "";
+    width: 1px;
+    height: 20px;
+    background: #eceff1;
+    left: 0;
+    top: 8px;
+}
+.box_2:after {
+    position: absolute;
+    content: "";
+    width: 1px;
+    height: 20px;
+    background: #eceff1;
+    right: 0;
+    top: 8px;
+}
+.box_3 {
+    width: 124px;
+    padding: 0;
+}
+.box_inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    width: 162px;
+    padding: 0 13px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.box_inner:hover {
+    background: #f2f2f2;
+    border-radius: 5px;
+}
+.text {
+    user-select: none;
+}
+.checkbox {
+    width: 0;
+    height: 0;
+    opacity: 0;
+    margin: 0;
+    padding: 0;
+    border: none;
+    position: absolute;
+}
+.checkbox_1:checked ~ .img_chek_normal {
+    display: none;
+}
+.checkbox_1:checked ~ .img_chek_active {
+    display: block;
+}
+.img_chek {
+    margin-right: 6px;
+}
+.img_chek_active {
+    display: none;
+}
+.list {
+    box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+    margin: 0;
+    border-top: none;
+    padding: 15px 0;
+    position: absolute;
+    left: 0;
+    list-style: none;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: default;
+    border-radius: 3px;
+    background: #fff;
+}
+.list_2 {
+    width: 164px;
+    height: 266px;
+    top: -271px;
+    display: none;
+}
+.list_3 {
+    width: 134px;
+    height: 146px;
+    top: -153px;
+    display: none;
+}
+.list_item {
+    flex-grow: 1;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+.list_item:hover {
+    background: #f2f2f2;
+}
+.label {
+    padding-left: 37px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.label_padding {
+    justify-content: space-between;
+    padding: 0 33px 0 13px;
+}
+.label_3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 11px;
+    width: 118px;
+    height: 100%;
+    cursor: pointer;
+}
+.label_3 .text {
+    margin-right: auto;
+}
+.img_mark {
+    position: absolute;
+    left: 15px;
+    bottom: 50%;
+    transform: translateY(50%);
+    display: none;
+    content: url('chrome-extension://__MSG_@@extension_id__/img/mark.png');    
+}
+.checkbox:checked ~ .img_mark {
+    display: block;
+}
+.checkbox_3:checked ~ .list_3 {
+    display: flex;
+}
+.checkbox_3:checked ~ .label_3 {
+    background: #f2f2f2;
+    border-radius: 5px;
+}
+.checkbox_2:checked ~ .list_2 {
+    display: flex;
+}
+.checkbox_2:checked ~ .box_inner {
+    background: #f2f2f2;
+    border-radius: 5px;
+}
+.snv_container_save {
+    color: #1a73e8;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: .875rem;
+    font-weight: 500;
+    letter-spacing: .0107142857em;
+    text-transform: none;    
+    margin: 10px 15px;
+}

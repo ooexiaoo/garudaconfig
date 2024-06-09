@@ -1,0 +1,15 @@
+2024/05/26-00:46:17.738 cc1 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_supplier.meesho.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/26-00:46:17.739 cc1 Recovering log #4
+2024/05/26-00:46:17.739 cc1 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_supplier.meesho.com_0.indexeddb.leveldb/000004.log 
+2024/05/26-00:46:20.493 cc1 Level-0 table #8: started
+2024/05/26-00:46:20.498 cc1 Level-0 table #8: 209 bytes OK
+2024/05/26-00:46:20.505 cc1 Delete type=0 #4
+2024/05/26-00:46:20.507 cd3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/26-00:46:20.507 cc1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 78 : 1
+2024/05/26-00:46:20.507 cc1 Compacting 1@1 + 1@2 files
+2024/05/26-00:46:20.512 cc1 Generated table #9@1: 28 keys, 735 bytes
+2024/05/26-00:46:20.512 cc1 Compacted 1@1 + 1@2 files => 735 bytes
+2024/05/26-00:46:20.517 cc1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/26-00:46:20.517 cc1 Delete type=2 #5
+2024/05/26-00:46:20.518 cc1 Delete type=2 #8
+2024/05/26-00:46:20.518 cc1 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 78 : 1 .. (end); will stop at (end)

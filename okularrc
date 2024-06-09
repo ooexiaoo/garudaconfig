@@ -1,0 +1,46 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/pradhan-mantri-rojgar-yojana-application-form1.pdf,file:$HOME/Desktop/pradhan-mantri-rojgar-yojana-application-form1.pdf
+Recent URLs[$e]=file:$HOME/Desktop/
+iconViewIconSize=64
+
+[MainWindow]
+1920x1080 screen: Height=990
+1920x1080 screen: Width=1910
+1920x1080 screen: XPosition=5
+1920x1080 screen: YPosition=85
+LVDS-1=LVDS-1
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Print Preview]
+1920x1080 screen: Height=500
+1920x1080 screen: Width=600
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/latest-3657443572
+File10[$e]=$HOME/Downloads/GOb29QAXAAAmyiq.jpeg
+File2[$e]=/mnt/MINE/backup/Vivo u20 Photo Backup Sync - Syncthing/LightroomCamera
+File3[$e]=/mnt/MINE/backup/From Garuda/Pictures/Screenshot_15.png
+File4[$e]=/mnt/MINE/backup/From Garuda/Pictures/Screenshot_14.png
+File5[$e]=/mnt/MINE/backup/From Garuda/Pictures/Screenshot_Help to find hentai _ HentaiSource - Brave_1.png
+File6[$e]=/mnt/MINE/backup/From Garuda/Pictures/Screenshot_2.png
+File7[$e]=/mnt/MINE/backup/From Garuda/Pictures/Screenshot_1.png
+File8[$e]=/mnt/MINE/backup/Images/Pins/31057142415eb11ea623dbfdb41b418b.jpg
+File9[$e]=/mnt/MINE/backup/Images/Pins/aa4f3cd968248e052eb82ec748a19dd7.jpg
+Name1[$e]=latest-3657443572
+Name10[$e]=GOb29QAXAAAmyiq.jpeg
+Name2[$e]=LightroomCamera
+Name3[$e]=Screenshot_15.png
+Name4[$e]=Screenshot_14.png
+Name5[$e]=Screenshot_Help to find hentai _ HentaiSource - Brave_1.png
+Name6[$e]=Screenshot_2.png
+Name7[$e]=Screenshot_1.png
+Name8[$e]=31057142415eb11ea623dbfdb41b418b.jpg
+Name9[$e]=aa4f3cd968248e052eb82ec748a19dd7.jpg

@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "a14733d6-8e15-4e75-b6b8-509f323e5b3b",
+    "glassit.alpha": 220,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.wordWrap": "on",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

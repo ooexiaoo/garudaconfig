@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "69beaf4c-5060-4ce0-8807-a5603a4e279b",
+        "colId": "history",
+        "created": "2024-04-09T11:17:52.329Z",
+        "modified": "2024-04-09T11:17:52.329Z",
+        "response": {
+            "responseText": "",
+            "filePath": "",
+            "type": "text",
+            "headers": [],
+            "cookies": [],
+            "testResults": [],
+            "url": "https://localhost:3000",
+            "status": 0,
+            "statusText": "",
+            "contentType": "",
+            "contentLength": "",
+            "responseTimeText": "0 ms",
+            "responseTime": 0,
+            "responseSize": 0,
+            "preScriptTime": 2,
+            "preReqTime": 8,
+            "reqTime": 128,
+            "postScriptTime": 0,
+            "chartHTML": "",
+            "errorMessage": "Connection was refused by the server."
+        },
+        "requestInfo": {
+            "reqUrl": "https://localhost:3000",
+            "headers": [
+                {
+                    "name": "accept-encoding",
+                    "value": "gzip, deflate, br"
+                },
+                {
+                    "name": "Accept",
+                    "value": "*/*"
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Thunder Client (https://www.thunderclient.com)"
+                }
+            ]
+        }
+    }
+]

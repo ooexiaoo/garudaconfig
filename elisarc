@@ -1,0 +1,8 @@
+[ElisaFileIndexer]
+RootPath[$e]=$HOME/Music,/mnt/MINE/Music
+
+[UiSettings]
+ColorScheme=Catppuccin Mocha Red
+
+[Views]
+ColorScheme=Catppuccin Mocha Red

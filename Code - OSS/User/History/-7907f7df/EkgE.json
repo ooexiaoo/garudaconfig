@@ -1,0 +1,37 @@
+{
+  "name": "kawaiidoro",
+  "version": "1.0.0",
+  "description": "A pomodoro timer application built with JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooexiaoo/kawaiidoro.git"
+  },
+  "keywords": [
+    "pomodoro",
+    "javascript"
+  ],
+  "author": "EXIA <https://blog.kawaiidoro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Freshman-tech/pomodoro/issues"
+  },
+  "homepage": "https://blog.kawaiidoro.com",
+  "dependencies": {
+    "browser-sync": "^2.26.12"
+  },
+  "devDependencies": {
+    "electron": "^30.0.2",
+    "electron-builder": "^22.11.7" // Add electron-builder as a dev dependency
+  },
+  "build": {
+    "appId": "com.example.myapp",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}

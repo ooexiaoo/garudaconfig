@@ -1,0 +1,420 @@
+.snv_conv_stat {
+  padding: 15px 0 10px;
+  font-size: 16px;
+}
+
+.snv_conv_line {
+  position: relative;
+  padding: 0 0 19px;
+  vertical-align: center;
+  display: flex;
+  align-items: flex-start;
+}
+.snv_conv_line_text {
+  margin-left: auto;
+  text-align: end;
+  height: 29px;
+  max-width: calc(100% - 69px);
+}
+.snv_conv_line_text_mrg {
+  margin-top: 5px;
+  height: 22px;
+}
+.snv_conv_link_box {
+  height: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /*margin-left: auto;*/
+}
+.snv_conv_link_box a {
+  color: #727a81;
+  font-size: 11px;
+  white-space: nowrap;
+}
+.snv_conv_date {
+  font-size: 11px;
+  color: #222222;
+  margin-bottom: 3px;
+}
+
+.snv_conv_mobile {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url('chrome-extension://__MSG_@@extension_id__/img/mobile.png');
+  background-repeat: no-repeat;
+  margin-left: 4px;
+  margin-right: 5px;
+  margin-top: 2px;
+}
+
+.snv_conv_mobile_not {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url('chrome-extension://__MSG_@@extension_id__/img/mobile_not.png');
+  background-repeat: no-repeat;
+  margin-left: 4px;
+  margin-right: 5px;
+  margin-top: 3px;
+}
+
+.snv-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  bottom: 0;
+  cursor: default;
+  left: 0;
+  opacity: 1;
+  position: fixed;
+  right: 0;
+  top: 0;
+  visibility: visible;
+  z-index: 999;
+  -webkit-transition: opacity .5s;
+  -moz-transition: opacity .5s;
+  -ms-transition: opacity .5s;
+  -o-transition: opacity .5s;
+  transition: opacity .5s;
+}
+.snv-overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+#snv_popup {
+  position: fixed;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 15px 0px 15px 0px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+.snv-popup-star {
+  padding: 20px 0px 20px 0px !important;
+}
+
+#snv_popup2 {
+  padding: 10px 10px 0px 10px;
+  text-align: center;
+}
+
+.snv_popup_label{
+  font-size: 20px;
+}
+
+.snv_popup_rate_label{
+  font-size: 16px;
+  margin: 20px 50px;
+}
+
+#snv_popup_activate {
+  width: 160px;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 10px 0px 5px 0px;
+  background: #7252ee;
+  color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,0.3)
+}
+#snv_popup_activate:hover {
+  opacity: .8;
+}
+
+.snv_popup_warning {
+  font-size: 13px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 5px 70px;
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeeba;  
+  border-radius: 3px;
+  border: 1px solid transparent;
+}
+
+#snv_popup_get_help {
+  position: absolute;
+  left: 600px;
+  top: 17px;
+  width: 80px;
+  padding: 3px 0px;
+  /* height: 20px; */
+  font-size: 13px;
+  text-decoration: none;
+  display: inline-block;
+  background: #8178d9;
+  color: #fff;
+  border-radius: 3px;
+}
+#snv_popup_get_help:hover {
+  opacity: .8;
+}
+
+.snv_popup_lnk {
+  font-family: 'Roboto';
+  color: #908f8f;
+  font-size: 13px;
+  margin: 0px 5px;
+}
+
+.snv_btn {
+  width: 32px;
+  height: 32px;
+  padding: 4px;
+  /* background-image: url('chrome-extension://__MSG_@@extension_id__/img/32x32.png'); */
+  content: url('chrome-extension://__MSG_@@extension_id__/img/32x32.png');
+  margin-left: 12px;
+  top: 4px;
+}
+.snv_btn:hover {
+  background-color: #f1f3f4;
+  border-radius: 50%;
+}
+
+.snv_tr_i {
+  position: absolute;
+}
+
+.snv_imgDescr {
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 16px !important;
+  height: 16px !important;
+}
+
+.snv_imgDescr_empty {
+  position: absolute;
+  width: 1px !important;
+  height: 1px !important;
+}
+
+.snv_tr_i_l {
+  padding-left: 0px !important;
+}
+
+.snv_tr_i_r {
+  padding-left: 20px;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.snv_head {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  padding: 10px 16px 0;
+  padding-bottom: 11px;
+  border-bottom: 1px solid #f1f3f4;
+}
+.snv_head_logo {
+  display: inline-block;
+  width: 65px;
+  height: 17px;
+  background-image: url('chrome-extension://__MSG_@@extension_id__/img/logo_png.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.snv_head_left {
+  margin-bottom: 7px;
+}
+.snv_head_left_text {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: bold;
+  color: #727a81;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+.snv_head_left_img {
+  width: 9px;
+  height: 9px;
+  padding: 8px;
+  position: absolute;
+  right: 13px;
+  top: 5px;
+  cursor: pointer;
+  content: url('chrome-extension://__MSG_@@extension_id__/img/close.png');
+}
+.snv_head_left_img:hover {
+  background-color: #f1f3f4;
+  border-radius: 50%;
+}
+
+.snv_head_right {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 0 0;
+}
+.snv_head_right a {
+  display: block;
+  color: #727a81;
+  font-size: 11px;
+}
+.snv_head_right_img {
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  background-image: url('chrome-extension://__MSG_@@extension_id__/img/32x32.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.snv_conv_stat-box {
+  padding: 0 15px;
+  padding-bottom: 13px;
+  font-size: 16px;
+  margin-top: 13px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #f1f3f4;
+}
+.snv_conv_time {
+  display: inline-block;
+  vertical-align: middle;
+  width: 19px;
+  height: 19px;
+  background-image: url('chrome-extension://__MSG_@@extension_id__/img/time.png');
+  background-repeat: no-repeat;
+}
+.snv_conv_btn_purp {
+  display: inline-block;
+  padding: 6px 6px 4px;
+  background-color: #a272f9;
+  color: #ffffff;
+  border-radius: 2px;
+  width: 37px;
+  text-align: center;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 1;
+}
+.snv_conv_btn_green {
+  display: inline-block;
+  padding: 6px 6px 4px;
+  background-color: #5bae61;
+  color: #ffffff;
+  border-radius: 2px;
+  width: 37px;
+  text-align: center;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 1;
+}
+.snv_conv_btn_marg {
+  margin-left: auto;
+  margin-right: 5px;
+  width: auto;
+}
+.snv_conv_btn {
+  width: 54px;
+  padding: 6px 7px 4px;
+  box-sizing: border-box;
+  margin-right: 5px;
+}
+.snv_conv_btn_margn {
+  margin-left: 0;
+  margin-right: 0;
+  width: auto;
+}
+
+.snv_conv_line:before {
+  display: table;
+  position: absolute;
+  content: "";
+  width: 1px;
+  border-left: 1px dotted #b1b1b3;
+  height: 22px;
+  background: transparent;
+  bottom: 2px;
+  left: 27px;
+}
+.snv_conv_line:after {
+  display: table;
+  position: absolute;
+  content: url('chrome-extension://__MSG_@@extension_id__/img/rectangle.png');
+  color: #b1b1b3;
+  bottom: 8px;
+  left: 24px;
+  font-size: 13px;
+}
+
+.snv_conv_line:last-child:before,
+.snv_conv_line:last-child:after {
+  display: none;
+}
+.snv_conv_list {
+  list-style: none;
+  padding: 0 15px;
+  margin: 0 0 0px;
+  border-bottom: 1px solid #f1f3f4;
+}
+.snv_conv_subject {
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 3px;
+  color: #5a5a5a;
+}
+.snv_footer_link {
+  text-align: end;
+  margin-right: 8px;
+}
+.snv_footer_link a {
+  color: #9F59E6;
+}
+div[data-app-name="Snovio Email Tracker for Gmail"] {
+  height: 0;
+}
+.no_padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.snv_btn--show-inside-letter-block-data {
+  position: absolute!important;
+  top: -45px!important;
+}

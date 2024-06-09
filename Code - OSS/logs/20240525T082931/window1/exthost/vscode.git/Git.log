@@ -1,0 +1,325 @@
+2024-05-25 08:29:38.208 [info] Log level: Info
+2024-05-25 08:29:38.208 [info] Validating found git in: "git"
+2024-05-25 08:29:38.208 [info] Using git "2.45.1" from "git"
+2024-05-25 08:29:38.208 [info] > git rev-parse --show-toplevel [29ms]
+2024-05-25 08:29:38.211 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2024-05-25 08:29:38.257 [info] Open repository: /mnt/SDA3/kawaiidoro
+2024-05-25 08:29:38.674 [info] > git rev-parse --show-toplevel [364ms]
+2024-05-25 08:29:38.678 [info] > git config --get commit.template [390ms]
+2024-05-25 08:29:39.889 [info] > git rev-parse --show-toplevel [193ms]
+2024-05-25 08:29:39.928 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [84ms]
+2024-05-25 08:29:39.937 [info] > git rev-parse --show-toplevel [15ms]
+2024-05-25 08:29:40.286 [info] > git check-ignore -v -z --stdin [32ms]
+2024-05-25 08:29:41.635 [info] > git status -z -uall [1586ms]
+2024-05-25 08:29:41.972 [info] > git merge-base refs/heads/master refs/remotes/origin/master [261ms]
+2024-05-25 08:29:42.025 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [15ms]
+2024-05-25 08:29:42.050 [info] > git config --get commit.template [82ms]
+2024-05-25 08:29:42.102 [info] > git diff --name-status -z --diff-filter=ADMR 03bc84aa932baa612763bca00ae01fbd65840597...refs/remotes/origin/master [62ms]
+2024-05-25 08:29:42.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:29:42.642 [info] > git status -z -uall [520ms]
+2024-05-25 08:30:04.774 [info] > git fetch [2890ms]
+2024-05-25 08:30:04.774 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:30:04.803 [info] > git config --get commit.template [14ms]
+2024-05-25 08:30:04.805 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:30:05.191 [info] > git status -z -uall [374ms]
+2024-05-25 08:30:12.959 [info] > git show --textconv :index.html [136ms]
+2024-05-25 08:30:12.959 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [94ms]
+2024-05-25 08:30:13.008 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [12ms]
+2024-05-25 08:30:45.456 [info] Log level: Info
+2024-05-25 08:30:45.456 [info] Validating found git in: "git"
+2024-05-25 08:30:45.456 [info] Using git "2.45.1" from "git"
+2024-05-25 08:30:45.486 [info] > git rev-parse --show-toplevel [25ms]
+2024-05-25 08:30:45.541 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-05-25 08:30:45.612 [info] Open repository: /mnt/SDA3/kawaiidoro
+2024-05-25 08:30:45.711 [info] > git rev-parse --show-toplevel [25ms]
+2024-05-25 08:30:45.714 [info] > git config --get commit.template [49ms]
+2024-05-25 08:30:45.798 [info] > git rev-parse --show-toplevel [48ms]
+2024-05-25 08:30:45.973 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [178ms]
+2024-05-25 08:30:46.305 [info] > git rev-parse --show-toplevel [337ms]
+2024-05-25 08:30:48.388 [info] > git status -z -uall [2039ms]
+2024-05-25 08:30:48.421 [info] > git fetch [2812ms]
+2024-05-25 08:30:48.421 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:30:48.567 [info] > git config --get commit.template [13ms]
+2024-05-25 08:30:48.568 [info] > git config --get commit.template [37ms]
+2024-05-25 08:30:48.613 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-05-25 08:30:48.614 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2024-05-25 08:30:49.083 [info] > git status -z -uall [446ms]
+2024-05-25 08:30:49.123 [info] > git merge-base refs/heads/master refs/remotes/origin/master [19ms]
+2024-05-25 08:30:49.162 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [23ms]
+2024-05-25 08:30:49.185 [info] > git diff --name-status -z --diff-filter=ADMR 03bc84aa932baa612763bca00ae01fbd65840597...refs/remotes/origin/master [6ms]
+2024-05-25 08:31:06.083 [info] > git check-ignore -v -z --stdin [22ms]
+2024-05-25 08:31:07.922 [info] > git show --textconv :index.html [85ms]
+2024-05-25 08:31:07.926 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [35ms]
+2024-05-25 08:31:08.008 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [64ms]
+2024-05-25 08:33:31.531 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-05-25 08:33:31.540 [info] > git config --get commit.template [93ms]
+2024-05-25 08:33:32.654 [info] > git status -z -uall [1069ms]
+2024-05-25 08:33:49.931 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [9ms]
+2024-05-25 08:33:49.963 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [8ms]
+2024-05-25 08:33:50.100 [info] > git show --textconv :index.html [7ms]
+2024-05-25 08:33:50.916 [info] > git fetch [2275ms]
+2024-05-25 08:33:50.916 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:33:50.952 [info] > git config --get commit.template [6ms]
+2024-05-25 08:33:50.969 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:33:51.353 [info] > git status -z -uall [369ms]
+2024-05-25 08:34:32.843 [info] > git check-ignore -v -z --stdin [39ms]
+2024-05-25 08:34:33.330 [info] > git config --get commit.template [40ms]
+2024-05-25 08:34:33.408 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2024-05-25 08:34:34.127 [info] > git show --textconv :search.js [211ms]
+2024-05-25 08:34:34.137 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/search.js [123ms]
+2024-05-25 08:34:35.432 [info] > git status -z -uall [1845ms]
+2024-05-25 08:34:41.078 [info] > git config --get commit.template [51ms]
+2024-05-25 08:34:41.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [39ms]
+2024-05-25 08:34:41.921 [info] > git status -z -uall [592ms]
+2024-05-25 08:34:45.838 [info] > git show --textconv :index.html [54ms]
+2024-05-25 08:34:45.866 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [50ms]
+2024-05-25 08:34:45.950 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [38ms]
+2024-05-25 08:34:47.021 [info] > git config --get commit.template [10ms]
+2024-05-25 08:34:47.098 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [47ms]
+2024-05-25 08:34:47.707 [info] > git status -z -uall [513ms]
+2024-05-25 08:34:58.410 [info] > git config --get commit.template [10ms]
+2024-05-25 08:34:58.454 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-05-25 08:34:59.136 [info] > git status -z -uall [653ms]
+2024-05-25 08:35:15.475 [info] > git show --textconv :styles.css [43ms]
+2024-05-25 08:35:15.478 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [17ms]
+2024-05-25 08:35:15.522 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [12ms]
+2024-05-25 08:35:17.213 [info] > git show --textconv :index.html [38ms]
+2024-05-25 08:35:17.217 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [8ms]
+2024-05-25 08:35:17.237 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [3ms]
+2024-05-25 08:35:26.108 [info] > git show --textconv :styles.css [72ms]
+2024-05-25 08:35:26.111 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [45ms]
+2024-05-25 08:35:26.155 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [13ms]
+2024-05-25 08:35:55.784 [info] > git config --get commit.template [4ms]
+2024-05-25 08:35:55.807 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:35:56.171 [info] > git status -z -uall [346ms]
+2024-05-25 08:36:01.961 [info] > git config --get commit.template [5ms]
+2024-05-25 08:36:01.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:36:02.331 [info] > git status -z -uall [333ms]
+2024-05-25 08:36:07.386 [info] > git config --get commit.template [20ms]
+2024-05-25 08:36:07.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:36:07.731 [info] > git status -z -uall [326ms]
+2024-05-25 08:36:09.652 [info] > git show --textconv :index.html [32ms]
+2024-05-25 08:36:09.655 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [6ms]
+2024-05-25 08:36:09.680 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [5ms]
+2024-05-25 08:36:52.679 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [2ms]
+2024-05-25 08:36:52.695 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [2ms]
+2024-05-25 08:36:52.714 [info] > git show --textconv :index.html [3ms]
+2024-05-25 08:36:53.631 [info] > git fetch [2238ms]
+2024-05-25 08:36:53.631 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:36:53.671 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:36:53.673 [info] > git config --get commit.template [24ms]
+2024-05-25 08:36:54.228 [info] > git status -z -uall [535ms]
+2024-05-25 08:37:01.479 [info] > git config --get commit.template [46ms]
+2024-05-25 08:37:01.520 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2024-05-25 08:37:02.171 [info] > git status -z -uall [601ms]
+2024-05-25 08:37:07.707 [info] > git show --textconv :styles.css [62ms]
+2024-05-25 08:37:07.707 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [22ms]
+2024-05-25 08:37:07.859 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [76ms]
+2024-05-25 08:37:13.921 [info] > git config --get commit.template [16ms]
+2024-05-25 08:37:13.923 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:37:14.281 [info] > git status -z -uall [341ms]
+2024-05-25 08:37:27.866 [info] > git config --get commit.template [17ms]
+2024-05-25 08:37:27.868 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:37:28.301 [info] > git status -z -uall [417ms]
+2024-05-25 08:37:35.940 [info] > git config --get commit.template [15ms]
+2024-05-25 08:37:35.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-05-25 08:37:36.325 [info] > git status -z -uall [342ms]
+2024-05-25 08:37:41.374 [info] > git config --get commit.template [18ms]
+2024-05-25 08:37:41.379 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:37:41.724 [info] > git status -z -uall [328ms]
+2024-05-25 08:37:51.941 [info] > git config --get commit.template [21ms]
+2024-05-25 08:37:51.943 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:37:52.294 [info] > git status -z -uall [333ms]
+2024-05-25 08:37:58.174 [info] > git show --textconv :index.html [43ms]
+2024-05-25 08:37:58.174 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [12ms]
+2024-05-25 08:37:58.213 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [17ms]
+2024-05-25 08:38:08.762 [info] > git show --textconv :styles.css [35ms]
+2024-05-25 08:38:08.778 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [25ms]
+2024-05-25 08:38:08.811 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [6ms]
+2024-05-25 08:38:17.853 [info] > git config --get commit.template [2ms]
+2024-05-25 08:38:17.876 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:38:18.406 [info] > git status -z -uall [507ms]
+2024-05-25 08:38:23.463 [info] > git config --get commit.template [6ms]
+2024-05-25 08:38:23.493 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2024-05-25 08:38:23.911 [info] > git status -z -uall [402ms]
+2024-05-25 08:38:28.953 [info] > git config --get commit.template [20ms]
+2024-05-25 08:38:28.956 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:38:29.302 [info] > git status -z -uall [331ms]
+2024-05-25 08:38:32.053 [info] > git show --textconv :index.html [11ms]
+2024-05-25 08:38:32.090 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [13ms]
+2024-05-25 08:38:32.116 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [3ms]
+2024-05-25 08:38:37.184 [info] > git show --textconv :styles.css [42ms]
+2024-05-25 08:38:37.185 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [6ms]
+2024-05-25 08:38:37.206 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [5ms]
+2024-05-25 08:38:51.602 [info] > git config --get commit.template [6ms]
+2024-05-25 08:38:51.621 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:38:51.972 [info] > git status -z -uall [331ms]
+2024-05-25 08:38:57.030 [info] > git config --get commit.template [23ms]
+2024-05-25 08:38:57.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:38:57.355 [info] > git status -z -uall [303ms]
+2024-05-25 08:39:06.064 [info] > git config --get commit.template [23ms]
+2024-05-25 08:39:06.066 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-25 08:39:06.412 [info] > git status -z -uall [328ms]
+2024-05-25 08:39:13.300 [info] > git config --get commit.template [4ms]
+2024-05-25 08:39:13.316 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:39:13.658 [info] > git status -z -uall [327ms]
+2024-05-25 08:39:24.183 [info] > git config --get commit.template [8ms]
+2024-05-25 08:39:24.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:39:24.573 [info] > git status -z -uall [348ms]
+2024-05-25 08:39:51.646 [info] > git config --get commit.template [19ms]
+2024-05-25 08:39:51.648 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:39:51.993 [info] > git status -z -uall [325ms]
+2024-05-25 08:39:55.467 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [8ms]
+2024-05-25 08:39:55.492 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [9ms]
+2024-05-25 08:39:55.549 [info] > git show --textconv :styles.css [5ms]
+2024-05-25 08:39:56.083 [info] > git fetch [1831ms]
+2024-05-25 08:39:56.083 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:39:56.111 [info] > git config --get commit.template [14ms]
+2024-05-25 08:39:56.114 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:39:56.511 [info] > git status -z -uall [380ms]
+2024-05-25 08:39:59.235 [info] > git config --get commit.template [19ms]
+2024-05-25 08:39:59.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-25 08:39:59.585 [info] > git status -z -uall [334ms]
+2024-05-25 08:40:05.602 [info] > git show --textconv :index.html [30ms]
+2024-05-25 08:40:05.602 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [8ms]
+2024-05-25 08:40:05.639 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [11ms]
+2024-05-25 08:40:12.391 [info] > git config --get commit.template [29ms]
+2024-05-25 08:40:12.576 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [99ms]
+2024-05-25 08:40:13.747 [info] > git status -z -uall [1065ms]
+2024-05-25 08:40:21.898 [info] > git config --get commit.template [33ms]
+2024-05-25 08:40:21.942 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2024-05-25 08:40:22.812 [info] > git status -z -uall [799ms]
+2024-05-25 08:40:54.880 [info] > git show --textconv :search.js [111ms]
+2024-05-25 08:40:54.881 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/search.js [9ms]
+2024-05-25 08:41:08.385 [info] > git show --textconv :main.js [60ms]
+2024-05-25 08:41:08.386 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/main.js [14ms]
+2024-05-25 08:41:08.420 [info] > git cat-file -s 2b30afecf02069051c8daf804106cf5ced18e242 [15ms]
+2024-05-25 08:41:32.486 [info] > git config --get commit.template [33ms]
+2024-05-25 08:41:32.519 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-05-25 08:41:33.719 [info] > git status -z -uall [1175ms]
+2024-05-25 08:41:53.484 [info] > git config --get commit.template [35ms]
+2024-05-25 08:41:53.545 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2024-05-25 08:41:54.461 [info] > git status -z -uall [870ms]
+2024-05-25 08:42:57.800 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/main.js [15ms]
+2024-05-25 08:42:57.846 [info] > git cat-file -s 2b30afecf02069051c8daf804106cf5ced18e242 [8ms]
+2024-05-25 08:42:57.876 [info] > git show --textconv :main.js [4ms]
+2024-05-25 08:42:59.386 [info] > git fetch [2846ms]
+2024-05-25 08:42:59.386 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:42:59.448 [info] > git config --get commit.template [27ms]
+2024-05-25 08:42:59.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-25 08:43:00.111 [info] > git status -z -uall [638ms]
+2024-05-25 08:43:49.713 [info] > git show --textconv :styles.css [212ms]
+2024-05-25 08:43:49.724 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [64ms]
+2024-05-25 08:43:49.880 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [43ms]
+2024-05-25 08:44:04.433 [info] > git config --get commit.template [8ms]
+2024-05-25 08:44:04.457 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:44:05.075 [info] > git status -z -uall [601ms]
+2024-05-25 08:44:49.938 [info] > git show --textconv :index.html [79ms]
+2024-05-25 08:44:49.939 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [12ms]
+2024-05-25 08:44:49.970 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [11ms]
+2024-05-25 08:45:07.276 [info] > git config --get commit.template [61ms]
+2024-05-25 08:45:07.372 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [60ms]
+2024-05-25 08:45:08.172 [info] > git status -z -uall [726ms]
+2024-05-25 08:45:22.364 [info] > git config --get commit.template [8ms]
+2024-05-25 08:45:22.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:45:22.945 [info] > git status -z -uall [524ms]
+2024-05-25 08:46:48.119 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/index.html [8ms]
+2024-05-25 08:46:48.136 [info] > git cat-file -s 08902df163fb770ba20843573298ea0dfd89cdfa [3ms]
+2024-05-25 08:46:48.162 [info] > git show --textconv :index.html [8ms]
+2024-05-25 08:46:49.117 [info] > git fetch [2268ms]
+2024-05-25 08:46:49.117 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:46:49.183 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-05-25 08:46:49.184 [info] > git config --get commit.template [26ms]
+2024-05-25 08:46:49.527 [info] > git status -z -uall [324ms]
+2024-05-25 08:47:16.372 [info] > git config --get commit.template [35ms]
+2024-05-25 08:47:16.423 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-05-25 08:47:17.448 [info] > git status -z -uall [982ms]
+2024-05-25 08:47:30.836 [info] > git config --get commit.template [31ms]
+2024-05-25 08:47:30.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2024-05-25 08:47:31.466 [info] > git status -z -uall [556ms]
+2024-05-25 08:48:08.618 [info] > git config --get commit.template [49ms]
+2024-05-25 08:48:08.630 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2024-05-25 08:48:09.379 [info] > git status -z -uall [679ms]
+2024-05-25 08:48:16.245 [info] > git show --textconv :styles.css [43ms]
+2024-05-25 08:48:16.246 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [14ms]
+2024-05-25 08:48:16.275 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [7ms]
+2024-05-25 08:48:26.688 [info] > git config --get commit.template [6ms]
+2024-05-25 08:48:26.712 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:48:27.132 [info] > git status -z -uall [402ms]
+2024-05-25 08:48:38.670 [info] > git config --get commit.template [20ms]
+2024-05-25 08:48:38.675 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:48:39.128 [info] > git status -z -uall [434ms]
+2024-05-25 08:48:48.281 [info] > git config --get commit.template [5ms]
+2024-05-25 08:48:48.302 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-25 08:48:48.693 [info] > git status -z -uall [375ms]
+2024-05-25 08:49:20.909 [info] > git config --get commit.template [37ms]
+2024-05-25 08:49:20.911 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-25 08:49:21.510 [info] > git status -z -uall [577ms]
+2024-05-25 08:49:38.272 [info] > git config --get commit.template [11ms]
+2024-05-25 08:49:38.310 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-05-25 08:49:38.873 [info] > git status -z -uall [531ms]
+2024-05-25 08:49:50.850 [info] > git ls-files --stage -- /mnt/SDA3/kawaiidoro/styles.css [5ms]
+2024-05-25 08:49:50.868 [info] > git cat-file -s 6791b52a42bc1db3fb35c0a411d2850092556612 [3ms]
+2024-05-25 08:49:50.895 [info] > git show --textconv :styles.css [5ms]
+2024-05-25 08:49:51.837 [info] > git fetch [2276ms]
+2024-05-25 08:49:51.837 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2024-05-25 08:49:51.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-25 08:49:51.878 [info] > git config --get commit.template [21ms]
+2024-05-25 08:49:52.265 [info] > git status -z -uall [369ms]
+2024-05-25 08:49:55.098 [info] > git config --get commit.template [4ms]
+2024-05-25 08:49:55.126 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-05-25 08:49:55.561 [info] > git status -z -uall [416ms]
+2024-05-25 08:50:07.931 [info] > git config --get commit.template [9ms]
+2024-05-25 08:50:07.971 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-25 08:50:08.536 [info] > git status -z -uall [544ms]
+2024-05-25 08:50:17.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-05-25 08:50:17.647 [info] > git config --get commit.template [37ms]
+2024-05-25 08:50:18.101 [info] > git status -z -uall [430ms]

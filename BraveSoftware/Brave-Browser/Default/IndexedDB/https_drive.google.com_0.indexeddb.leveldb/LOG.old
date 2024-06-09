@@ -1,0 +1,24 @@
+2024/05/30-06:38:32.025 c7f Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/30-06:38:32.026 c7f Recovering log #10
+2024/05/30-06:38:32.034 c7f Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000010.log 
+2024/05/30-06:39:14.080 c7e Compacting 1@1 + 1@2 files
+2024/05/30-06:39:14.092 c7e Generated table #13@1: 123 keys, 359974 bytes
+2024/05/30-06:39:14.092 c7e Compacted 1@1 + 1@2 files => 359974 bytes
+2024/05/30-06:39:14.095 c7e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/30-06:40:45.815 c81 Level-0 table #15: started
+2024/05/30-06:40:45.854 c81 Level-0 table #15: 4222317 bytes OK
+2024/05/30-06:40:45.858 c81 Delete type=2 #8
+2024/05/30-06:40:45.858 c81 Delete type=0 #10
+2024/05/30-06:40:45.858 c81 Delete type=2 #11
+2024/05/30-06:43:20.341 c81 Level-0 table #17: started
+2024/05/30-06:43:20.387 c81 Level-0 table #17: 4165656 bytes OK
+2024/05/30-06:43:20.392 c81 Delete type=0 #14
+2024/05/30-06:46:56.625 c7f Compacting 1@0 + 1@1 files
+2024/05/30-06:46:56.655 c7f Generated table #18@0: 797 keys, 218839 bytes
+2024/05/30-06:46:56.656 c7f Compacted 1@0 + 1@1 files => 218839 bytes
+2024/05/30-06:46:56.659 c7f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/30-06:46:56.659 c7f Delete type=2 #15
+2024/05/30-06:46:56.659 c7f Delete type=2 #17
+2024/05/30-06:46:57.273 c7f Level-0 table #20: started
+2024/05/30-06:46:57.313 c7f Level-0 table #20: 4207769 bytes OK
+2024/05/30-06:46:57.330 c7f Delete type=0 #16

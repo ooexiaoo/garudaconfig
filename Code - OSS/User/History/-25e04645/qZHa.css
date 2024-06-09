@@ -1,0 +1,48 @@
+html {
+  background: black;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #000;
+}
+
+
+/* Color of the text - you can change it as you need. */
+
+div {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+/* These are the properties applied to div that has the "innerDiv" class - you can change it as you need. */
+.innerDiv{
+  color: white;
+  display: flex;
+  left: 0;
+  top: 0;
+  z-index: 5;
+}
+.main{
+  display: inline-block;
+  position: fixed;
+}
+
+.white {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#matrix {
+  width: 100%;
+  height: 100%;
+}

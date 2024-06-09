@@ -1,0 +1,20 @@
+2024/06/07-13:49:08.470 1609 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/07-13:49:08.471 1609 Recovering log #4
+2024/06/07-13:49:08.473 1609 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000004.log 
+2024/06/07-13:49:09.816 161d Level-0 table #8: started
+2024/06/07-13:49:09.823 161d Level-0 table #8: 28664 bytes OK
+2024/06/07-13:49:09.826 161d Delete type=0 #4
+2024/06/07-13:49:09.827 1609 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/07-13:49:19.203 160a Level-0 table #10: started
+2024/06/07-13:49:19.285 160a Level-0 table #10: 1366154 bytes OK
+2024/06/07-13:49:19.288 160a Delete type=0 #7
+2024/06/07-13:49:20.209 160a Level-0 table #12: started
+2024/06/07-13:49:20.273 160a Level-0 table #12: 1674029 bytes OK
+2024/06/07-13:49:20.277 160a Delete type=0 #9
+2024/06/07-13:49:20.286 160a Compacting 2@0 + 1@1 files
+2024/06/07-13:49:20.448 160a Generated table #13@0: 55669 keys, 1876411 bytes
+2024/06/07-13:49:20.448 160a Compacted 2@0 + 1@1 files => 1876411 bytes
+2024/06/07-13:49:20.451 160a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/07-13:49:20.451 160a Delete type=2 #8
+2024/06/07-13:49:20.452 160a Delete type=2 #10
+2024/06/07-13:49:20.452 160a Delete type=2 #12

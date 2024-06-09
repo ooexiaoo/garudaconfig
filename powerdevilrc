@@ -1,0 +1,11 @@
+[AC][Display]
+DimDisplayIdleTimeoutSec=600
+
+[AC][SuspendAndShutdown]
+AutoSuspendIdleTimeoutSec=600
+
+[BatteryManagement]
+BatteryCriticalAction=1
+
+[LowBattery][Display]
+DisplayBrightness=20

@@ -1,0 +1,8 @@
+[General]
+ColorScheme=AbsoluteDark
+
+[Icons]
+Theme=Papirus
+
+[KDE]
+widgetStyle=Breeze

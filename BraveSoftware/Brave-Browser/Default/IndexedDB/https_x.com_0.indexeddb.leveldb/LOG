@@ -1,0 +1,6 @@
+2024/06/09-17:45:13.503 4c50 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-17:45:13.506 4c50 Recovering log #45
+2024/06/09-17:45:13.511 4c50 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000045.log 
+2024/06/09-17:51:55.492 4c50 Level-0 table #51: started
+2024/06/09-17:51:55.541 4c50 Level-0 table #51: 2968511 bytes OK
+2024/06/09-17:51:55.546 4c50 Delete type=0 #45

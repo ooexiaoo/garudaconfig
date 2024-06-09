@@ -1,0 +1,7 @@
+2024/05/17-20:40:05.992 897 Creating DB /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb since it was missing.
+2024/05/17-20:40:06.000 897 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-20:40:06.800 8a8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/17-20:41:30.191 897 Level-0 table #5: started
+2024/05/17-20:41:30.209 897 Level-0 table #5: 8942 bytes OK
+2024/05/17-20:41:30.212 897 Delete type=0 #3
+2024/05/17-20:41:30.213 897 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

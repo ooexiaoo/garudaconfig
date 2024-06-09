@@ -1,0 +1,15 @@
+{
+  "_id": "8886a635-0bc3-4154-9907-566439d7ddf5",
+  "connectionInfo": {
+    "id": "8886a635-0bc3-4154-9907-566439d7ddf5",
+    "favorite": {
+      "name": "home",
+      "color": "color7"
+    },
+    "savedConnectionType": "favorite",
+    "connectionOptions": {
+      "connectionString": "mongodb://localhost:27017/"
+    }
+  },
+  "version": 1
+}

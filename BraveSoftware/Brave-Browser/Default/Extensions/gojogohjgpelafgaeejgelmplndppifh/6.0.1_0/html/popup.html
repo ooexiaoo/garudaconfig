@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/popup.css">
+    <link rel="stylesheet" href="../css/switcher.css">
+    <link rel="stylesheet" href="../css/inject.css">
+    <link rel="stylesheet" href="../css/stars.css">
+</head>
+
+<body>
+    <header>
+        <div class="header brdr">
+            <div id="appName">Email Tracker</div>
+            <a id="help"
+                href="https://snov.io/knowledgebase/knowledgebase/how-to-track-your-outgoing-emails-inside-your-gmail-account/"
+                target="_blank" style="position: absolute; right: 15px">
+                <img src="../img/help.png" title="Help">
+            </a>
+        </div>
+    </header>
+
+    <div class="switch-panel brdr" id="accounts">
+        <h4>Enable tracking for:</h4>
+    </div>
+
+    <div class="switch-panel brdr">
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="linkTracking" checked="true">
+            <div class="slider round"></div>
+        </label>
+        <span>Link tracking</span>
+        <br>
+
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="hideNotTrackedLabel" checked="false">
+            <div class="slider round"></div>
+        </label>
+        <span>Hide the "Not Tracked" label</span>
+        <br>
+
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="showSimpleLabels" checked="false">
+            <div class="slider round"></div>
+        </label>
+        <span>Simple labels</span>
+        <br>
+    </div>
+
+    <div class="switch-panel brdr" id="messages">
+        <h4>Show notifications:</h4>
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="open" checked="true">
+            <div class="slider round"></div>
+        </label>
+        <span>When email is opened</span>
+        <br>
+
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="link" checked="true">
+            <div class="slider round"></div>
+        </label>
+        <span>When a link is clicked</span>
+        <br>
+
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="sendLater" checked="true">
+            <div class="slider round"></div>
+        </label>
+        <span>When a scheduled email is sent</span>
+        <br>
+
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="reminder" checked="true">
+            <div class="slider round"></div>
+        </label>
+        <span>When a reminder is triggered</span>
+        <br>
+
+        <label class="switch">
+            <input class="switcher" type="checkbox" id="autoHidePush" checked="true">
+            <div class="slider round"></div>
+        </label>
+        <span>Do not automatically hide notifications</span>
+
+    </div>
+
+</body>
+
+<script src="../js/utils/jquery.min.js"></script>
+<script src="../js/utils/bootstrap.min.js"></script>
+<script src="../js/common.js"></script>
+<script src="../js/popup.js"></script>
+
+</html>

@@ -1,0 +1,187 @@
+body {
+    font-family: 'Share Tech Mono', monospace;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.content {
+    display: inline-block;
+}
+
+.max {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.containerm {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+    padding: 20px;
+    z-index: 0;
+    max-width: 1920px;
+    align-items: center;
+}
+
+.containerm > div {
+    background-color: rgba(0, 0, 0, 0.82);
+    padding: 20px;
+    border: 15px solid transparent;
+    transition: all 0.4s ease-in;
+    z-index: 0;
+    max-width: 300px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerm > div:hover {
+    border-image-source: url(/img/plus.png);
+    color: #fff;
+    background-color: #00000071;
+}
+
+h2 {
+    font-size: 1.7em;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+
+h3 {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+input[type="text"] {
+    width: calc(100% - 80px);
+    padding: 8px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+button {
+    font-size: 15px;
+    border: 10px solid transparent;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    font-weight: 400;
+    transition: 0.4s ease-in;
+    cursor: pointer;
+}
+
+button:hover {
+    color: gray;
+    border-image-source: url(/img/plus.png);
+}
+
+.message-input {
+    margin-top: 10px;
+}
+
+#messages-container {
+    margin-top: 10px;
+    max-height: 200px;
+    overflow-y: auto;
+    width: 100%;
+}
+
+.message-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.message-text {
+    flex-grow: 1;
+    max-width: calc(100% - 30px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.message-container .delete-message {
+    cursor: pointer;
+    color: red;
+    margin-left: 5px;
+}
+
+.message-container .read {
+    text-decoration: line-through;
+}
+
+#threat-list {
+    max-height: 100px;
+    overflow-y: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .containerm {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (min-width: 768.1px) and (max-width: 1000.9px) {
+    .containerm {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (min-width: 1001px) {
+    .containerm {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+.hero {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(39, 0, 214, 0.8), rgba(187, 3, 33, 0.8));
+    position: relative;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
+
+.hero video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    z-index: -1;
+}

@@ -1,0 +1,18 @@
+2024-06-08 14:21:03.811 [info] Started local extension host with pid 4034.
+2024-06-08 14:21:11.410 [info] [perf] Render performance baseline is 173ms
+2024-06-08 14:22:28.790 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/home/exia/.vscode-oss/extensions/codeium.codeium-1.8.51-universal/dist/extension.js:2:2172009)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-06-08 14:23:37.812 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/home/exia/.vscode-oss/extensions/codeium.codeium-1.8.51-universal/dist/extension.js:2:2172009)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-06-08 14:24:47.010 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/home/exia/.vscode-oss/extensions/codeium.codeium-1.8.51-universal/dist/extension.js:2:2172009)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-06-08 14:25:56.181 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/home/exia/.vscode-oss/extensions/codeium.codeium-1.8.51-universal/dist/extension.js:2:2172009)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)

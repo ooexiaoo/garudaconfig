@@ -1,0 +1,178 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=186,39,80
+BackgroundNormal=49,54,59
+DecorationFocus=246,33,89
+DecorationHover=246,33,89
+ForegroundActive=246,33,89
+ForegroundInactive=161,169,177
+ForegroundLink=246,33,89
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Complementary]
+BackgroundAlternate=30,87,116
+BackgroundNormal=42,46,50
+DecorationFocus=246,33,89
+DecorationHover=246,33,89
+ForegroundActive=246,33,89
+ForegroundInactive=161,169,177
+ForegroundLink=246,33,89
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header]
+BackgroundAlternate=42,46,50
+BackgroundNormal=49,54,59
+DecorationFocus=246,33,89
+DecorationHover=246,33,89
+ForegroundActive=246,33,89
+ForegroundInactive=161,169,177
+ForegroundLink=246,33,89
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header][Inactive]
+BackgroundAlternate=49,54,59
+BackgroundNormal=42,46,50
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Selection]
+BackgroundAlternate=180,32,71
+BackgroundNormal=180,32,71
+DecorationFocus=246,33,89
+DecorationHover=246,33,89
+ForegroundActive=246,33,89
+ForegroundInactive=255,255,255
+ForegroundLink=246,33,89
+ForegroundNegative=176,55,69
+ForegroundNeutral=198,92,0
+ForegroundNormal=255,255,255
+ForegroundPositive=23,104,57
+ForegroundVisited=155,89,182
+
+[Colors:Tooltip]
+BackgroundAlternate=42,46,50
+BackgroundNormal=49,54,59
+DecorationFocus=246,33,89
+DecorationHover=246,33,89
+ForegroundActive=246,33,89
+ForegroundInactive=161,169,177
+ForegroundLink=246,33,89
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:View]
+BackgroundAlternate=35,38,41
+BackgroundNormal=27,30,32
+DecorationFocus=246,33,89
+DecorationHover=246,33,89
+ForegroundActive=246,33,89
+ForegroundInactive=161,169,177
+ForegroundLink=246,33,89
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Window]
+BackgroundAlternate=49,54,59
+BackgroundNormal=42,46,50
+DecorationFocus=246,33,89
+DecorationHover=246,33,89
+ForegroundActive=246,33,89
+ForegroundInactive=161,169,177
+ForegroundLink=246,33,89
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[DirSelect Dialog]
+DirSelectDialog Size=978,574
+History Items[$e]=file:///run/media/exia/SDA2/My-PKM-copy,file:$HOME,file:///mnt/MINE/backup/Projects/Random Projects/Panic Button Chrome Extension/Panic Button Extension,file:///mnt/SDA3/digital garden,file:///mnt/SDA3/testpkm,file:///mnt/MINE/backup/Projects/Random Projects/myOnlineGarden,file:$HOME/Desktop,file:///mnt/SDA2/My-PKM-copy
+
+[General]
+AccentColor=246,33,89
+BrowserApplication=brave-browser.desktop
+ColorScheme=BreezeDark
+ColorSchemeHash=cb4c6ee5cc9a59dbe09fb467a529af1bf5c55c97
+LastUsedCustomAccentColor=233,100,58
+accentColorFromWallpaper=true
+
+[KDE]
+AnimationDurationFactor=0.35355339059327373
+LookAndFeelPackage=Dr460nized
+widgetStyle=Breeze
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=false
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=true
+Speedbar Width=144
+View Style=Simple
+
+[WM]
+activeBackground=49,54,59
+activeBlend=252,252,252
+activeForeground=252,252,252
+inactiveBackground=42,46,50
+inactiveBlend=161,169,177
+inactiveForeground=161,169,177

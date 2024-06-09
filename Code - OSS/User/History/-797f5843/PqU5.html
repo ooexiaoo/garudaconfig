@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <title>THI</title>
+    <link rel="icon" type="image/ico" href="/img/favicon.ico">
+</head>
+<body>
+    <section class="main-section">
+        <div class="hero">
+            <video autoplay loop muted playsinline class="back-video">
+                <source src="/img/bw.mp4" type="video/mp4">
+            </video>
+        </div>
+    </section>
+    <div class="content">
+        <h1>TOHA HEAVY INDUSTRIES</h1>
+    </div>
+    <div class="max">
+        <div class="containerm">
+            <div class="section communications">
+                <h2>COMMUNICATIONS</h2>
+                <div class="messages">
+                    <ul id="message-list">
+                        <li>Unread Messages: <span id="unread-messages">0</span></li>
+                        <li>Read Messages: <span id="read-messages">0</span></li>
+                    </ul>
+                </div>
+                <div class="message-input">
+                    <input type="text" id="new-message" placeholder="Type your message...">
+                    <button id="send-message">Send</button>
+                </div>
+                <div id="messages-container">
+                    <!-- Messages will be displayed here -->
+                </div>
+            </div>
+            <div class="section date-sector">
+                <h2>DATE & SECTOR</h2>
+                <div class="date">
+                    <p id="current-date">Loading...</p>
+                </div>
+                <div class="sector">
+                    <p>Latitude: <span id="latitude">0.00</span></p>
+                    <p>Longitude: <span id="longitude">0.00</span></p>
+                    <button id="get-location">Get Location</button>
+                </div>
+            </div>
+            <div class="threat">
+                <h2>THREAT</h2>
+                <ul id="threat-list"></ul>
+            </div>
+            <div class="terminal-access">
+                <h2>TERMINAL ACCESS</h2>
+                <input type="text" id="command-input" placeholder="Enter command...">
+                <button id="execute-command">Execute</button>
+            </div>
+            <div class="section operations">
+                <h2>OPERATIONS</h2>
+                <p>Current Operation: <span id="current-operation">None</span></p>
+                <p>Operation Status: <span id="operation-status">Idle</span></p>
+                <button id="start-operation">Start Operation</button>
+            </div>
+            <div class="section resources">
+                <h2>RESOURCES</h2>
+                <ul>
+                    <li>Material: <span id="material">X</span></li>
+                    <li>Energy: <span id="energy">X</span></li>
+                    <li>Personnel: <span id="personnel">X</span></li>
+                </ul>
+            </div>
+            <div class="section maintenance">
+                <h2>MAINTENANCE</h2>
+                <ul>
+                    <li>Systems Check: <span id="systems-check">Passed</span></li>
+                    <li>Last Maintenance: <span id="last-maintenance">Unknown</span></li>
+                    <li>Next Scheduled: <span id="next-scheduled">Pending</span></li>
+                </ul>
+            </div>
+            <div class="section intelligence">
+                <h2>INTELLIGENCE</h2>
+                <ul>
+                    <li>Surveillance Reports: <span id="surveillance-reports">X</span></li>
+                    <li>Recon Missions: <span id="recon-missions">X</span></li>
+                    <li>Data Breaches: <span id="data-breaches">X</span></li>
+                </ul>
+            </div>
+            <div class="login">
+                <button class="button">LOGIN</button>
+                <button class="button">LOCK</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="toha.js"></script>
+</body>
+</html>

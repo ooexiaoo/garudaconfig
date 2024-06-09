@@ -1,0 +1,33 @@
+{
+  "name": "kawaiidoro",
+  "version": "1.0.0",
+  "description": "Do things the Kawaii way!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "EXIA",
+  "license": "ISC",
+  "build": {
+    "appId": "your.app.kawaii",
+    "productName": "KawaiiDoro",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "time.js",
+      "upload.js",
+      "signin.js",
+      "colors.js",
+      "index.html",
+      "css/styles.css",
+      "img/img",
+      "time.css"
+    ],
+    "win": {
+      "icon": "/mnt/MINE/backup/Projects/Random Projects/TestApp/Web/cat.ico"
+    }
+  }
+}

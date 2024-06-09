@@ -1,0 +1,352 @@
+[2023-12-04 22:02:03.962] [info]  [Motrix] Logger init
+[2023-12-04 22:02:03.979] [warn]  [Motrix] Logger init
+[2023-12-04 22:02:04.395] [info]  [Motrix] openedAtLogin: false
+[2023-12-04 22:02:05.052] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/exia/.config/Motrix/logs',
+  'session-path': '/home/exia/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-12-04 22:02:15.924] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-12-04 22:02:15.929] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-12-04 22:02:16.381] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://102.223.180.235:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.6:1337/announce\n' +
+    '\n' +
+    'udp://193.189.100.190:6969/announce\n' +
+    '\n' +
+    'http://193.189.100.190:80/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://185.102.219.163:6969/announce\n' +
+    '\n' +
+    'udp://163.172.29.130:80/announce\n' +
+    '\n' +
+    'udp://185.50.159.149:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://34.94.213.23:6969/announce\n' +
+    '\n' +
+    'udp://51.81.222.188:6969/announce\n' +
+    '\n' +
+    'udp://35.227.12.84:1337/announce\n' +
+    '\n' +
+    'udp://130.61.55.93:3131/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'https://tracker.tamersunion.org:443/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.4.babico.name.tr:3131/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://sanincode.com:6969/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'udp://aarsen.me:6969/announce\n' +
+    '\n'
+]
+[2023-12-12 10:58:41.980] [info]  [Motrix] Logger init
+[2023-12-12 10:58:41.992] [warn]  [Motrix] Logger init
+[2023-12-12 10:58:42.232] [info]  [Motrix] openedAtLogin: false
+[2023-12-12 10:58:42.500] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/exia/.config/Motrix/logs',
+  'session-path': '/home/exia/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-12-12 10:58:51.590] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-12-12 10:58:51.593] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-12-12 10:58:52.065] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://102.223.180.235:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.6:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://185.50.159.149:6969/announce\n' +
+    '\n' +
+    'udp://185.102.219.163:6969/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n' +
+    'udp://34.94.213.23:6969/announce\n' +
+    '\n' +
+    'udp://130.61.55.93:3131/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n' +
+    'udp://35.227.12.84:6969/announce\n' +
+    '\n' +
+    'udp://51.68.174.87:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dump.cl:6969/announce\n' +
+    '\n' +
+    'udp://tracker.4.babico.name.tr:3131/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://open.free-tracker.ga:6969/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'udp://isk.richardsw.club:6969/announce\n' +
+    '\n' +
+    'udp://epider.me:6969/announce\n' +
+    '\n'
+]
+[2024-02-05 00:25:08.802] [info]  [Motrix] Logger init
+[2024-02-05 00:25:08.826] [warn]  [Motrix] Logger init
+[2024-02-05 00:25:09.084] [info]  [Motrix] openedAtLogin: false
+[2024-02-05 00:25:09.374] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/exia/.config/Motrix/logs',
+  'session-path': '/home/exia/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2024-02-05 00:25:15.988] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2024-02-05 00:25:15.990] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2024-02-05 00:25:17.006] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.137.251.46:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.6:1337/announce\n' +
+    '\n' +
+    'http://193.189.100.187:80/announce\n' +
+    '\n' +
+    'udp://193.189.100.187:6969/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://107.189.11.58:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://185.102.219.163:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://tracker.auctor.tv:6969/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'https://tracker.tamersunion.org:443/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'https://tracker.gbitt.info:443/announce\n' +
+    '\n' +
+    'http://tracker.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n'
+]
+[2024-03-12 16:57:24.624] [info]  [Motrix] Logger init
+[2024-03-12 16:57:24.635] [warn]  [Motrix] Logger init
+[2024-03-12 16:58:20.051] [info]  [Motrix] openedAtLogin: false
+[2024-03-12 16:58:20.972] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/exia/.config/Motrix/logs',
+  'session-path': '/home/exia/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2024-03-12 16:58:26.253] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2024-03-12 16:58:26.261] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2024-03-12 16:58:26.691] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.137.251.46:6969/announce\n' +
+    '\n' +
+    'udp://186.10.181.146:1337/announce\n' +
+    '\n' +
+    'udp://23.134.90.6:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://107.189.11.58:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n' +
+    'udp://220.130.15.30:80/announce\n' +
+    '\n' +
+    'udp://83.146.98.78:6969/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://94.243.222.100:6969/announce\n' +
+    '\n' +
+    'udp://34.89.30.59:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://tracker.auctor.tv:6969/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'https://tracker.gbitt.info:443/announce\n' +
+    '\n' +
+    'http://tracker.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.bittor.pw:1337/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'https://tracker.tamersunion.org:443/announce\n' +
+    '\n' +
+    'http://tracker.ipv6tracker.org:80/announce\n' +
+    '\n'
+]

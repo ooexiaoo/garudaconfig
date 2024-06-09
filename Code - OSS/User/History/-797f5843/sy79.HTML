@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toha Heavy Industries UI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Toha Heavy Industries</h1>
+            <div class="hud">
+                <div class="health-bar">
+                    <div class="health">80%</div>
+                </div>
+                <div class="ammo-count">Ammo: 50</div>
+            </div>
+        </header>
+        <main>
+            <div class="console">
+                <div class="screen">
+                    <h2>System Console</h2>
+                    <div class="log">
+                        <p>Initializing system...</p>
+                        <p>Loading modules...</p>
+                        <p>System online.</p>
+                    </div>
+                    <input type="text" class="console-input" placeholder="Enter command...">
+                </div>
+            </div>
+            <div class="holographic-display">
+                <div class="holo-panel">
+                    <h3>Mission Log</h3>
+                    <ul>
+                        <li>Mission 1: Retrieve the data core</li>
+                        <li>Mission 2: Secure the perimeter</li>
+                        <li>Mission 3: Eliminate the threat</li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <p>&copy; 2024 Toha Heavy Industries. All rights reserved.</p>
+        </footer>
+    </div>
+    <audio id="ambient-sound" loop>
+        <source src="ambient-sound.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="ui-sound">
+        <source src="ui-sound.mp3" type="audio/mpeg">
+    </audio>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,127 @@
+#appName {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#userBalance {
+    font-size: 14px;
+}
+
+.switch {
+    top: -2px;
+}
+
+.switch-panel {
+    padding: 10px 15px;
+    max-height: 220px;
+    overflow: auto;
+}
+
+.switch-panel label {
+    vertical-align: middle;
+}
+
+.switch-panel span {
+    padding-bottom: 4px;
+    padding-left: 2px;
+    /* padding: 5px; */
+    display: inline-block;
+    min-width: 150px;
+    vertical-align: middle;
+}
+
+.pnl {
+    padding: 10px 15px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px;
+    align-items: center;
+}
+
+.left {
+    color: #45dea0
+}
+
+.left-warn {
+    color: orangered;
+}
+
+.left-err {
+    color: red;
+    font-weight: bold;
+}
+
+.left-descr {
+    color: #8d8d8d;
+}
+
+.brdr {
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+.footer {
+    padding: 15px;
+}
+
+.emails {
+    background-color: #F6F8FD;
+    max-height: 240px;
+    overflow: auto;
+}
+
+#email_list {
+    padding-bottom: 0;
+}
+
+.all-emails {
+    /* background-color: #F6F8FD; */
+    max-height: 310px;
+    overflow: auto;
+}
+
+label {
+    font-weight: normal;
+}
+
+body {
+    font-family: 'Roboto', sans-serif, Arial, Helvetica;
+    background-color: white;
+    width: 435px;
+}
+
+.label-email {
+    display: block;
+    padding-left: 4px;
+}
+
+.statusText {
+    padding-left: 2px;
+}
+
+a {
+    color: #afa7ff;
+    transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #7a6dff;
+    text-decoration: none;
+}
+
+.btn-primary {
+    transition: background 0.3s ease;
+    background: #afa7ff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #7a6dff;
+}
+
+.error-mess {
+    color: red;
+}

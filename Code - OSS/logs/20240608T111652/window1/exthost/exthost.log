@@ -1,0 +1,8 @@
+2024-06-08 11:17:00.387 [info] Extension host with pid 4036 started
+2024-06-08 11:17:00.387 [info] Skipping acquiring lock for /home/exia/.config/Code - OSS/User/workspaceStorage/e5a71be6ce7a7c834d580596e387ce5f.
+2024-06-08 11:17:01.082 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-08 11:17:01.150 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-06-08 11:17:02.241 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-08 11:17:02.265 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-06-08 11:17:02.545 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-08 11:17:02.548 [info] Extension host with pid 4036 exiting with code 0

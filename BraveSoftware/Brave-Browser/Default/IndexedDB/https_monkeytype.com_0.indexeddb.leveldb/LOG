@@ -1,0 +1,24 @@
+2024/06/06-12:54:54.710 1ca9 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/06-12:54:54.710 1ca9 Recovering log #7
+2024/06/06-12:54:54.711 1ca9 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000007.log 
+2024/06/06-12:54:54.928 1ca9 Level-0 table #11: started
+2024/06/06-12:54:54.934 1ca9 Level-0 table #11: 1451 bytes OK
+2024/06/06-12:54:54.939 1ca9 Delete type=0 #7
+2024/06/06-12:54:54.942 1cb8 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 177 : 1
+2024/06/06-12:54:54.943 1cb8 Compacting 1@0 + 1@1 files
+2024/06/06-12:54:54.945 1cb8 Generated table #12@0: 52 keys, 1517 bytes
+2024/06/06-12:54:54.946 1cb8 Compacted 1@0 + 1@1 files => 1517 bytes
+2024/06/06-12:54:54.953 1cb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/06-12:54:54.955 1cb8 Delete type=2 #11
+2024/06/06-12:54:54.956 1ca6 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 177 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/06-12:56:36.600 1ca6 Level-0 table #14: started
+2024/06/06-12:56:36.605 1ca6 Level-0 table #14: 1964 bytes OK
+2024/06/06-12:56:36.609 1ca6 Delete type=2 #8
+2024/06/06-12:56:36.609 1ca6 Delete type=0 #10
+2024/06/06-12:56:36.611 1ca6 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 234 : 1
+2024/06/06-12:56:36.611 1ca6 Compacting 1@0 + 1@1 files
+2024/06/06-12:56:36.626 1ca6 Generated table #15@0: 63 keys, 1429 bytes
+2024/06/06-12:56:36.626 1ca6 Compacted 1@0 + 1@1 files => 1429 bytes
+2024/06/06-12:56:36.630 1ca6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/06-12:56:36.631 1ca6 Delete type=2 #14
+2024/06/06-12:56:36.631 1ca6 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 234 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

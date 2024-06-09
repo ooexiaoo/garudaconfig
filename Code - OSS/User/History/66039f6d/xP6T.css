@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+body {
+    font-family: 'Orbitron', sans-serif;
+    background-color: #0b0b0b;
+    color: #ffffff;
+    margin: 0;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header {
+    padding: 20px;
+    background: #111111;
+    border-bottom: 2px solid #222222;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 1.5em;
+    margin: 0;
+    color: #39ff14;
+}
+
+.hud {
+    display: flex;
+    gap: 20px;
+}
+
+.health-bar {
+    background: #333333;
+    border: 2px solid #555555;
+    padding: 5px;
+    position: relative;
+    width: 200px;
+}
+
+.health-bar .health {
+    background: #ff0000;
+    width: 80%;
+    padding: 5px 0;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.ammo-count {
+    background: #333333;
+    border: 2px solid #555555;
+    padding: 10px;
+}
+
+main {
+    display: flex;
+    flex: 1;
+    padding: 20px;
+    gap: 20px;
+    background: #0b0b0b;
+}
+
+.console, .holographic-display {
+    background: #111111;
+    border: 2px solid #222222;
+    padding: 20px;
+    flex: 1;
+    position: relative;
+}
+
+.console .screen {
+    border: 2px solid #555555;
+    padding: 10px;
+    background: #0b0b0b;
+    color: #39ff14;
+}
+
+.console .log {
+    height: 200px;
+    overflow-y: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9em;
+}
+
+.console-input {
+    width: 100%;
+    padding: 10px;
+    background: #0b0b0b;
+    border: 2px solid #555555;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.holographic-display .holo-panel {
+    background: rgba(0, 255, 0, 0.1);
+    border: 2px solid #39ff14;
+    padding: 10px;
+}
+
+footer {
+    background: #111111;
+    padding: 10px;
+    text-align: center;
+    border-top: 2px solid #222222;
+}
+
+footer p {
+    margin: 0;
+    color: #555555;
+}

@@ -1,0 +1,44 @@
+17:20:24.782: Using EGL/X11
+17:20:24.783: CPU Name: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+17:20:24.783: CPU Speed: 2260.831MHz
+17:20:24.783: Physical Cores: 2, Logical Cores: 4
+17:20:24.783: Physical Memory: 3583MB Total, 920MB Free
+17:20:24.783: Kernel Version: Linux 6.5.8-zen1-1-zen
+17:20:24.784: Distribution: "Garuda Linux" Unknown
+17:20:24.784: Desktop Environment: KDE (KDE)
+17:20:24.784: Session Type: x11
+17:20:24.784: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+17:20:24.792: Qt Version: 6.6.0 (runtime), 6.5.1 (compiled)
+17:20:24.792: Portable mode: false
+17:20:25.003: OBS 29.1.3-1 (linux)
+17:20:25.003: ---------------------------------
+17:20:25.005: ---------------------------------
+17:20:25.005: audio settings reset:
+17:20:25.005: 	samples per sec: 48000
+17:20:25.005: 	speakers:        2
+17:20:25.005: 	max buffering:   960 milliseconds
+17:20:25.005: 	buffering type:  dynamically increasing
+17:20:25.012: ---------------------------------
+17:20:25.013: Initializing OpenGL...
+17:20:25.171: Unable to create EGL context: EGL_BAD_MATCH
+17:20:25.172: Failed to create context!
+17:20:25.172: device_create (GL) failed
+17:20:25.173: Failed to initialize video.  Your GPU may not be supported, or your graphics drivers may need to be updated.
+17:21:12.623: Freeing OBS context data
+17:21:12.757: == Profiler Results =============================
+17:21:12.757: run_program_init: 48273.5 ms
+17:21:12.757:  ┣OBSApp::AppInit: 34.731 ms
+17:21:12.758:  ┃ ┗OBSApp::InitLocale: 14.092 ms
+17:21:12.759:  ┗OBSApp::OBSInit: 390.381 ms
+17:21:12.760:    ┣obs_startup: 9.354 ms
+17:21:12.761:    ┗OBSBasic::OBSInit: 167.416 ms
+17:21:12.761:      ┣OBSBasic::InitBasicConfig: 0.359 ms
+17:21:12.761:      ┣OBSBasic::ResetAudio: 0.587 ms
+17:21:12.761:      ┗OBSBasic::ResetVideo: 166.355 ms
+17:21:12.761: obs_hotkey_thread(25 ms): min=0.19 ms, median=0.487 ms, max=97.287 ms, 99th percentile=1.688 ms, 99.8377% below 25 ms
+17:21:12.762: audio_thread(Audio): min=0.02 ms, median=0.05 ms, max=0.827 ms, 99th percentile=0.088 ms
+17:21:12.762: =================================================
+17:21:12.762: == Profiler Time Between Calls ==================
+17:21:12.762: obs_hotkey_thread(25 ms): min=25.281 ms, median=25.62 ms, max=122.377 ms, 33.4597% within ±2% of 25 ms (0% lower, 66.5403% higher)
+17:21:12.762: =================================================
+17:21:12.770: Number of memory leaks: 550

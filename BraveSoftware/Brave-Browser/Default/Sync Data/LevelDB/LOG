@@ -1,0 +1,6 @@
+2024/06/09-18:14:39.937 5ebf Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/09-18:14:39.941 5ebf Recovering log #878
+2024/06/09-18:14:39.952 5ebf Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000878.log 
+2024/06/09-18:14:57.432 5ed1 Level-0 table #882: started
+2024/06/09-18:14:57.452 5ed1 Level-0 table #882: 71891 bytes OK
+2024/06/09-18:14:57.459 5ed1 Delete type=0 #878

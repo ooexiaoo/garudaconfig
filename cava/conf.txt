@@ -1,0 +1,11 @@
+[general]
+bars = 2
+sleep_timer = 1
+
+[input]
+method = alsa
+source = plughw:Loopback,1
+
+[output]
+method = raw
+data_format = ascii

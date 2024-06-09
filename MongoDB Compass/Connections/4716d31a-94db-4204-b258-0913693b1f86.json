@@ -1,0 +1,18 @@
+{
+  "_id": "4716d31a-94db-4204-b258-0913693b1f86",
+  "connectionInfo": {
+    "id": "4716d31a-94db-4204-b258-0913693b1f86",
+    "lastUsed": "2024-04-09T10:58:55.907Z",
+    "favorite": {
+      "name": "backend nextjs",
+      "color": "color9"
+    },
+    "savedConnectionType": "favorite",
+    "connectionOptions": {
+      "connectionString": "mongodb+srv://wolfr13@cluster0.xdkd2iw.mongodb.net/",
+      "oidc": {}
+    }
+  },
+  "connectionSecrets": "djExvsqPLpz5TV42A+EOTMG0FxBKF/tcuV/sk74h6MMn9rMvRNjuc15SBh5RVd5je5OnKB+LDxoFubKHK+v7TZKBZ70j66RRzc+Kwkh41CYzLYXztp/r7t2/BlsGSQqns5pfkqOD2fSQpdyN8QcwXlu8lA==",
+  "version": 1
+}

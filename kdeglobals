@@ -1,0 +1,154 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=-1
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=119,105,162
+BackgroundNormal=68,68,68
+DecorationFocus=142,121,203
+DecorationHover=142,121,203
+ForegroundActive=142,121,203
+ForegroundInactive=189,195,199
+ForegroundLink=142,121,203
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,165,73
+ForegroundNormal=250,250,250
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=66,66,66
+BackgroundNormal=51,51,51
+DecorationFocus=142,121,203
+DecorationHover=142,121,203
+ForegroundActive=142,121,203
+ForegroundInactive=136,136,136
+ForegroundLink=142,121,203
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Selection]
+BackgroundAlternate=108,93,151
+BackgroundNormal=108,93,151
+DecorationFocus=142,121,203
+DecorationHover=142,121,203
+ForegroundActive=142,121,203
+ForegroundInactive=255,255,255
+ForegroundLink=142,121,203
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,165,73
+ForegroundNormal=255,255,255
+ForegroundPositive=39,174,96
+ForegroundVisited=128,152,239
+
+[Colors:Tooltip]
+BackgroundAlternate=77,77,77
+BackgroundNormal=50,50,50
+DecorationFocus=142,121,203
+DecorationHover=142,121,203
+ForegroundActive=142,121,203
+ForegroundInactive=189,195,199
+ForegroundLink=142,121,203
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,165,73
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=50,50,50
+BackgroundNormal=30,30,30
+DecorationFocus=142,121,203
+DecorationHover=142,121,203
+ForegroundActive=142,121,203
+ForegroundInactive=255,255,255
+ForegroundLink=142,121,203
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,165,73
+ForegroundNormal=234,234,234
+ForegroundPositive=39,174,96
+ForegroundVisited=120,120,120
+
+[Colors:Window]
+BackgroundAlternate=66,66,66
+BackgroundNormal=30,30,30
+DecorationFocus=142,121,203
+DecorationHover=142,121,203
+ForegroundActive=142,121,203
+ForegroundInactive=136,136,136
+ForegroundLink=142,121,203
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,165,73
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=250,250,250
+
+[DirSelect Dialog]
+DirSelectDialog Size=996,584
+History Items[$e]=file:///mnt/MINE/Music,file:///mnt/G,file:///mnt/Shows,file:///mnt/MINE,file:///mnt/SDA2/My-PKM-copy,file:///run/media/exia/SDA2/My-PKM-copy,file:$HOME,file:///mnt/MINE/backup/Projects/Random Projects/Panic Button Chrome Extension/Panic Button Extension,file:///mnt/SDA3/digital garden,file:///mnt/SDA3/testpkm,file:///mnt/MINE/backup/Projects/Random Projects/myOnlineGarden,file:$HOME/Desktop
+
+[General]
+AccentColor=142,121,203
+BrowserApplication=brave-browser.desktop
+ColorSchemeHash=73b48098c551839157d118418b982dd938ee472c
+LastUsedCustomAccentColor=233,100,58
+accentColorFromWallpaper=true
+
+[Icons]
+Theme=Flat-Remix-Blue-Light-darkPanel
+
+[KDE]
+AnimationDurationFactor=0.35355339059327373
+LookAndFeelPackage=Nothing
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=false
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=true
+Speedbar Width=144
+View Style=Simple
+
+[Sounds]
+Theme=Harmony2
+
+[WM]
+activeBackground=30,30,30
+activeBlend=171,171,171
+activeForeground=222,222,222
+inactiveBackground=66,66,66
+inactiveBlend=234,234,234
+inactiveForeground=234,234,234
