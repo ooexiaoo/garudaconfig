@@ -15,15 +15,32 @@ wmclass=obsidian
 wmclassmatch=1
 
 [1]
-Description=Application settings for org.kde.konsole
+Description=Application settings for Shotwell
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=konsole org.kde.konsole
+wmclass=shotwell Shotwell
 wmclasscomplete=true
 wmclassmatch=1
 
 [10]
+Description=Application settings for kate
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=kate
+wmclassmatch=1
+
+[11]
+Description=Application settings for Brave-browser
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=brave-browser Brave-browser
+wmclasscomplete=true
+wmclassmatch=1
+
+[12]
 Description=Application settings for code-oss
 clientmachine=localhost
 noborder=true
@@ -31,7 +48,7 @@ noborderrule=2
 wmclass=code-oss
 wmclassmatch=1
 
-[11]
+[13]
 Description=Application settings for plasma-systemmonitor
 clientmachine=localhost
 noborder=true
@@ -39,7 +56,7 @@ noborderrule=2
 wmclass=plasma-systemmonitor
 wmclassmatch=1
 
-[12]
+[14]
 Description=Application settings for plasmashell
 clientmachine=localhost
 noborder=true
@@ -47,7 +64,7 @@ noborderrule=2
 wmclass=plasmashell
 wmclassmatch=1
 
-[13]
+[15]
 Description=Application settings for konsole
 clientmachine=localhost
 noborder=true
@@ -55,16 +72,19 @@ noborderrule=2
 wmclass=konsole
 wmclassmatch=1
 
-[14]
+[16]
 Description=Application settings for firedragon
 clientmachine=localhost
 noborder=true
 noborderrule=2
+skipswitcher=true
+type=5
+typerule=2
 wmclass=Navigator firedragon
 wmclasscomplete=true
 wmclassmatch=1
 
-[15]
+[17]
 Description=Application settings for dolphin
 clientmachine=localhost
 noborder=true
@@ -72,32 +92,21 @@ noborderrule=2
 wmclass=dolphin
 wmclassmatch=1
 
-[16]
+[18]
 Description=Application settings for NoiseTorch-ng
 clientmachine=localhost
 noborder=true
 noborderrule=2
-skipswitcher=true
-type=5
-typerule=2
 wmclass=NoiseTorch-ng
 wmclassmatch=1
 
-[17]
+[19]
 Description=Application settings for org.kde.dolphin
 clientmachine=localhost
 noborder=true
 noborderrule=2
 wmclass=dolphin org.kde.dolphin
 wmclasscomplete=true
-wmclassmatch=1
-
-[18]
-Description=Application settings for systemsettings
-clientmachine=localhost
-noborder=true
-noborderrule=2
-wmclass=systemsettings
 wmclassmatch=1
 
 [19bbb7cb-640b-498b-84ec-595eeb00ea65]
@@ -109,11 +118,28 @@ wmclass=code-oss
 wmclassmatch=1
 
 [2]
-Description=Application settings for FreeTube
+Description=Application settings for Inkscape
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=freetube FreeTube
+wmclass=org.inkscape.Inkscape Inkscape
+wmclasscomplete=true
+wmclassmatch=1
+
+[20]
+Description=Application settings for systemsettings
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=systemsettings
+wmclassmatch=1
+
+[224cb583-9439-4ca2-b07b-365815f35f8c]
+Description=Application settings for Inkscape
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=org.inkscape.Inkscape Inkscape
 wmclasscomplete=true
 wmclassmatch=1
 
@@ -159,11 +185,12 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [3]
-Description=Application settings for soffice.bin
+Description=Application settings for org.kde.konsole
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=soffice.bin
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
 wmclassmatch=1
 
 [352bf943-b332-43a7-a05d-b21ff6ffdc48]
@@ -183,11 +210,11 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [4]
-Description=Application settings for Spacedrive
+Description=Application settings for FreeTube
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=spacedrive Spacedrive
+wmclass=freetube FreeTube
 wmclasscomplete=true
 wmclassmatch=1
 
@@ -210,12 +237,11 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [5]
-Description=Application settings for Free Download Manager
+Description=Application settings for soffice.bin
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=fdm Free Download Manager
-wmclasscomplete=true
+wmclass=soffice.bin
 wmclassmatch=1
 
 [54c2d354-3945-42ab-bd6f-ef4fa8363c18]
@@ -243,11 +269,11 @@ wmclass=soffice.bin
 wmclassmatch=1
 
 [6]
-Description=Application settings for Spotify
+Description=Application settings for Spacedrive
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=spotify Spotify
+wmclass=spacedrive Spacedrive
 wmclasscomplete=true
 wmclassmatch=1
 
@@ -269,11 +295,12 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [7]
-Description=Application settings for obsidian
+Description=Application settings for Free Download Manager
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=obsidian
+wmclass=fdm Free Download Manager
+wmclasscomplete=true
 wmclassmatch=1
 
 [7394b59b-375f-40d0-824d-2da44c9b5e8b]
@@ -309,11 +336,12 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [8]
-Description=Application settings for kate
+Description=Application settings for Spotify
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=kate
+wmclass=spotify Spotify
+wmclasscomplete=true
 wmclassmatch=1
 
 [81be2cb3-c7e5-41bf-9129-cb4fa66d12ee]
@@ -325,12 +353,11 @@ wmclass=NoiseTorch-ng
 wmclassmatch=1
 
 [9]
-Description=Application settings for Brave-browser
+Description=Application settings for obsidian
 clientmachine=localhost
 noborder=true
 noborderrule=2
-wmclass=brave-browser Brave-browser
-wmclasscomplete=true
+wmclass=obsidian
 wmclassmatch=1
 
 [9e8c7a6f-a866-4139-b840-1fd967c09aa8]
@@ -343,8 +370,8 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [General]
-count=18
-rules=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+count=20
+rules=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
 
 [a262527b-64ea-44cd-9f1f-7e0905e5c770]
 Description=Application settings for NoiseTorch
@@ -386,6 +413,15 @@ clientmachine=localhost
 noborder=true
 noborderrule=2
 wmclass=dolphin
+wmclassmatch=1
+
+[cbb08e23-e815-474d-b070-670239b9b7c7]
+Description=Application settings for Shotwell
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=shotwell Shotwell
+wmclasscomplete=true
 wmclassmatch=1
 
 [d368a9d9-6458-4ee2-b8ac-5c736fac2910]

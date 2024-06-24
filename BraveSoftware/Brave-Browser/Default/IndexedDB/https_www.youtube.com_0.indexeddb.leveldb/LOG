@@ -1,14 +1,11 @@
-2024/06/09-18:35:24.811 5ed1 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/09-18:35:24.815 5ed1 Recovering log #2596
-2024/06/09-18:35:24.846 5ed1 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/002596.log 
-2024/06/09-18:37:32.937 5ebf Level-0 table #2602: started
-2024/06/09-18:37:33.004 5ebf Level-0 table #2602: 1755240 bytes OK
-2024/06/09-18:37:33.012 5ebf Delete type=0 #2596
-2024/06/09-18:37:55.701 5ebf Compacting 1@1 + 2@2 files
-2024/06/09-18:37:55.930 5ebf Generated table #2603@1: 39963 keys, 2295136 bytes
-2024/06/09-18:37:56.113 5ebf Generated table #2604@1: 22435 keys, 1473645 bytes
-2024/06/09-18:37:56.114 5ebf Compacted 1@1 + 2@2 files => 3768781 bytes
-2024/06/09-18:37:56.119 5ebf compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/06/09-18:37:56.120 5ebf Delete type=2 #2598
-2024/06/09-18:37:56.121 5ebf Delete type=2 #2599
-2024/06/09-18:37:56.121 5ebf Delete type=2 #2602
+2024/06/24-14:00:22.070 95d Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/24-14:00:22.074 95d Recovering log #3284
+2024/06/24-14:00:22.078 95d Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/003284.log 
+2024/06/24-14:00:24.623 95e Compacting 1@1 + 2@2 files
+2024/06/24-14:00:24.877 95e Generated table #3287@1: 40079 keys, 2295150 bytes
+2024/06/24-14:00:25.101 95e Generated table #3288@1: 22544 keys, 1501335 bytes
+2024/06/24-14:00:25.104 95e Compacted 1@1 + 2@2 files => 3796485 bytes
+2024/06/24-14:00:25.110 95e compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/06/24-14:00:25.110 95e Delete type=2 #3282
+2024/06/24-14:00:25.111 95e Delete type=2 #3283
+2024/06/24-14:00:25.111 95e Delete type=2 #3285

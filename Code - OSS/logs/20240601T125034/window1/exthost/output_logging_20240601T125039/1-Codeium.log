@@ -1,7 +1,0 @@
-2024-06-01 12:50:43.954 [INFO]: No proxy settings found
-2024-06-01 12:50:47.107 [INFO]: Creating manager directory: /tmp/ebac216b-4ac2-47cf-a343-3375f5a86d7c/codeium/manager
-2024-06-01 12:50:47.113 [INFO]: a6fe046230abf98ffec08c41e07bd70c108ee4a2 not found, downloading language server
-2024-06-01 12:50:47.122 [INFO]: No proxy settings found
-2024-06-01 12:55:47.591 [ERROR]: Failed to download from https://github.com/Exafunction/codeium/releases/download/language-server-v1.8.51/language_server_linux_x64.gz
-2024-06-01 12:55:47.604 [ERROR]: Language server binary not found: undefined
-2024-06-01 12:55:57.620 [ERROR]: fetch failed

@@ -46,6 +46,9 @@ OutlineColor=255,0,0
 ShadowSize=10
 Size=15
 
+[IncludeExclude]
+Inclusions=brave-browser,systemsettings,plasmashell
+
 [NightColor]
 Active=true
 LatitudeAuto=22
@@ -57,7 +60,7 @@ blurEnabled=true
 contrastEnabled=true
 diminactiveEnabled=true
 fadedesktopEnabled=true
-kwin4_effect_shapecornersEnabled=true
+kwin4_effect_shapecornersEnabled=false
 magiclampEnabled=true
 sheetEnabled=true
 slideEnabled=false
@@ -66,6 +69,21 @@ squashEnabled=false
 trackmouseEnabled=true
 translucencyEnabled=true
 wobblywindowsEnabled=true
+
+[PrimaryOutline]
+ActiveOutlineAlpha=216
+InactiveOutlinePalette=20
+InactiveOutlineUseCustom=false
+InactiveOutlineUsePalette=true
+OutlineColor=255,0,0
+
+[SecondOutline]
+InactiveSecondOutlinePalette=20
+InactiveSecondOutlineThickness=0
+InactiveSecondOutlineUseCustom=false
+InactiveSecondOutlineUsePalette=true
+SecondOutlineColor=255,0,0
+SecondOutlineThickness=0
 
 [Tiling]
 padding=4
@@ -95,4 +113,8 @@ Scale=1
 BorderSizeAuto=false
 ButtonsOnLeft=XAI
 ButtonsOnRight=HSM
-theme=__aurorae__svg__Sweet-Dark
+theme=__aurorae__svg__Dr460nized-Rounded
+
+[ًRound-Corners]
+InactiveShadowSize=10
+ShadowSize=10

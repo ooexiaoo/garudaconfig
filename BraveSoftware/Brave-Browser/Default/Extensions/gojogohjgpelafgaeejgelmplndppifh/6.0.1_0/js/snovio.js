@@ -1,1 +1,0 @@
-document.getElementById("extensionAlert")&&document.getElementById("extensionAlert").remove();

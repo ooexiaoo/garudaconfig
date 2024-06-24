@@ -1,12 +1,3 @@
-2024/06/09-18:14:44.160 5ebf Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2024/06/09-18:14:44.162 5ebf Recovering log #1011
-2024/06/09-18:14:44.181 5ebf Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/001011.log 
-2024/06/09-18:37:48.182 5ebf Compacting 1@1 + 1@2 files
-2024/06/09-18:37:48.200 5ebf Generated table #1015@1: 29 keys, 93355 bytes
-2024/06/09-18:37:48.200 5ebf Compacted 1@1 + 1@2 files => 93355 bytes
-2024/06/09-18:37:48.206 5ebf compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/09-18:37:48.207 5ebf Delete type=2 #993
-2024/06/09-18:37:48.207 5ebf Delete type=2 #1013
-2024/06/09-18:46:44.389 5ec1 Level-0 table #1017: started
-2024/06/09-18:46:44.410 5ec1 Level-0 table #1017: 358223 bytes OK
-2024/06/09-18:46:44.416 5ec1 Delete type=0 #1011
+2024/06/24-13:59:20.878 960 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2024/06/24-13:59:20.908 960 Recovering log #3498
+2024/06/24-13:59:20.955 960 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/003498.log 

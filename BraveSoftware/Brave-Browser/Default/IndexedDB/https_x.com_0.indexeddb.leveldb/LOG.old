@@ -1,3 +1,23 @@
-2024/06/09-13:22:21.109 15b7 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/09-13:22:21.112 15b7 Recovering log #45
-2024/06/09-13:22:21.112 15b7 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000045.log 
+2024/06/20-00:52:19.620 3e1e Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/20-00:52:19.621 3e1e Recovering log #141
+2024/06/20-00:52:19.632 3e1e Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000141.log 
+2024/06/20-01:03:02.306 3e1f Level-0 table #145: started
+2024/06/20-01:03:02.358 3e1f Level-0 table #145: 2683718 bytes OK
+2024/06/20-01:03:02.366 3e1f Delete type=0 #141
+2024/06/20-01:03:02.368 3e1f Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01'\x00u\x00s\x00e\x00r\x00:\x001\x005\x009\x000\x003\x006\x005\x003\x006\x007\x008\x003\x004\x000\x009\x005\x006\x001\x007\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s\x00v\x002' @ 41685 : 1
+2024/06/20-01:03:02.368 3e1f Compacting 2@0 + 1@1 files
+2024/06/20-01:03:02.400 3e1f Generated table #146@0: 2009 keys, 18565 bytes
+2024/06/20-01:03:02.400 3e1f Compacted 2@0 + 1@1 files => 18565 bytes
+2024/06/20-01:03:02.405 3e1f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/20-01:03:02.407 3e1f Delete type=2 #140
+2024/06/20-01:03:02.407 3e1f Delete type=2 #142
+2024/06/20-01:03:02.407 3e1f Delete type=2 #145
+2024/06/20-01:03:02.412 3e1f Manual compaction at level-0 from '\x00\x01\x01\x02\x01'\x00u\x00s\x00e\x00r\x00:\x001\x005\x009\x000\x003\x006\x005\x003\x006\x007\x008\x003\x004\x000\x009\x005\x006\x001\x007\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s\x00v\x002' @ 41685 : 1 .. (end); will stop at (end)
+2024/06/20-01:03:02.413 3e1f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x002\x01\x04' @ 43331 : 1
+2024/06/20-01:03:02.413 3e1f Compacting 1@1 + 1@2 files
+2024/06/20-01:03:02.417 3e1f Generated table #147@1: 47 keys, 829 bytes
+2024/06/20-01:03:02.417 3e1f Compacted 1@1 + 1@2 files => 829 bytes
+2024/06/20-01:03:02.425 3e1f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/20-01:03:02.426 3e1f Delete type=2 #124
+2024/06/20-01:03:02.426 3e1f Delete type=2 #146
+2024/06/20-01:03:02.428 3e1f Manual compaction at level-1 from '\x00\x03\x00\x002\x01\x04' @ 43331 : 1 .. (end); will stop at (end)

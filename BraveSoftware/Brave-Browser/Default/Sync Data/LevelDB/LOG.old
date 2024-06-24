@@ -1,24 +1,6 @@
-2024/06/09-15:50:25.838 4c62 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/06/09-15:50:25.840 4c62 Recovering log #868
-2024/06/09-15:50:25.842 4c62 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000868.log 
-2024/06/09-15:54:34.296 4c62 Level-0 table #872: started
-2024/06/09-15:54:34.310 4c62 Level-0 table #872: 78650 bytes OK
-2024/06/09-15:54:34.321 4c62 Delete type=0 #868
-2024/06/09-16:55:09.400 4c63 Level-0 table #874: started
-2024/06/09-16:55:09.409 4c63 Level-0 table #874: 66736 bytes OK
-2024/06/09-16:55:09.416 4c63 Delete type=0 #871
-2024/06/09-16:55:09.418 4c63 Compacting 4@0 + 1@1 files
-2024/06/09-16:55:09.436 4c63 Generated table #875@0: 318 keys, 37256 bytes
-2024/06/09-16:55:09.436 4c63 Compacted 4@0 + 1@1 files => 37256 bytes
-2024/06/09-16:55:09.439 4c63 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/09-16:55:09.440 4c63 Delete type=2 #864
-2024/06/09-16:55:09.440 4c63 Delete type=2 #867
-2024/06/09-16:55:09.440 4c63 Delete type=2 #869
-2024/06/09-16:55:09.441 4c63 Delete type=2 #872
-2024/06/09-16:55:09.441 4c63 Delete type=2 #874
-2024/06/09-17:40:25.940 4c61 Level-0 table #877: started
-2024/06/09-17:40:25.952 4c61 Level-0 table #877: 62500 bytes OK
-2024/06/09-17:40:25.957 4c61 Delete type=0 #873
-2024/06/09-17:53:48.539 4c62 Level-0 table #879: started
-2024/06/09-17:53:48.552 4c62 Level-0 table #879: 72273 bytes OK
-2024/06/09-17:53:48.557 4c62 Delete type=0 #876
+2024/06/24-04:08:24.534 2ce3 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/24-04:08:24.535 2ce3 Recovering log #1884
+2024/06/24-04:08:24.561 2ce3 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/001884.log 
+2024/06/24-04:29:02.759 2ce4 Level-0 table #1888: started
+2024/06/24-04:29:02.774 2ce4 Level-0 table #1888: 62946 bytes OK
+2024/06/24-04:29:02.790 2ce4 Delete type=0 #1884

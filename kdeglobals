@@ -21,13 +21,13 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=119,105,162
+BackgroundAlternate=89,86,170
 BackgroundNormal=68,68,68
-DecorationFocus=142,121,203
-DecorationHover=142,121,203
-ForegroundActive=142,121,203
+DecorationFocus=99,94,214
+DecorationHover=99,94,214
+ForegroundActive=99,94,214
 ForegroundInactive=189,195,199
-ForegroundLink=142,121,203
+ForegroundLink=99,94,214
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,165,73
 ForegroundNormal=250,250,250
@@ -37,11 +37,11 @@ ForegroundVisited=127,140,141
 [Colors:Complementary]
 BackgroundAlternate=66,66,66
 BackgroundNormal=51,51,51
-DecorationFocus=142,121,203
-DecorationHover=142,121,203
-ForegroundActive=142,121,203
+DecorationFocus=99,94,214
+DecorationHover=99,94,214
+ForegroundActive=99,94,214
 ForegroundInactive=136,136,136
-ForegroundLink=142,121,203
+ForegroundLink=99,94,214
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
 ForegroundNormal=222,222,222
@@ -49,13 +49,13 @@ ForegroundPositive=17,209,22
 ForegroundVisited=49,91,239
 
 [Colors:Selection]
-BackgroundAlternate=108,93,151
-BackgroundNormal=108,93,151
-DecorationFocus=142,121,203
-DecorationHover=142,121,203
-ForegroundActive=142,121,203
+BackgroundAlternate=78,74,158
+BackgroundNormal=78,74,158
+DecorationFocus=99,94,214
+DecorationHover=99,94,214
+ForegroundActive=99,94,214
 ForegroundInactive=255,255,255
-ForegroundLink=142,121,203
+ForegroundLink=99,94,214
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,165,73
 ForegroundNormal=255,255,255
@@ -65,11 +65,11 @@ ForegroundVisited=128,152,239
 [Colors:Tooltip]
 BackgroundAlternate=77,77,77
 BackgroundNormal=50,50,50
-DecorationFocus=142,121,203
-DecorationHover=142,121,203
-ForegroundActive=142,121,203
+DecorationFocus=99,94,214
+DecorationHover=99,94,214
+ForegroundActive=99,94,214
 ForegroundInactive=189,195,199
-ForegroundLink=142,121,203
+ForegroundLink=99,94,214
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,165,73
 ForegroundNormal=222,222,222
@@ -79,11 +79,11 @@ ForegroundVisited=127,140,141
 [Colors:View]
 BackgroundAlternate=50,50,50
 BackgroundNormal=30,30,30
-DecorationFocus=142,121,203
-DecorationHover=142,121,203
-ForegroundActive=142,121,203
+DecorationFocus=99,94,214
+DecorationHover=99,94,214
+ForegroundActive=99,94,214
 ForegroundInactive=255,255,255
-ForegroundLink=142,121,203
+ForegroundLink=99,94,214
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,165,73
 ForegroundNormal=234,234,234
@@ -93,11 +93,11 @@ ForegroundVisited=120,120,120
 [Colors:Window]
 BackgroundAlternate=66,66,66
 BackgroundNormal=30,30,30
-DecorationFocus=142,121,203
-DecorationHover=142,121,203
-ForegroundActive=142,121,203
+DecorationFocus=99,94,214
+DecorationHover=99,94,214
+ForegroundActive=99,94,214
 ForegroundInactive=136,136,136
-ForegroundLink=142,121,203
+ForegroundLink=99,94,214
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,165,73
 ForegroundNormal=222,222,222
@@ -105,11 +105,11 @@ ForegroundPositive=39,174,96
 ForegroundVisited=250,250,250
 
 [DirSelect Dialog]
-DirSelectDialog Size=996,584
-History Items[$e]=file:///mnt/MINE/Music,file:///mnt/G,file:///mnt/Shows,file:///mnt/MINE,file:///mnt/SDA2/My-PKM-copy,file:///run/media/exia/SDA2/My-PKM-copy,file:$HOME,file:///mnt/MINE/backup/Projects/Random Projects/Panic Button Chrome Extension/Panic Button Extension,file:///mnt/SDA3/digital garden,file:///mnt/SDA3/testpkm,file:///mnt/MINE/backup/Projects/Random Projects/myOnlineGarden,file:$HOME/Desktop
+DirSelectDialog Size=978,574
+History Items[$e]=file:///mnt/SDA2/My-PKM-copy/🛢️ Resources/📁 Files,file:///mnt/MINE/wallpapers,file:///mnt/MINE/backup/Images,file:///mnt/MINE/Inshot,file:///mnt/MINE/backup/SD Card DCIM,file:///mnt/SDA3,file:///mnt/MINE,file:///mnt/SDA2/Code Pages/Glassmorsphism Layout Design,file:///mnt/MINE/Music,file:///mnt/G,file:///mnt/Shows,file:///mnt/SDA2/My-PKM-copy,file:///run/media/exia/SDA2/My-PKM-copy,file:$HOME,file:///mnt/MINE/backup/Projects/Random Projects/Panic Button Chrome Extension/Panic Button Extension,file:///mnt/SDA3/digital garden,file:///mnt/SDA3/testpkm,file:///mnt/MINE/backup/Projects/Random Projects/myOnlineGarden,file:$HOME/Desktop
 
 [General]
-AccentColor=142,121,203
+AccentColor=99,94,214
 BrowserApplication=brave-browser.desktop
 ColorSchemeHash=73b48098c551839157d118418b982dd938ee472c
 LastUsedCustomAccentColor=233,100,58
@@ -125,7 +125,7 @@ LookAndFeelPackage=Nothing
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=false
-Breadcrumb Navigation=false
+Breadcrumb Navigation=true
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5

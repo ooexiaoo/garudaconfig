@@ -25,6 +25,7 @@ thickness=32
 [PlasmaViews][Panel 141]
 floating=1
 panelLengthMode=1
+panelOpacity=2
 panelVisibility=1
 
 [PlasmaViews][Panel 141][Defaults]

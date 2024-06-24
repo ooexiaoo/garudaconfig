@@ -1,12 +1,12 @@
-2024/06/09-01:23:05.525 102b Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/09-01:23:05.526 102b Recovering log #75
-2024/06/09-01:23:05.563 102b Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000075.log 
-2024/06/09-01:23:12.436 102f Level-0 table #80: started
-2024/06/09-01:23:12.525 102f Level-0 table #80: 2768304 bytes OK
-2024/06/09-01:23:12.531 102f Delete type=0 #75
-2024/06/09-01:23:22.231 102b Compacting 1@1 + 1@2 files
-2024/06/09-01:23:22.270 102b Generated table #81@1: 167 keys, 148654 bytes
-2024/06/09-01:23:22.270 102b Compacted 1@1 + 1@2 files => 148654 bytes
-2024/06/09-01:23:22.275 102b compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/09-01:23:22.275 102b Delete type=2 #77
-2024/06/09-01:23:22.276 102b Delete type=2 #80
+2024/06/20-16:32:53.473 174e Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/20-16:32:53.474 174e Recovering log #119
+2024/06/20-16:32:53.496 174e Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000119.log 
+2024/06/20-16:33:01.932 1760 Compacting 1@1 + 1@2 files
+2024/06/20-16:33:02.033 1760 Generated table #122@1: 364 keys, 960649 bytes
+2024/06/20-16:33:02.033 1760 Compacted 1@1 + 1@2 files => 960649 bytes
+2024/06/20-16:33:02.038 1760 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/20-16:33:49.905 1751 Level-0 table #124: started
+2024/06/20-16:33:49.989 1751 Level-0 table #124: 2780742 bytes OK
+2024/06/20-16:33:49.997 1751 Delete type=2 #117
+2024/06/20-16:33:49.997 1751 Delete type=0 #119
+2024/06/20-16:33:49.998 1751 Delete type=2 #120

@@ -1,2 +1,7 @@
-2024/06/01-13:14:42.670 cdb Creating DB /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kaguya.app_0.indexeddb.leveldb since it was missing.
-2024/06/01-13:14:42.685 cdb Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kaguya.app_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-20:17:55.757 716a Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kaguya.app_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-20:17:55.757 716a Recovering log #3
+2024/06/09-20:17:55.759 716a Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kaguya.app_0.indexeddb.leveldb/000003.log 
+2024/06/09-20:19:12.291 717a Level-0 table #5: started
+2024/06/09-20:19:12.327 717a Level-0 table #5: 97871 bytes OK
+2024/06/09-20:19:12.368 717a Delete type=0 #3
+2024/06/09-20:19:12.369 717a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

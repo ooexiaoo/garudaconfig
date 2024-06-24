@@ -1,9 +1,6 @@
-2024/06/09-18:14:39.954 4 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2024/06/09-18:14:39.974 4 Recovering log #1097
-2024/06/09-18:14:39.985 4 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001097.log 
-2024/06/09-18:26:11.881 4 Level-0 table #1104: started
-2024/06/09-18:26:11.888 4 Level-0 table #1104: 29780 bytes OK
-2024/06/09-18:26:11.896 4 Delete type=0 #1097
-2024/06/09-18:35:28.878 6 Level-0 table #1106: started
-2024/06/09-18:35:28.885 6 Level-0 table #1106: 15671 bytes OK
-2024/06/09-18:35:28.890 6 Delete type=0 #1103
+2024/06/24-13:59:17.259 4 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/24-13:59:17.271 4 Recovering log #2112
+2024/06/24-13:59:17.273 4 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/002112.log 
+2024/06/24-14:00:26.216 6 Level-0 table #2116: started
+2024/06/24-14:00:26.305 6 Level-0 table #2116: 2260608 bytes OK
+2024/06/24-14:00:26.328 6 Delete type=0 #2112

@@ -118,8 +118,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="557.692321777344"
-         height="166.083923339844" />
+         width="307.337890625"
+         height="64.6164398193359" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
@@ -353,7 +353,8 @@
        doh="1"
        dos="1"
        dol="1"
-       doo="1" />
+       doo="1"
+       mode="0" />
     <eventcontext
        id="spray"
        selcue="1"
@@ -365,7 +366,9 @@
        rotation_variation="0"
        scale_variation="0"
        standard_deviation="70"
-       mean="0" />
+       mean="0"
+       over_transparent="1"
+       picker="1" />
     <eventcontext
        id="gradient"
        selcue="1" />
@@ -620,14 +623,14 @@
          value="layer" />
       <group
          id="defaultdpi"
-         value="500" />
+         value="600" />
     </group>
     <group
        id="save_as"
-       default="org.inkscape.output.svgz.inkscape"
+       default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path=""
+       path="/mnt/MINE/backup/Projects/Mohak Herbs/Print labels"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -646,7 +649,7 @@
        ask="1"
        ask_svg="1"
        link="embed"
-       scale="auto"
+       scale="optimizeQuality"
        forcexdpi="0"
        import_mode_svg="include" />
     <group
@@ -993,17 +996,18 @@
      org.inkscape.output.png.inkscape.png_compression="6"
      org.inkscape.output.png.inkscape.png_antialias="2"
      org.inkscape.input.eps.autorotate="None"
-     org.inkscape.input.gdkpixbuf.png.scale="auto"
-     org.inkscape.input.svg.scale="auto" />
+     org.inkscape.input.gdkpixbuf.png.scale="optimizeQuality"
+     org.inkscape.input.svg.scale="auto"
+     org.inkscape.input.gdkpixbuf.jpeg.scale="optimizeQuality" />
   <group
      id="desktop"
-     style="fill:#ffffff;font-size:16px;-inkscape-font-specification:'Potential, Normal';font-family:Potential;fill-opacity:0.99289101">
+     style="fill:#6a7682;font-size:16px;-inkscape-font-specification:'Potential, Normal';font-family:Potential">
     <group
-       width="1915"
-       height="1030"
+       width="1910"
+       height="1026"
        x="5"
-       y="44"
-       maximized="0"
+       y="54"
+       maximized="1"
        fullscreen="0"
        id="geometry" />
     <group
@@ -1118,8 +1122,8 @@
   <group
      id="theme"
      defaultPreferDarkTheme="1"
-     defaultIconTheme="PlasmaXDark"
-     defaultGtkTheme="Sweet-Dark"
+     defaultIconTheme="Flat-Remix-Blue-Light-darkPanel"
+     defaultGtkTheme="Breeze"
      narrowSpinButton="1"
      preferDarkTheme="1"
      darkTheme="1"

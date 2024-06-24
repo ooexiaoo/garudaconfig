@@ -163,7 +163,7 @@ RunPrefix=
 SetEditor=false
 
 [MainWindow]
-1920x1080 screen: Height=1052
+1920x1080 screen: Height=1044
 1920x1080 screen: Width=960
 1920x1080 screen: XPosition=962
 1920x1080 screen: YPosition=540

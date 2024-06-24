@@ -5,7 +5,22 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-count=0
+clientId1=10859a8a93000171917903900000072630004
+clientId2=10859a8a93000171917903900000072630006
+clientId3=10859a8a93000171917904000000072630007
+count=3
+program1=/usr/bin/garuda-system-maintenance
+program2=/usr/lib/DiscoverNotifier
+program3=/usr/bin/firewall-applet
+restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000171917903900000072630004_1719185822_23521
+restartCommand2=/usr/lib/DiscoverNotifier,-session,10859a8a93000171917903900000072630006_1719185822_27811
+restartCommand3=/usr/bin/firewall-applet,-session,10859a8a93000171917904000000072630007_1719185822_32603,-name,firewall-applet
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=exia
+userId2=exia
+userId3=exia
 
 [SubSession: 6f72f745-1cf8-4070-a6a6-772471909735]
 count=0

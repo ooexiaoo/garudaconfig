@@ -1,5 +1,5 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Desktop/,$HOME/vpnbook/,/mnt/Shows/GAM/,/mnt/MINE/backup/Projects/Random Projects/THI UI/,$HOME/Downloads/,/mnt/G/
+DirHistory[$e]=$HOME/Desktop/,/mnt/SDA3/GAM1/,$HOME/vpnbook/,/mnt/Shows/GAM/,/mnt/MINE/backup/Projects/Random Projects/THI UI/,$HOME/Downloads/,/mnt/G/
 
 [Extraction]
 openDestinationFolderAfterExtraction=true

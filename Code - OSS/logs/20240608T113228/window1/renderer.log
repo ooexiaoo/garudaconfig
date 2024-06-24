@@ -1,6 +1,0 @@
-2024-06-08 11:32:32.111 [info] Started local extension host with pid 4793.
-2024-06-08 11:32:39.649 [info] [perf] Render performance baseline is 258ms
-2024-06-08 11:32:41.120 [error] [Extension Host] Error: EACCES: permission denied, rename '/usr/lib/code/product.json' -> '/usr/lib/code/product.json.orig.1.90.0'
-	at Object.renameSync (node:fs:1023:3)
-	at exports.fixCheckSums (/home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/CheckSumService.js:32:34)
-	at /home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/AutoInstaller.js:108:35

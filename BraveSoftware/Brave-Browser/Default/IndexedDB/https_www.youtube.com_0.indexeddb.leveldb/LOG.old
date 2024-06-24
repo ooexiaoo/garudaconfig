@@ -1,3 +1,25 @@
-2024/06/09-18:14:49.531 5ed0 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/09-18:14:49.536 5ed0 Recovering log #2596
-2024/06/09-18:14:49.606 5ed0 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/002596.log 
+2024/06/24-04:08:35.456 2ce3 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/24-04:08:35.460 2ce3 Recovering log #3275
+2024/06/24-04:08:35.464 2ce3 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/003275.log 
+2024/06/24-04:08:37.891 2ce4 Compacting 1@1 + 2@2 files
+2024/06/24-04:08:38.413 2ce4 Generated table #3278@1: 39837 keys, 2293995 bytes
+2024/06/24-04:08:38.581 2ce4 Generated table #3279@1: 22749 keys, 1513396 bytes
+2024/06/24-04:08:38.582 2ce4 Compacted 1@1 + 2@2 files => 3807391 bytes
+2024/06/24-04:08:38.590 2ce4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/06/24-04:14:48.617 2ce3 Level-0 table #3281: started
+2024/06/24-04:14:48.659 2ce3 Level-0 table #3281: 1447203 bytes OK
+2024/06/24-04:14:48.665 2ce3 Delete type=2 #3273
+2024/06/24-04:14:48.665 2ce3 Delete type=2 #3274
+2024/06/24-04:14:48.666 2ce3 Delete type=0 #3275
+2024/06/24-04:14:48.666 2ce3 Delete type=2 #3276
+2024/06/24-04:17:19.315 2cf7 Compacting 1@1 + 2@2 files
+2024/06/24-04:17:19.753 2cf7 Generated table #3282@1: 39951 keys, 2294260 bytes
+2024/06/24-04:17:19.969 2cf7 Generated table #3283@1: 22654 keys, 1507560 bytes
+2024/06/24-04:17:19.971 2cf7 Compacted 1@1 + 2@2 files => 3801820 bytes
+2024/06/24-04:17:19.978 2cf7 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/06/24-04:17:19.979 2cf7 Delete type=2 #3278
+2024/06/24-04:17:19.979 2cf7 Delete type=2 #3279
+2024/06/24-04:17:19.979 2cf7 Delete type=2 #3281
+2024/06/24-04:54:32.903 2ce4 Level-0 table #3285: started
+2024/06/24-04:54:32.935 2ce4 Level-0 table #3285: 1509540 bytes OK
+2024/06/24-04:54:32.940 2ce4 Delete type=0 #3280

@@ -1,36 +1,18 @@
-2024/06/09-01:23:03.147 102c Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/09-01:23:03.154 102c Recovering log #89
-2024/06/09-01:23:03.154 102c Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000089.log 
-2024/06/09-01:23:03.155 102c Delete type=2 #88
-2024/06/09-01:23:05.127 103d Level-0 table #94: started
-2024/06/09-01:23:05.130 103d Level-0 table #94: 811 bytes OK
-2024/06/09-01:23:05.136 103d Delete type=0 #89
-2024/06/09-01:23:05.136 103d Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1d\x00\x00\x05' @ 632 : 1
-2024/06/09-01:23:05.137 103d Compacting 1@0 + 1@1 files
-2024/06/09-01:23:05.140 103d Generated table #95@0: 16 keys, 1107 bytes
-2024/06/09-01:23:05.140 103d Compacted 1@0 + 1@1 files => 1107 bytes
-2024/06/09-01:23:05.144 103d compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/09-01:23:05.145 103d Delete type=2 #94
-2024/06/09-01:23:05.145 102b Manual compaction at level-0 from '\x00\x1d\x00\x00\x05' @ 632 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/09-01:23:05.989 102f Level-0 table #97: started
-2024/06/09-01:23:05.996 102f Level-0 table #97: 805 bytes OK
-2024/06/09-01:23:06.012 102f Delete type=2 #91
-2024/06/09-01:23:06.012 102f Delete type=0 #93
-2024/06/09-01:23:06.015 102b Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 649 : 1
-2024/06/09-01:23:06.015 102b Compacting 1@0 + 1@1 files
-2024/06/09-01:23:06.029 102b Generated table #98@0: 16 keys, 1107 bytes
-2024/06/09-01:23:06.029 102b Compacted 1@0 + 1@1 files => 1107 bytes
-2024/06/09-01:23:06.042 102b compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/09-01:23:06.043 102b Delete type=2 #97
-2024/06/09-01:23:06.044 103d Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 649 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/09-01:23:06.047 102f Level-0 table #100: started
-2024/06/09-01:23:06.055 102f Level-0 table #100: 805 bytes OK
-2024/06/09-01:23:06.061 102f Delete type=2 #95
-2024/06/09-01:23:06.062 102f Delete type=0 #96
-2024/06/09-01:23:06.064 1040 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 668 : 1
-2024/06/09-01:23:06.064 1040 Compacting 1@0 + 1@1 files
-2024/06/09-01:23:06.067 1040 Generated table #101@0: 16 keys, 1107 bytes
-2024/06/09-01:23:06.067 1040 Compacted 1@0 + 1@1 files => 1107 bytes
-2024/06/09-01:23:06.077 1040 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/09-01:23:06.078 1040 Delete type=2 #100
-2024/06/09-01:23:06.079 102f Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 668 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/20-16:31:44.359 174f Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/20-16:31:44.363 174f Recovering log #200
+2024/06/20-16:31:44.363 174f Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000200.log 
+2024/06/20-16:31:46.105 1760 Manual compaction at level-0 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/20-16:31:47.938 174e Level-0 table #206: started
+2024/06/20-16:31:47.947 174e Level-0 table #206: 1294 bytes OK
+2024/06/20-16:31:48.528 174e Delete type=0 #200
+2024/06/20-16:31:48.529 174e Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/20-16:31:49.135 1760 Level-0 table #208: started
+2024/06/20-16:31:49.139 1760 Level-0 table #208: 805 bytes OK
+2024/06/20-16:31:49.146 1760 Delete type=0 #205
+2024/06/20-16:31:49.147 174f Manual compaction at level-0 from '\x00B\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at '\x00B\x00\x00\x05' @ 1421 : 1
+2024/06/20-16:31:49.147 174f Compacting 1@0 + 1@1 files
+2024/06/20-16:31:49.151 174f Generated table #209@0: 20 keys, 656 bytes
+2024/06/20-16:31:49.151 174f Compacted 1@0 + 1@1 files => 656 bytes
+2024/06/20-16:31:49.155 174f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/20-16:31:49.156 174f Delete type=2 #208
+2024/06/20-16:31:49.158 174f Manual compaction at level-0 from '\x00B\x00\x00\x05' @ 1421 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at (end)

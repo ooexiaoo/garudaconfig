@@ -29,26 +29,30 @@
             "file:///mnt/MINE/backup/Projects/Random%20Projects/Matrix": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/TEST": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/Gritty%20UI": "__default__profile__",
-            "file:///mnt/MINE/backup/Projects/Random%20Projects/HTML-CSS%20COURSE/Intro-to-html": "__default__profile__"
+            "file:///mnt/MINE/backup/Projects/Random%20Projects/HTML-CSS%20COURSE/Intro-to-html": "__default__profile__",
+            "file:///mnt/MINE/backup/Projects/Random%20Projects/typing%20test%20webpage": "__default__profile__",
+            "file:///mnt/MINE/backup/Projects/Random%20Projects/wordcounter%20New": "__default__profile__",
+            "file:///mnt/SDA2/Code%20Pages/Glassmorsphism%20Layout%20Design": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1718950859984": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
     "telemetry.machineId": "02b1eb56243eee36cd4b84853ca1e0b4a177ccd4bdab68e1afc33a9dbbe1dd74",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
+        "folders": [],
+        "emptyWindows": [
             {
-                "folderUri": "file:///mnt/MINE/backup/Projects/Random%20Projects/HTML-CSS%20COURSE/Intro-to-html"
+                "backupFolder": "1718950859984"
             }
-        ],
-        "emptyWindows": []
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/MINE/backup/Projects/Random%20Projects/HTML-CSS%20COURSE/Intro-to-html",
-            "backupPath": "/home/exia/.config/Code - OSS/Backups/76941155e3160de2a323ba436d5064ae",
+            "backupPath": "/home/exia/.config/Code - OSS/Backups/1718950859984",
             "uiState": {
                 "mode": 1,
                 "x": 960,
@@ -102,6 +106,39 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/SDA2/Code%20Pages/Glassmorsphism%20Layout%20Design",
+                                        "path": "/mnt/SDA2/Code Pages/Glassmorsphism Layout Design",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/SDA2/Code Pages/Glassmorsphism Layout Design"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/MINE/backup/Projects/Random%20Projects/wordcounter%20New",
+                                        "path": "/mnt/MINE/backup/Projects/Random Projects/wordcounter New",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/MINE/backup/Projects/Random Projects/wordcounter New"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/MINE/backup/Projects/Random%20Projects/typing%20test%20webpage",
+                                        "path": "/mnt/MINE/backup/Projects/Random Projects/typing test webpage",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/MINE/backup/Projects/Random Projects/typing test webpage"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -181,40 +218,29 @@
                                     "label": "/mnt/MINE/backup/Projects/Random Projects/THI UI"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/MINE/backup/Projects/Random%20Projects/Miyou",
-                                        "path": "/mnt/MINE/backup/Projects/Random Projects/Miyou",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/MINE/backup/Projects/Random Projects/Miyou"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/exia/Desktop/test",
-                                        "path": "/home/exia/Desktop/test",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Desktop/test"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/MINE/backup/Projects/Random%20Projects/Text%20Changer",
-                                        "path": "/mnt/MINE/backup/Projects/Random Projects/Text Changer",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/MINE/backup/Projects/Random Projects/Text Changer"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/exia/Pictures/color.txt",
+                                        "path": "/home/exia/Pictures/color.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Pictures/color.txt"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/exia/Pictures/color.css",
+                                        "path": "/home/exia/Pictures/color.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Pictures/color.css"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -433,10 +459,6 @@
                         "label": "&&Close Editor"
                     },
                     {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
-                    },
-                    {
                         "id": "workbench.action.closeWindow",
                         "label": "Clos&&e Window"
                     },
@@ -630,8 +652,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar",
-                                    "checked": true
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -1472,11 +1493,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1873,7 +1889,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }

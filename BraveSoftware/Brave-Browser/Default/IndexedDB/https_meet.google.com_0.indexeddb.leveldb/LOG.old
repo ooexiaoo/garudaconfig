@@ -1,3 +1,15 @@
-2024/06/09-01:17:14.673 102c Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/09-01:17:14.674 102c Recovering log #4
-2024/06/09-01:17:14.678 102c Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 
+2024/06/18-00:11:16.729 1fd8 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/18-00:11:16.730 1fd8 Recovering log #7
+2024/06/18-00:11:16.731 1fd8 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000007.log 
+2024/06/18-00:12:36.757 1fdb Level-0 table #12: started
+2024/06/18-00:12:36.761 1fdb Level-0 table #12: 4927 bytes OK
+2024/06/18-00:12:36.767 1fdb Delete type=0 #7
+2024/06/18-00:12:36.768 1fdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/18-00:12:36.768 1fdb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 1761 : 1
+2024/06/18-00:12:36.769 1fdb Compacting 1@1 + 1@2 files
+2024/06/18-00:12:36.773 1fdb Generated table #13@1: 36 keys, 2724 bytes
+2024/06/18-00:12:36.773 1fdb Compacted 1@1 + 1@2 files => 2724 bytes
+2024/06/18-00:12:36.777 1fdb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/18-00:12:36.778 1fdb Delete type=2 #9
+2024/06/18-00:12:36.778 1fdb Delete type=2 #12
+2024/06/18-00:12:36.779 1fdb Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 1761 : 1 .. (end); will stop at (end)

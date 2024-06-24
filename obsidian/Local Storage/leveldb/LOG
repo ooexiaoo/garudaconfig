@@ -1,3 +1,3 @@
-2024/06/09-12:16:52.827 11a3 Reusing MANIFEST /home/exia/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2024/06/09-12:16:52.867 11a3 Recovering log #4
-2024/06/09-12:16:52.916 11a3 Reusing old log /home/exia/.config/obsidian/Local Storage/leveldb/000004.log 
+2024/06/24-04:56:42.954 3068 Reusing MANIFEST /home/exia/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2024/06/24-04:56:43.041 3068 Recovering log #8
+2024/06/24-04:56:43.041 3068 Reusing old log /home/exia/.config/obsidian/Local Storage/leveldb/000008.log 

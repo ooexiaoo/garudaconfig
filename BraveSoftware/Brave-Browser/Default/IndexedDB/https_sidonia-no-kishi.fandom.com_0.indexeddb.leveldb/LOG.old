@@ -1,3 +1,10 @@
-2024/05/10-11:35:36.381 a64 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sidonia-no-kishi.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/10-11:35:36.382 a64 Recovering log #11
-2024/05/10-11:35:36.493 a64 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sidonia-no-kishi.fandom.com_0.indexeddb.leveldb/000011.log 
+2024/05/10-11:49:20.703 a65 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sidonia-no-kishi.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/10-11:49:20.704 a65 Recovering log #11
+2024/05/10-11:49:20.972 a65 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_sidonia-no-kishi.fandom.com_0.indexeddb.leveldb/000011.log 
+2024/05/10-11:49:24.208 a65 Level-0 table #16: started
+2024/05/10-11:49:24.319 a65 Level-0 table #16: 837059 bytes OK
+2024/05/10-11:49:24.328 a65 Delete type=0 #11
+2024/05/10-11:49:25.282 a65 Compacting 1@1 + 1@2 files
+2024/05/10-11:49:25.335 a65 Generated table #17@1: 1172 keys, 36507 bytes
+2024/05/10-11:49:25.336 a65 Compacted 1@1 + 1@2 files => 36507 bytes
+2024/05/10-11:49:25.339 a65 compacted to: files[ 0 0 1 0 0 0 0 ]

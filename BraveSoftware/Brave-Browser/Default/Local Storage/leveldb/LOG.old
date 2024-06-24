@@ -1,28 +1,9 @@
-2024/06/09-15:50:25.921 4 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2024/06/09-15:50:25.933 4 Recovering log #1085
-2024/06/09-15:50:25.934 4 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/001085.log 
-2024/06/09-17:05:44.651 6 Level-0 table #1092: started
-2024/06/09-17:05:44.662 6 Level-0 table #1092: 15800 bytes OK
-2024/06/09-17:05:44.693 6 Delete type=0 #1085
-2024/06/09-17:46:41.888 6 Level-0 table #1094: started
-2024/06/09-17:46:41.913 6 Level-0 table #1094: 14543 bytes OK
-2024/06/09-17:46:41.921 6 Delete type=0 #1091
-2024/06/09-17:53:20.595 6 Level-0 table #1096: started
-2024/06/09-17:53:20.602 6 Level-0 table #1096: 13571 bytes OK
-2024/06/09-17:53:20.608 6 Delete type=0 #1093
-2024/06/09-17:57:45.277 6 Level-0 table #1098: started
-2024/06/09-17:57:45.281 6 Level-0 table #1098: 12769 bytes OK
-2024/06/09-17:57:45.286 6 Delete type=0 #1095
-2024/06/09-17:57:45.287 6 Compacting 4@0 + 3@1 files
-2024/06/09-17:57:45.387 6 Generated table #1099@0: 2294 keys, 3075786 bytes
-2024/06/09-17:57:45.485 6 Generated table #1100@0: 672 keys, 3174970 bytes
-2024/06/09-17:57:45.534 6 Generated table #1101@0: 612 keys, 1075473 bytes
-2024/06/09-17:57:45.534 6 Compacted 4@0 + 3@1 files => 7326229 bytes
-2024/06/09-17:57:45.538 6 compacted to: files[ 0 3 1 0 0 0 0 ]
-2024/06/09-17:57:45.540 6 Delete type=2 #1087
-2024/06/09-17:57:45.540 6 Delete type=2 #1088
-2024/06/09-17:57:45.540 6 Delete type=2 #1089
-2024/06/09-17:57:45.540 6 Delete type=2 #1092
-2024/06/09-17:57:45.540 6 Delete type=2 #1094
-2024/06/09-17:57:45.540 6 Delete type=2 #1096
-2024/06/09-17:57:45.541 6 Delete type=2 #1098
+2024/06/24-04:08:24.520 4 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/24-04:08:24.534 4 Recovering log #2104
+2024/06/24-04:08:24.537 4 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/002104.log 
+2024/06/24-04:52:31.623 4 Level-0 table #2111: started
+2024/06/24-04:52:31.645 4 Level-0 table #2111: 15966 bytes OK
+2024/06/24-04:52:31.655 4 Delete type=0 #2104
+2024/06/24-04:55:31.616 6 Level-0 table #2113: started
+2024/06/24-04:55:31.743 6 Level-0 table #2113: 2259809 bytes OK
+2024/06/24-04:55:31.748 6 Delete type=0 #2110

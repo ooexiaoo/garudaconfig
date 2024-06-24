@@ -1,11 +1,9 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
-[FullScreen]
-FullScreenModeActive=true
-
 [General]
 LastUsedVersion=210800
+SideBarPage=operations
 
 [MainWindow]
 1920x1080 screen: Height=990
@@ -17,26 +15,28 @@ MenuBar=Disabled
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=/mnt/G/Anime/Yesterday/NHNL/Twitter/IMG_20200530_183731.jpg
-File10[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/046.webp
-File2[$e]=/mnt/G/Anime/Yesterday/NHNL/Twitter/IMG_20200530_183728.jpg
-File3[$e]=/mnt/MINE/Inshot/Screenshot_20200131_144112.jpg
-File4[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/credit.webp
-File5[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/048.webp
-File6[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/047.webp
-File7[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/043.webp
-File8[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/044.webp
-File9[$e]=/mnt/Shows/MANGA AND IMAGES/UPLOADER/Tsuma Omoi, Netorase _ Let me steal your wife's feelings/045.webp
-Name1[$e]=IMG_20200530_183731.jpg
-Name10[$e]=046.webp
-Name2[$e]=IMG_20200530_183728.jpg
-Name3[$e]=Screenshot_20200131_144112.jpg
-Name4[$e]=credit.webp
-Name5[$e]=048.webp
-Name6[$e]=047.webp
-Name7[$e]=043.webp
-Name8[$e]=044.webp
-Name9[$e]=045.webp
+File1[$e]=$HOME/Desktop/a-striking-conceptual-illustration-of-a-cyberpunk--8T_tQJhSR3y3hRW7rYWttw-kiTLYsxMT-m5d1bMRW7_5A.jpeg
+File10[$e]=$HOME/.config/spicetify/Themes/Nightlight/screenshots/nightlight.png
+File2[$e]=$HOME/Desktop/a-captivating-conceptual-illustration-showcases-a--wYdJBSWgQ2600dj9wrl96w-kiTLYsxMT-m5d1bMRW7_5A.jpeg
+File3[$e]=$HOME/Desktop/a-captivating-conceptual-illustration-of-a-cyberpu-jALfh2fcS2Ksl08Q4ba1VQ-lpU8K5CcTIyMw6eXEUdmzw.jpeg
+File4[$e]=$HOME/Desktop/a-striking-conceptual-illustration-of-a-cyberpunk--dF_KsWd2TG-w8E3El2BNww-lpU8K5CcTIyMw6eXEUdmzw.jpeg
+File5[$e]=$HOME/Downloads/wallpapers/Network/a-stunning-conceptual-illustration-of-a-futuristic-lGMsPJ9SR3Gb-CI5pefPNQ-BH45lx5OTKaFKksY2Y14HQ.jpeg
+File6[$e]=$HOME/Downloads/wallpapers/Network/a-striking-conceptual-illustration-of-a-cyberpunk--3Kcy2JRDSjmHQwGWYuATXQ-QsVL6LlqSiyRhU5_8U3v7A.jpeg
+File7[$e]=$HOME/Downloads/wallpapers/Network/a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng.jpeg
+File8[$e]=$HOME/Desktop/a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng-removebg-preview.png
+File9[$e]=$HOME/Desktop/loginimg.png
+Name1[$e]=a-striking-conceptual-illustration-of-a-cyberpunk--8T_tQJhSR3y3hRW7rYWttw-kiTLYsxMT-m5d1bMRW7_5A.jpeg
+Name10[$e]=nightlight.png
+Name2[$e]=a-captivating-conceptual-illustration-showcases-a--wYdJBSWgQ2600dj9wrl96w-kiTLYsxMT-m5d1bMRW7_5A.jpeg
+Name3[$e]=a-captivating-conceptual-illustration-of-a-cyberpu-jALfh2fcS2Ksl08Q4ba1VQ-lpU8K5CcTIyMw6eXEUdmzw.jpeg
+Name4[$e]=a-striking-conceptual-illustration-of-a-cyberpunk--dF_KsWd2TG-w8E3El2BNww-lpU8K5CcTIyMw6eXEUdmzw.jpeg
+Name5[$e]=a-stunning-conceptual-illustration-of-a-futuristic-lGMsPJ9SR3Gb-CI5pefPNQ-BH45lx5OTKaFKksY2Y14HQ.jpeg
+Name6[$e]=a-striking-conceptual-illustration-of-a-cyberpunk--3Kcy2JRDSjmHQwGWYuATXQ-QsVL6LlqSiyRhU5_8U3v7A.jpeg
+Name7[$e]=a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng.jpeg
+Name8[$e]=a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng-removebg-preview.png
+Name9[$e]=loginimg.png
 
 [SideBar]
-InformationSplitterSizes=216,239
+InformationSplitterSizes=225,250
+IsVisible ViewMode=true
+SideBarSplitterSizes=210,1709

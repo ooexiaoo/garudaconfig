@@ -1,8 +1,8 @@
 [Favorites-org.kde.plasma.kicker.favorites.instance-152-fca435e5-2553-4645-99a7-b496fce4c96f]
-ordering=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,preferred://browser,applications:freedownloadmanager.desktop,applications:code-oss.desktop
+ordering=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,preferred://browser,applications:freedownloadmanager.desktop,applications:code-oss.desktop,applications:firefox.desktop
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-152-global]
-ordering=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,preferred://browser,applications:freedownloadmanager.desktop,applications:code-oss.desktop
+ordering=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,preferred://browser,applications:freedownloadmanager.desktop,applications:code-oss.desktop,applications:firefox.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-121-fca435e5-2553-4645-99a7-b496fce4c96f]
 ordering=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,preferred://browser
