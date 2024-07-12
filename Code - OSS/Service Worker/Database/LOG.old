@@ -1,3 +1,3 @@
-2024/06/21-11:49:16.586 db0 Reusing MANIFEST /home/exia/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
-2024/06/21-11:49:16.618 db0 Recovering log #3
-2024/06/21-11:49:16.623 db0 Reusing old log /home/exia/.config/Code - OSS/Service Worker/Database/000003.log 
+2024/07/12-19:24:24.225 d67 Reusing MANIFEST /home/exia/.config/Code - OSS/Service Worker/Database/MANIFEST-000001
+2024/07/12-19:24:24.278 d67 Recovering log #3
+2024/07/12-19:24:24.304 d67 Reusing old log /home/exia/.config/Code - OSS/Service Worker/Database/000003.log 

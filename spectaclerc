@@ -8,12 +8,13 @@ annotationToolType=5
 onLaunchAction=UseLastUsedCapturemode
 
 [GuiConfig]
+captureMode=0
 includeDecorations=false
 transientOnly=true
 
 [ImageSave]
-lastImageSaveAsLocation=file:///home/exia/Desktop/frndreq.png
-lastImageSaveLocation=file:///home/exia/Desktop/frndreq.png
+lastImageSaveAsLocation=file:///home/exia/Desktop/Screenshot_20240711_113613.png
+lastImageSaveLocation=file:///home/exia/Desktop/Screenshot_20240711_113613.png
 translatedScreenshotsFolder=Screenshots
 
 [Save]

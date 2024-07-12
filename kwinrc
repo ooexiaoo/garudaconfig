@@ -25,7 +25,10 @@ AnimationDuration=800
 Duration=800
 
 [Effect-translucency]
-Inactive=90
+ComboboxPopups=81
+Dialogs=81
+Inactive=81
+Menus=82
 
 [Effect-wobblywindows]
 Drag=85
@@ -53,17 +56,19 @@ Inclusions=brave-browser,systemsettings,plasmashell
 Active=true
 LatitudeAuto=22
 LongitudeAuto=79
-NightTemperature=5300
+Mode=Times
+NightTemperature=4600
+TransitionTime=90
 
 [Plugins]
 blurEnabled=true
 contrastEnabled=true
 diminactiveEnabled=true
-fadedesktopEnabled=true
+glideEnabled=true
 kwin4_effect_shapecornersEnabled=false
 magiclampEnabled=true
+scaleEnabled=false
 sheetEnabled=true
-slideEnabled=false
 slidebackEnabled=true
 squashEnabled=false
 trackmouseEnabled=true

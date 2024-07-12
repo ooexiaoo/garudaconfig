@@ -1,18 +1,26 @@
-2024/06/20-16:31:44.359 174f Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/20-16:31:44.363 174f Recovering log #200
-2024/06/20-16:31:44.363 174f Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000200.log 
-2024/06/20-16:31:46.105 1760 Manual compaction at level-0 from '\x00@\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00A\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/20-16:31:47.938 174e Level-0 table #206: started
-2024/06/20-16:31:47.947 174e Level-0 table #206: 1294 bytes OK
-2024/06/20-16:31:48.528 174e Delete type=0 #200
-2024/06/20-16:31:48.529 174e Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/20-16:31:49.135 1760 Level-0 table #208: started
-2024/06/20-16:31:49.139 1760 Level-0 table #208: 805 bytes OK
-2024/06/20-16:31:49.146 1760 Delete type=0 #205
-2024/06/20-16:31:49.147 174f Manual compaction at level-0 from '\x00B\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at '\x00B\x00\x00\x05' @ 1421 : 1
-2024/06/20-16:31:49.147 174f Compacting 1@0 + 1@1 files
-2024/06/20-16:31:49.151 174f Generated table #209@0: 20 keys, 656 bytes
-2024/06/20-16:31:49.151 174f Compacted 1@0 + 1@1 files => 656 bytes
-2024/06/20-16:31:49.155 174f compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/20-16:31:49.156 174f Delete type=2 #208
-2024/06/20-16:31:49.158 174f Manual compaction at level-0 from '\x00B\x00\x00\x05' @ 1421 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/07-12:08:49.144 cb5 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/07-12:08:49.150 cb5 Recovering log #335
+2024/07/07-12:08:49.152 cb5 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000335.log 
+2024/07/07-12:08:49.153 cb5 Delete type=2 #334
+2024/07/07-12:08:51.392 cc4 Manual compaction at level-0 from '\x00h\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00i\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/07-12:08:53.845 cb5 Level-0 table #340: started
+2024/07/07-12:08:53.847 cb5 Level-0 table #340: 993 bytes OK
+2024/07/07-12:08:53.852 cb5 Delete type=0 #335
+2024/07/07-12:08:53.853 cb5 Manual compaction at level-0 from '\x00i\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00j\x00\x00\x00' @ 0 : 0; will stop at '\x00i\x00\x00\x05' @ 2250 : 1
+2024/07/07-12:08:53.853 cb5 Compacting 1@0 + 1@1 files
+2024/07/07-12:08:53.855 cb5 Generated table #341@0: 21 keys, 851 bytes
+2024/07/07-12:08:53.856 cb5 Compacted 1@0 + 1@1 files => 851 bytes
+2024/07/07-12:08:53.860 cb5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/07-12:08:53.860 cb5 Delete type=2 #340
+2024/07/07-12:08:53.861 cb5 Manual compaction at level-0 from '\x00i\x00\x00\x05' @ 2250 : 1 .. '\x00j\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/07-12:08:53.919 cb5 Level-0 table #343: started
+2024/07/07-12:08:53.921 cb5 Level-0 table #343: 804 bytes OK
+2024/07/07-12:08:53.925 cb5 Delete type=2 #337
+2024/07/07-12:08:53.925 cb5 Delete type=0 #339
+2024/07/07-12:08:53.925 cb5 Manual compaction at level-0 from '\x00j\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at '\x00j\x00\x00\x05' @ 2271 : 1
+2024/07/07-12:08:53.926 cb5 Compacting 1@0 + 1@1 files
+2024/07/07-12:08:53.928 cb5 Generated table #344@0: 21 keys, 862 bytes
+2024/07/07-12:08:53.928 cb5 Compacted 1@0 + 1@1 files => 862 bytes
+2024/07/07-12:08:53.938 cb5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/07-12:08:53.939 cb5 Delete type=2 #343
+2024/07/07-12:08:53.939 cb5 Manual compaction at level-0 from '\x00j\x00\x00\x05' @ 2271 : 1 .. '\x00k\x00\x00\x00' @ 0 : 0; will stop at (end)

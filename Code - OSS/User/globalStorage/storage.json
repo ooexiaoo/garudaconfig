@@ -25,34 +25,36 @@
             "file:///mnt/MINE/backup/Projects/Random%20Projects/Miyou": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/THI%20UI": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/kawaiidoro": "__default__profile__",
-            "file:///mnt/SDA3/kawaiidoro": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/Matrix": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/TEST": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/Gritty%20UI": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/HTML-CSS%20COURSE/Intro-to-html": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/typing%20test%20webpage": "__default__profile__",
             "file:///mnt/MINE/backup/Projects/Random%20Projects/wordcounter%20New": "__default__profile__",
-            "file:///mnt/SDA2/Code%20Pages/Glassmorsphism%20Layout%20Design": "__default__profile__"
+            "file:///mnt/SDA2/Code%20Pages/Glassmorsphism%20Layout%20Design": "__default__profile__",
+            "file:///mnt/SDA2/Code%20Pages/qr%20gen": "__default__profile__",
+            "file:///mnt/SDA3/kawaiidoro": "__default__profile__",
+            "file:///mnt/SDA2/Code%20Pages/dawn": "__default__profile__",
+            "file:///mnt/SDA2/Code%20Pages/WishingU": "__default__profile__"
         },
-        "emptyWindows": {
-            "1718950859984": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
     "telemetry.machineId": "02b1eb56243eee36cd4b84853ca1e0b4a177ccd4bdab68e1afc33a9dbbe1dd74",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1718950859984"
+                "folderUri": "file:///mnt/SDA2/Code%20Pages/WishingU"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/exia/.config/Code - OSS/Backups/1718950859984",
+            "folder": "file:///mnt/SDA2/Code%20Pages/WishingU",
+            "backupPath": "/home/exia/.config/Code - OSS/Backups/d024280c8ad4e7237b0e6a4cc5f319f7",
             "uiState": {
                 "mode": 1,
                 "x": 960,
@@ -101,11 +103,54 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/SDA2/Code%20Pages/WishingU",
+                                        "path": "/mnt/SDA2/Code Pages/WishingU",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/SDA2/Code Pages/WishingU"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/SDA2/Code%20Pages/dawn",
+                                        "path": "/mnt/SDA2/Code Pages/dawn",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/SDA2/Code Pages/dawn"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/SDA3/kawaiidoro",
+                                        "path": "/mnt/SDA3/kawaiidoro",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/SDA3/kawaiidoro"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/SDA2/Code%20Pages/qr%20gen",
+                                        "path": "/mnt/SDA2/Code Pages/qr gen",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/SDA2/Code Pages/qr gen"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -172,50 +217,6 @@
                                     },
                                     "enabled": true,
                                     "label": "/mnt/MINE/backup/Projects/Random Projects/TEST"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/MINE/backup/Projects/Random%20Projects/Matrix",
-                                        "path": "/mnt/MINE/backup/Projects/Random Projects/Matrix",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/MINE/backup/Projects/Random Projects/Matrix"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/SDA3/kawaiidoro",
-                                        "path": "/mnt/SDA3/kawaiidoro",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/SDA3/kawaiidoro"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/MINE/backup/Projects/Random%20Projects/kawaiidoro",
-                                        "path": "/mnt/MINE/backup/Projects/Random Projects/kawaiidoro",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/MINE/backup/Projects/Random Projects/kawaiidoro"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/MINE/backup/Projects/Random%20Projects/THI%20UI",
-                                        "path": "/mnt/MINE/backup/Projects/Random Projects/THI UI",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/MINE/backup/Projects/Random Projects/THI UI"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -457,6 +458,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -977,8 +982,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -987,8 +991,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1493,6 +1496,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1870,19 +1878,19 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#422d5a",
+    "themeBackground": "#100d11",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#dadada",
-            "background": "#422d5a",
-            "editorBackground": "#422d5a",
-            "titleBarBackground": "#442e5c",
-            "activityBarBackground": "#493162",
-            "sideBarBackground": "#422d5a",
-            "statusBarBackground": "#ab47bc",
-            "statusBarNoFolderBackground": "#ab47bc"
+            "foreground": "#c3c3c3",
+            "background": "#100d11",
+            "editorBackground": "#100d11",
+            "titleBarBackground": "#0f0d10",
+            "activityBarBackground": "#141115",
+            "sideBarBackground": "#100d11",
+            "statusBarBackground": "#7660a4",
+            "statusBarNoFolderBackground": "#7660a4"
         },
         "layoutInfo": {
             "sideBarSide": "left",

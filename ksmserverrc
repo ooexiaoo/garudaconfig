@@ -5,16 +5,16 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10859a8a93000171917903900000072630004
-clientId2=10859a8a93000171917903900000072630006
-clientId3=10859a8a93000171917904000000072630007
+clientId1=10859a8a93000172067669100000017480004
+clientId2=10859a8a93000172067669200000017480005
+clientId3=10859a8a93000172067669300000017480007
 count=3
 program1=/usr/bin/garuda-system-maintenance
 program2=/usr/lib/DiscoverNotifier
 program3=/usr/bin/firewall-applet
-restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000171917903900000072630004_1719185822_23521
-restartCommand2=/usr/lib/DiscoverNotifier,-session,10859a8a93000171917903900000072630006_1719185822_27811
-restartCommand3=/usr/bin/firewall-applet,-session,10859a8a93000171917904000000072630007_1719185822_32603,-name,firewall-applet
+restartCommand1=/usr/bin/garuda-system-maintenance,-session,10859a8a93000172067669100000017480004_1720716437_228869
+restartCommand2=/usr/lib/DiscoverNotifier,-session,10859a8a93000172067669200000017480005_1720716437_232019
+restartCommand3=/usr/bin/firewall-applet,-session,10859a8a93000172067669300000017480007_1720716437_293230,-name,firewall-applet
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0

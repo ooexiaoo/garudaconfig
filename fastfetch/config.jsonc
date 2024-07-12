@@ -1,92 +1,98 @@
-// Load with --load-config examples/2.jsonc
-// Note that you must replace the image path to an existing image to display it.
 {
-    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
-    "logo": {
-        "type": "iterm",
-        "source": "/mnt/MINE/wallpapers/Neofetch images/rem.png",
-        "height": 20,
-        "width": 30,
-        "padding": {
-            "right": 2,
-            "left": 2
-        }
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "iterm",
+    "source": "/mnt/MINE/wallpapers/Neofetch images/4x.jpeg",
+    "width": 40,
+    "height": 20,
+    "padding": {
+      "top": 1,
+      "bottom": 1,
+      "left": 1,
+      "right": 1
+    }
+  },
+  "display": {
+    "separator": " - ",
+    "color": "green"
+  },
+// "paddingTop": 100,
+//  "paddingBottom": 0,
+  "modules": [
+    {
+      "type": "custom",
+      "format": "═══════════ Hardware Information ═══════════"
     },
-    "display": {
-        "separator": "|"
+//    {
+//      "type": "host",
+//      "key": "  "
+//    },
+//    {
+//      "type": "cpu",
+//      "key": "  "
+//    },
+    {
+      "type": "memory",
+      "key": " 󰑭 "
     },
-    "modules": [
-        {
-            "type": "custom", // HardwareStart
-            "format": "┌─────────── \u001b[1mHardware Information\u001b[0m ───────────┐" // `\u001b` is `\033`, or `\e`
-        },
-        {
-            "type": "gpu",
-            "key": " ⬤ "
-        },
-        {
-            "type": "memory",
-            "key": " ⬤ "
-        },
-        {
-            "type": "swap",
-            "key": " ⬤ "
-        },
-        {
-            "type": "brightness",
-            "key": " ⬤ "
-        },
-        {
-            "type": "custom", // SoftwareStart
-            "format": "├─────────── \u001b[1mSoftware Information\u001b[0m ───────────┤"
-        },
-        {
-            "type": "title",
-            "key": " ⬤ ",
-            "format": "{1}@{2}"
-        },
-
-        {
-            "type": "kernel",
-            "key": " ⬤ ",
-            "format": "{1} {2}"
-        },
-        {
-            "type": "lm",
-            "key": " ⬤ "
-        },
-        {
-            "type": "de",
-            "key": " ⬤ "
-        },
-        {
-            "type": "wm",
-            "key": " ⬤ "
-        },
-
-        {
-            "type": "packages",
-            "key": " ⬤ "
-        },
-        {
-            "type": "uptime",
-            "key": " ⬤ "
-        },
-
-        {
-            "type": "wifi",
-            "key": " ⬤ ",
-            "format": "{4}" // ssid
-        },
-
-        {
-            "type": "custom", // InformationEnd
-            "format": "└────────────────────────────────────────────┘"
-        },
-        {
-            "type": "colors",
-            "paddingLeft": 2,
-            "symbol": "circle"
-        }
-    ]
+    {
+      "type": "display",
+      "key": " 󰍹 "
+    },
+    {
+      "type": "poweradapter",
+      "key": "  "
+    },
+    {
+      "type": "bluetooth",
+      "key": "  "
+    },
+    {
+      "type": "sound",
+      "key": "  "
+    },
+    {
+      "type": "custom",
+      "format": "═══════════ Software Information ═══════════"
+    },
+    {
+      "type": "title",
+      "key": "  ",
+      "format": "{1}@{2}"
+    },
+    {
+      "type": "os",
+      "key": "  "
+    },
+    {
+      "type": "kernel",
+      "key": "  ",
+      "format": "{1} {2}"
+    },
+    {
+      "type": "packages",
+      "key": " 󰏖 "
+    },
+//    {
+//      "type": "lm",
+//      "key": " 󰧨 "
+//    },
+//    {
+//      "type": "de",
+//      "key": "  "
+//    },
+//    {
+//      "type": "wm",
+//      "key": "  "
+//    },
+    {
+      "type": "custom",
+      "format": "═════════════════════════════════════════════"
+    },
+    {
+      "type": "colors",
+      "paddingLeft": 2,
+      "symbol": "square"
+    }
+  ]
 }

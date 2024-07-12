@@ -8,10 +8,13 @@ RightButton;NoModifier=org.kde.contextmenu
 [Containments][119]
 ItemGeometries-1024x768=Applet-155:2489.88,134,54,54,0;
 ItemGeometries-1280x960=Applet-155:2745.88,134,54,54,0;
+ItemGeometries-1600x900=Applet-155:3065.88,134,54,54,0;Applet-156:3055.88,134,54,54,0;
 ItemGeometries-1920x1080=Applet-155:3385.88,134,54,54,0;Applet-156:3375.88,134,54,54,0;
+ItemGeometries-2560x1440=Applet-155:4025.88,134,54,54,0;Applet-156:4015.88,134,54,54,0;
+ItemGeometries-3840x2160=Applet-155:5305.88,134,54,54,0;Applet-156:5295.88,134,54,54,0;
 ItemGeometries-640x480=Applet-155:2105.88,134,54,54,0;
 ItemGeometries-800x600=Applet-155:2265.88,134,54,54,0;Applet-156:2255.88,134,54,54,0;
-ItemGeometriesHorizontal=Applet-155:2265.88,134,54,54,0;Applet-156:2255.88,134,54,54,0;
+ItemGeometriesHorizontal=Applet-155:3385.88,134,54,54,0;Applet-156:3375.88,134,54,54,0;
 activityId=fca435e5-2553-4645-99a7-b496fce4c96f
 formfactor=0
 immutability=1
@@ -41,7 +44,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][119][General]
-positions={"1920x1080":[]\\,"1024x768":[]\\,"800x600":[]\\,"1280x960":[]\\,"640x480":[""]}
+positions={"1920x1080":[]\\,"1024x768":[]\\,"800x600":[]\\,"1280x960":[]\\,"640x480":[""]\\,"3840x2160":[""]\\,"2560x1440":[""]}
 sortMode=-1
 
 [Containments][119][Wallpaper][a2n.blur][General]
@@ -50,7 +53,7 @@ PreviewImage=/mnt/MINE/wallpapers/anime-girl-red-glasses-4k-64-3840x2160.jpg
 SlidePaths=/home/exia/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][119][Wallpaper][org.kde.image][General]
-Image=/home/exia/Downloads/wallpapers/Anime/wallhaven-85meoy.jpg
+Image=/home/exia/Downloads/wallpapers/abstract/Sand 2.jpg
 PreviewImage=/mnt/MINE/wallpapers/rei-ayanami-neon-genesis-evangelion-4k-a7-3840x2160.jpg
 SlidePaths=/home/exia/.local/share/wallpapers/,/usr/share/wallpapers/
 
@@ -116,9 +119,9 @@ autoFontAndSize=false
 customDateFormat=\s dddd, MMM d \s
 dateFormat=custom
 enabledCalendarPlugins=alternatecalendar,astronomicalevents,holidaysevents
-fontFamily=Cantarell
+fontFamily=DejaVu Sans
 fontSize=9
-fontStyleName=Regular
+fontStyleName=Condensed
 fontWeight=400
 showWeekNumbers=true
 
@@ -175,6 +178,7 @@ fgShadowColor=#abbd21ff
 fgShadowEnabled=true
 fgSingleColor=#ffffff
 hideWidget=true
+isEnabled=false
 panelBgColor=#020103
 panelBgEnabled=true
 panelBgRadius=15
@@ -182,8 +186,8 @@ panelOutlineOpacity=1
 panelOutlineWidth=1
 panelShadowColor=#000000
 panelShadowY=0
-panelWidgets=org.kde.plasma.kickerdash,Application Dashboard,archlinux|org.kde.windowbuttons,Window Buttons,focus-windows|org.kde.windowtitle,Window Title,preferences-desktop|org.kde.plasma.appmenu,Global Menu,show-menu|org.kde.plasma.panelspacer,Panel Spacer,|org.kde.plasma.digitalclock,Digital Clock,preferences-system-time|org.kde.plasma.systemtray,System Tray,preferences-desktop-notification|org.kde.plasma.userswitcher,User Switcher,file:///var/lib/AccountsService/icons/exia|luisbocanegra.panel.colorizer,Panel colorizer,desktop
-panelWidgetsWithTray=org.kde.plasma.kickerdash,Application Dashboard,archlinux|org.kde.windowbuttons,Window Buttons,focus-windows|org.kde.windowtitle,Window Title,preferences-desktop|org.kde.plasma.appmenu,Global Menu,show-menu|org.kde.plasma.panelspacer,Panel Spacer,|org.kde.plasma.digitalclock,Digital Clock,preferences-system-time|firewall-applet,Default Zone: 'public'\nDefault Zone 'public' active for connection 'a1d881f6-ddb4-4317-8e57-f8ff2585c87a' on interface 'wlp2s0',firewall-applet|org.kde.plasma.clipboard,Clipboard,klipper-symbolic|Fcitx,Input Method,input-keyboard|org.kde.plasma.volume,Audio Volume,audio-volume-muted|org.kde.plasma.brightness,Brightness and Color,redshift-status-on-symbolic|org.kde.plasma.networkmanagement,Networks,network-wireless-100|org.kde.plasma.userswitcher,User Switcher,file:///var/lib/AccountsService/icons/exia|luisbocanegra.panel.colorizer,Panel colorizer,desktop
+panelWidgets=org.kde.plasma.kickerdash,Application Dashboard,distributor-logo-archlinux|org.kde.windowbuttons,Window Buttons,focus-windows|org.kde.windowtitle,Window Title,preferences-desktop|org.kde.plasma.appmenu,Global Menu,show-menu|org.kde.plasma.panelspacer,Panel Spacer,|org.kde.plasma.digitalclock,Digital Clock,preferences-system-time|org.kde.plasma.systemtray,System Tray,preferences-desktop-notification|org.kde.plasma.userswitcher,User Switcher,file:///var/lib/AccountsService/icons/exia|luisbocanegra.panel.colorizer,Panel colorizer,desktop
+panelWidgetsWithTray=org.kde.plasma.kickerdash,Application Dashboard,distributor-logo-archlinux|org.kde.windowbuttons,Window Buttons,focus-windows|org.kde.windowtitle,Window Title,preferences-desktop|org.kde.plasma.appmenu,Global Menu,show-menu|org.kde.plasma.panelspacer,Panel Spacer,|org.kde.plasma.digitalclock,Digital Clock,preferences-system-time|org.kde.plasma.clipboard,Clipboard,klipper-symbolic|Fcitx,Input Method,input-keyboard|org.kde.plasma.volume,Audio Volume,audio-volume-medium-symbolic|org.kde.plasma.brightness,Brightness and Color,brightness-high-symbolic|org.kde.plasma.networkmanagement,Networks,network-wireless-100-symbolic|firewall-applet,Default Zone: 'public'\nDefault Zone 'public' active for connection '4fbcffe0-c408-4ffa-8302-0283387cb4d2' on interface 'wlp2s0',firewall-applet|org.kde.plasma.userswitcher,User Switcher,file:///var/lib/AccountsService/icons/exia|luisbocanegra.panel.colorizer,Panel colorizer,desktop
 radius=8
 widgetBgEnabled=false
 widgetOutlineColorMode=0
@@ -204,7 +208,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][120][Applets][152][Configuration][General]
-customButtonImage=archlinux
+customButtonImage=distributor-logo-archlinux
 favoritesPortedToKAstats=true
 useCustomButtonImage=true
 
@@ -215,7 +219,7 @@ global=
 AppletOrder=152;122;123;124;125;126;127;128;140;149
 
 [Containments][120][Shortcuts]
-global=Ctrl+Num+2
+global=
 
 [Containments][129]
 activityId=
@@ -224,8 +228,8 @@ immutability=1
 lastScreen=0
 location=3
 plugin=org.kde.plasma.private.systemtray
-popupHeight=441
-popupWidth=440
+popupHeight=433
+popupWidth=433
 wallpaperplugin=org.kde.image
 
 [Containments][129][Applets][130]
@@ -233,7 +237,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][129][Applets][130][Configuration]
-PreloadWeight=55
+PreloadWeight=75
 
 [Containments][129][Applets][131]
 immutability=1
@@ -264,6 +268,9 @@ PreloadWeight=100
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
+[Containments][129][Applets][135][Configuration]
+PreloadWeight=55
+
 [Containments][129][Applets][136]
 immutability=1
 plugin=org.kde.plasma.keyboardlayout
@@ -280,14 +287,14 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][129][Applets][138][Configuration]
-PreloadWeight=95
+PreloadWeight=100
 
 [Containments][129][Applets][139]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][129][Applets][139][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 
 [Containments][129][Applets][139][Configuration][General]
 migrated=true
@@ -297,7 +304,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][129][Applets][143][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][129][Applets][144]
 immutability=1
@@ -311,7 +318,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][129][Applets][145][Configuration]
-PreloadWeight=84
+PreloadWeight=100
 
 [Containments][129][Applets][146]
 immutability=1
@@ -319,6 +326,9 @@ plugin=org.kde.plasma.networkmanagement
 
 [Containments][129][Applets][146][Configuration]
 PreloadWeight=100
+
+[Containments][129][Applets][146][Configuration][General]
+currentDetailsTab=details
 
 [Containments][129][Applets][148]
 immutability=1
@@ -363,13 +373,13 @@ DialogWidth=720
 [Containments][141][Applets][142][Configuration][General]
 fill=false
 iconSpacing=0
-launchers=preferred://filemanager,applications:obsidian.desktop,applications:octopi.desktop,applications:code-oss.desktop,preferred://browser,applications:firefox.desktop,applications:org.gnome.Calculator.desktop,applications:freedownloadmanager.desktop,applications:spotify.desktop,applications:org.gnome.Shotwell.desktop,applications:firedragon.desktop,applications:org.kde.konsole.desktop
+launchers=preferred://filemanager,applications:obsidian.desktop,applications:octopi.desktop,applications:code-oss.desktop,preferred://browser,applications:firefox.desktop,applications:org.gnome.Calculator.desktop,applications:freedownloadmanager.desktop,applications:org.gnome.Shotwell.desktop,applications:firedragon.desktop,applications:org.kde.konsole.desktop,applications:org.inkscape.Inkscape.desktop,applications:qmmp.desktop
 maxStripes=1
 showOnlyCurrentDesktop=false
 showOnlyCurrentScreen=false
 
 [Containments][141][Applets][142][Shortcuts]
-global=Menu, Num+1
+global=
 
 [Containments][141][Applets][151]
 immutability=1
@@ -396,8 +406,8 @@ widgetBgEnabled=false
 AppletOrder=142;151
 
 [Containments][141][Shortcuts]
-global=Ctrl+Num+1
+global=
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/download.png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/th-1763265486.png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/th-1385178808,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/Rate Card Doc in Black and White Editorial Style.pdf,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/May 2024.png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/Minimalist Vintage Line A4 Stationery Paper Document.png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/th-1763265486,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/Minimalist Vintage Line A4 Stationery Paper Document (1).png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/anime-celty-sturluson-79m4jzscabdxc4ix.gif,0,fca435e5-2553-4645-99a7-b496fce4c96f
+screenMapping=desktop:/Minimalist Vintage Line A4 Stationery Paper Document (1).png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/download.png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/Rate Card Doc in Black and White Editorial Style.pdf,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/Minimalist Vintage Line A4 Stationery Paper Document.png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/b3352cf516dd4be94e435dce1f249679.jpg,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/th-1385178808,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/May 2024.png,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/th-1763265486,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/anime-celty-sturluson-79m4jzscabdxc4ix.gif,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/WhatsApp Image 2024-06-30 at 15.28.49-compressed.pdf,0,fca435e5-2553-4645-99a7-b496fce4c96f,desktop:/th-1763265486.png,0,fca435e5-2553-4645-99a7-b496fce4c96f

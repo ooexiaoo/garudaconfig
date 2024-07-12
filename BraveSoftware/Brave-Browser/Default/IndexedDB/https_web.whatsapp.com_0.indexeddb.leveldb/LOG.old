@@ -1,16 +1,3 @@
-2024/06/23-16:56:30.241 9bd Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/23-16:56:30.242 9bd Recovering log #277
-2024/06/23-16:56:30.265 9bd Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000277.log 
-2024/06/23-16:56:30.265 9bd Delete type=2 #275
-2024/06/23-16:56:30.266 9bd Delete type=2 #276
-2024/06/23-16:56:30.266 9bd Delete type=2 #278
-2024/06/23-16:56:34.123 9be Level-0 table #284: started
-2024/06/23-16:56:34.171 9be Level-0 table #284: 291587 bytes OK
-2024/06/23-16:56:34.219 9be Delete type=0 #277
-2024/06/23-16:56:34.233 9e3 Manual compaction at level-0 from '\x00D\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/23-16:56:38.535 9be Compacting 1@1 + 3@2 files
-2024/06/23-16:56:38.700 9be Generated table #285@1: 38201 keys, 2254768 bytes
-2024/06/23-16:56:38.877 9be Generated table #286@1: 46417 keys, 2197884 bytes
-2024/06/23-16:56:38.890 9be Generated table #287@1: 4231 keys, 90293 bytes
-2024/06/23-16:56:38.890 9be Compacted 1@1 + 3@2 files => 4542945 bytes
-2024/06/23-16:56:38.894 9be compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/07/02-23:15:31.097 344a Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/02-23:15:31.098 344a Recovering log #374
+2024/07/02-23:15:31.167 344a Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000374.log 

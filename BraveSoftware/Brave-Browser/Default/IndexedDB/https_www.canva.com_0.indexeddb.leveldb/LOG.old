@@ -1,3 +1,42 @@
-2024/06/21-04:32:46.160 914 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/21-04:32:46.161 914 Recovering log #191
-2024/06/21-04:32:46.213 914 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000191.log 
+2024/07/06-22:29:54.479 2193 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/06-22:29:54.481 2193 Recovering log #230
+2024/07/06-22:29:54.520 2193 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000230.log 
+2024/07/06-22:33:11.056 2194 Level-0 table #235: started
+2024/07/06-22:33:11.123 2194 Level-0 table #235: 1668195 bytes OK
+2024/07/06-22:33:11.130 2194 Delete type=0 #230
+2024/07/06-22:33:13.668 2194 Compacting 1@1 + 1@2 files
+2024/07/06-22:33:13.691 2194 Generated table #236@1: 329 keys, 18180 bytes
+2024/07/06-22:33:13.692 2194 Compacted 1@1 + 1@2 files => 18180 bytes
+2024/07/06-22:33:13.695 2194 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/06-22:33:13.696 2194 Delete type=2 #232
+2024/07/06-22:33:13.696 2194 Delete type=2 #235
+2024/07/06-22:41:10.876 2194 Level-0 table #238: started
+2024/07/06-22:41:10.962 2194 Level-0 table #238: 1645956 bytes OK
+2024/07/06-22:41:10.967 2194 Delete type=0 #234
+2024/07/06-22:41:26.511 2194 Compacting 1@1 + 1@2 files
+2024/07/06-22:41:26.532 2194 Generated table #239@1: 327 keys, 11937 bytes
+2024/07/06-22:41:26.532 2194 Compacted 1@1 + 1@2 files => 11937 bytes
+2024/07/06-22:41:26.537 2194 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/06-22:41:26.538 2194 Delete type=2 #236
+2024/07/06-22:41:26.538 2194 Delete type=2 #238
+2024/07/06-22:56:23.177 2197 Level-0 table #241: started
+2024/07/06-22:56:23.268 2197 Level-0 table #241: 1602409 bytes OK
+2024/07/06-22:56:23.274 2197 Delete type=0 #237
+2024/07/06-22:56:30.185 2194 Compacting 1@1 + 1@2 files
+2024/07/06-22:56:30.227 2194 Generated table #242@1: 310 keys, 8386 bytes
+2024/07/06-22:56:30.228 2194 Compacted 1@1 + 1@2 files => 8386 bytes
+2024/07/06-22:56:30.231 2194 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/06-22:56:30.232 2194 Delete type=2 #239
+2024/07/06-22:56:30.232 2194 Delete type=2 #241
+2024/07/06-23:12:48.680 2194 Level-0 table #244: started
+2024/07/06-23:12:48.741 2194 Level-0 table #244: 1319467 bytes OK
+2024/07/06-23:12:48.745 2194 Delete type=0 #240
+2024/07/06-23:12:48.746 2194 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/06-23:12:48.746 2194 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x15\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00U\x00A\x00F\x00L\x00Q\x005\x00S\x00U\x000\x00U\x004' @ 1548072 : 1
+2024/07/06-23:12:48.746 2194 Compacting 1@1 + 1@2 files
+2024/07/06-23:12:48.763 2194 Generated table #245@1: 313 keys, 10561 bytes
+2024/07/06-23:12:48.763 2194 Compacted 1@1 + 1@2 files => 10561 bytes
+2024/07/06-23:12:48.766 2194 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/06-23:12:48.767 2194 Delete type=2 #242
+2024/07/06-23:12:48.767 2194 Delete type=2 #244
+2024/07/06-23:12:48.768 2194 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x15\x00a\x00n\x00a\x00l\x00y\x00t\x00i\x00c\x00s\x00-\x00U\x00A\x00F\x00L\x00Q\x005\x00S\x00U\x000\x00U\x004' @ 1548072 : 1 .. (end); will stop at (end)

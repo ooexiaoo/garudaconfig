@@ -1,12 +1,3 @@
-2024/06/21-04:34:41.959 914 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/21-04:34:41.961 914 Recovering log #191
-2024/06/21-04:34:42.073 914 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000191.log 
-2024/06/21-04:35:38.677 914 Level-0 table #196: started
-2024/06/21-04:35:38.729 914 Level-0 table #196: 1661977 bytes OK
-2024/06/21-04:35:38.736 914 Delete type=0 #191
-2024/06/21-04:35:56.636 914 Compacting 1@1 + 1@2 files
-2024/06/21-04:35:56.668 914 Generated table #197@1: 307 keys, 5709 bytes
-2024/06/21-04:35:56.668 914 Compacted 1@1 + 1@2 files => 5709 bytes
-2024/06/21-04:35:56.671 914 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/21-04:35:56.672 914 Delete type=2 #193
-2024/06/21-04:35:56.672 914 Delete type=2 #196
+2024/07/07-11:57:53.690 a3b Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/07-11:57:53.691 a3b Recovering log #243
+2024/07/07-11:57:53.691 a3b Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000243.log 

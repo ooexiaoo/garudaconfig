@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #313131;
+}
+
+h1 {
+    color: #fff;
+}
+
+input {
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#qrcode {
+    margin: 20px;
+    border: 10px solid #fff;
+    border-radius: 10px;
+}

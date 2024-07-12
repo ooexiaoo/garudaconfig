@@ -1,11 +1,36 @@
-2024/06/24-14:00:22.070 95d Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/24-14:00:22.074 95d Recovering log #3284
-2024/06/24-14:00:22.078 95d Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/003284.log 
-2024/06/24-14:00:24.623 95e Compacting 1@1 + 2@2 files
-2024/06/24-14:00:24.877 95e Generated table #3287@1: 40079 keys, 2295150 bytes
-2024/06/24-14:00:25.101 95e Generated table #3288@1: 22544 keys, 1501335 bytes
-2024/06/24-14:00:25.104 95e Compacted 1@1 + 2@2 files => 3796485 bytes
-2024/06/24-14:00:25.110 95e compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/06/24-14:00:25.110 95e Delete type=2 #3282
-2024/06/24-14:00:25.111 95e Delete type=2 #3283
-2024/06/24-14:00:25.111 95e Delete type=2 #3285
+2024/07/12-21:33:45.218 2aa1 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-21:33:45.221 2aa1 Recovering log #3841
+2024/07/12-21:33:45.242 2aa1 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/003841.log 
+2024/07/12-21:33:55.222 2aa2 Level-0 table #3847: started
+2024/07/12-21:33:55.334 2aa2 Level-0 table #3847: 1619880 bytes OK
+2024/07/12-21:33:55.372 2aa2 Delete type=0 #3841
+2024/07/12-21:33:55.909 2ab3 Compacting 1@1 + 2@2 files
+2024/07/12-21:33:56.274 2ab3 Generated table #3848@1: 40079 keys, 2294800 bytes
+2024/07/12-21:33:56.480 2ab3 Generated table #3849@1: 22831 keys, 1537390 bytes
+2024/07/12-21:33:56.480 2ab3 Compacted 1@1 + 2@2 files => 3832190 bytes
+2024/07/12-21:33:56.517 2ab3 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/12-21:33:56.518 2ab3 Delete type=2 #3843
+2024/07/12-21:33:56.518 2ab3 Delete type=2 #3844
+2024/07/12-21:33:56.518 2ab3 Delete type=2 #3847
+2024/07/12-21:38:44.049 2aa2 Level-0 table #3851: started
+2024/07/12-21:38:44.086 2aa2 Level-0 table #3851: 2025352 bytes OK
+2024/07/12-21:38:44.092 2aa2 Delete type=0 #3846
+2024/07/12-21:40:06.513 2aa2 Compacting 1@1 + 2@2 files
+2024/07/12-21:40:06.873 2aa2 Generated table #3852@1: 40146 keys, 2295115 bytes
+2024/07/12-21:40:07.005 2aa2 Generated table #3853@1: 22781 keys, 1534109 bytes
+2024/07/12-21:40:07.005 2aa2 Compacted 1@1 + 2@2 files => 3829224 bytes
+2024/07/12-21:40:07.009 2aa2 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/12-21:51:20.722 2aa2 Level-0 table #3855: started
+2024/07/12-21:51:20.756 2aa2 Level-0 table #3855: 1340443 bytes OK
+2024/07/12-21:51:20.763 2aa2 Delete type=2 #3848
+2024/07/12-21:51:20.763 2aa2 Delete type=2 #3849
+2024/07/12-21:51:20.763 2aa2 Delete type=0 #3850
+2024/07/12-21:51:20.764 2aa2 Delete type=2 #3851
+2024/07/12-21:56:53.921 2aa4 Compacting 1@1 + 2@2 files
+2024/07/12-21:56:54.151 2aa4 Generated table #3856@1: 40064 keys, 2294845 bytes
+2024/07/12-21:56:54.266 2aa4 Generated table #3857@1: 22877 keys, 1539658 bytes
+2024/07/12-21:56:54.266 2aa4 Compacted 1@1 + 2@2 files => 3834503 bytes
+2024/07/12-21:56:54.269 2aa4 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/12-21:56:54.270 2aa4 Delete type=2 #3852
+2024/07/12-21:56:54.270 2aa4 Delete type=2 #3853
+2024/07/12-21:56:54.270 2aa4 Delete type=2 #3855

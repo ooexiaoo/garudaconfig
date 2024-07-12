@@ -1,15 +1,25 @@
-2024/06/24-04:08:28.331 2ce4 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2024/06/24-04:08:28.339 2ce4 Recovering log #3498
-2024/06/24-04:08:28.345 2ce4 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/003498.log 
-2024/06/24-04:15:30.876 2ce4 Compacting 1@0 + 1@1 files
-2024/06/24-04:15:30.894 2ce4 Generated table #3501@0: 22 keys, 188577 bytes
-2024/06/24-04:15:30.895 2ce4 Compacted 1@0 + 1@1 files => 188577 bytes
-2024/06/24-04:15:30.900 2ce4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/24-04:15:30.901 2ce4 Delete type=2 #3497
-2024/06/24-04:15:30.901 2ce4 Delete type=2 #3499
-2024/06/24-04:36:32.459 2ce4 Compacting 1@1 + 1@2 files
-2024/06/24-04:36:32.473 2ce4 Generated table #3502@1: 16 keys, 188172 bytes
-2024/06/24-04:36:32.473 2ce4 Compacted 1@1 + 1@2 files => 188172 bytes
-2024/06/24-04:36:32.476 2ce4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/24-04:36:32.477 2ce4 Delete type=2 #3494
-2024/06/24-04:36:32.477 2ce4 Delete type=2 #3501
+2024/07/12-21:33:32.587 2aa1 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2024/07/12-21:33:32.603 2aa1 Recovering log #5828
+2024/07/12-21:33:32.699 2aa1 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/005828.log 
+2024/07/12-21:37:22.410 2aa2 Level-0 table #5836: started
+2024/07/12-21:37:22.450 2aa2 Level-0 table #5836: 1085574 bytes OK
+2024/07/12-21:37:22.457 2aa2 Delete type=0 #5828
+2024/07/12-21:40:42.835 2aa2 Level-0 table #5838: started
+2024/07/12-21:40:42.866 2aa2 Level-0 table #5838: 1081130 bytes OK
+2024/07/12-21:40:42.871 2aa2 Delete type=0 #5835
+2024/07/12-21:42:55.774 2ab3 Level-0 table #5840: started
+2024/07/12-21:42:55.807 2ab3 Level-0 table #5840: 1081217 bytes OK
+2024/07/12-21:42:55.815 2ab3 Delete type=0 #5837
+2024/07/12-21:48:41.441 2aa2 Compacting 2@0 + 1@1 files
+2024/07/12-21:48:41.479 2aa2 Generated table #5841@0: 36 keys, 276136 bytes
+2024/07/12-21:48:41.479 2aa2 Compacted 2@0 + 1@1 files => 276136 bytes
+2024/07/12-21:48:41.483 2aa2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/12-21:48:46.602 2aa2 Level-0 table #5843: started
+2024/07/12-21:48:46.650 2aa2 Level-0 table #5843: 1082133 bytes OK
+2024/07/12-21:48:46.656 2aa2 Delete type=2 #5836
+2024/07/12-21:48:46.656 2aa2 Delete type=2 #5838
+2024/07/12-21:48:46.656 2aa2 Delete type=0 #5839
+2024/07/12-21:48:46.656 2aa2 Delete type=2 #5840
+2024/07/12-21:56:04.981 2aa2 Level-0 table #5845: started
+2024/07/12-21:56:05.017 2aa2 Level-0 table #5845: 1081652 bytes OK
+2024/07/12-21:56:05.022 2aa2 Delete type=0 #5842

@@ -1,3 +1,22 @@
-2024/06/24-01:57:03.705 9e2 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dev-testingnhnl.pantheonsite.io_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/24-01:57:03.705 9e2 Recovering log #93
-2024/06/24-01:57:03.819 9e2 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dev-testingnhnl.pantheonsite.io_0.indexeddb.leveldb/000093.log 
+2024/07/03-20:03:53.850 122f Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dev-testingnhnl.pantheonsite.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/03-20:03:53.851 122f Recovering log #130
+2024/07/03-20:03:53.884 122f Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dev-testingnhnl.pantheonsite.io_0.indexeddb.leveldb/000130.log 
+2024/07/03-20:04:06.431 1230 Level-0 table #135: started
+2024/07/03-20:04:06.457 1230 Level-0 table #135: 322935 bytes OK
+2024/07/03-20:04:06.464 1230 Delete type=0 #130
+2024/07/03-20:04:06.466 1230 Manual compaction at level-0 from (begin) .. (end); will stop at '\x002\x0e\x03\x01\x09\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00s' @ 276059 : 1
+2024/07/03-20:04:06.466 1230 Compacting 1@0 + 1@1 files
+2024/07/03-20:04:06.477 1230 Generated table #136@0: 1315 keys, 23760 bytes
+2024/07/03-20:04:06.477 1230 Compacted 1@0 + 1@1 files => 23760 bytes
+2024/07/03-20:04:06.480 1230 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/03-20:04:06.481 1230 Delete type=2 #132
+2024/07/03-20:04:06.481 1230 Delete type=2 #135
+2024/07/03-20:04:06.481 1230 Manual compaction at level-0 from '\x002\x0e\x03\x01\x09\x00d\x00o\x00c\x00u\x00m\x00e\x00n\x00t\x00s' @ 276059 : 1 .. (end); will stop at (end)
+2024/07/03-20:04:06.482 1230 Manual compaction at level-1 from (begin) .. (end); will stop at '\x002\x0d!\x01\x12\x000\x000\x000\x001\x007\x002\x000\x000\x001\x007\x002\x003\x004\x004\x004\x008\x000\x001\x00\x01\x0b\x00i\x00n\x00i\x00t\x00i\x00a\x00l\x00L\x00o\x00a\x00d' @ 277695 : 1
+2024/07/03-20:04:06.482 1230 Compacting 1@1 + 1@2 files
+2024/07/03-20:04:06.487 1230 Generated table #137@1: 512 keys, 17028 bytes
+2024/07/03-20:04:06.487 1230 Compacted 1@1 + 1@2 files => 17028 bytes
+2024/07/03-20:04:06.491 1230 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/03-20:04:06.492 1230 Delete type=2 #101
+2024/07/03-20:04:06.492 1230 Delete type=2 #136
+2024/07/03-20:04:06.492 1230 Manual compaction at level-1 from '\x002\x0d!\x01\x12\x000\x000\x000\x001\x007\x002\x000\x000\x001\x007\x002\x003\x004\x004\x004\x008\x000\x001\x00\x01\x0b\x00i\x00n\x00i\x00t\x00i\x00a\x00l\x00L\x00o\x00a\x00d' @ 277695 : 1 .. (end); will stop at (end)

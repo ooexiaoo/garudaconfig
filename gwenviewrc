@@ -3,7 +3,11 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 
 [General]
 LastUsedVersion=210800
-SideBarPage=operations
+SideBarPage=folders
+ThumbnailBarIsVisible=true
+
+[ImageView]
+ThumbnailSplitterSizes=803,230
 
 [MainWindow]
 1920x1080 screen: Height=990
@@ -14,29 +18,31 @@ LVDS-1=LVDS-1
 MenuBar=Disabled
 ToolBarsMovable=Disabled
 
+[Phonon::AudioOutput]
+Gwenview_Volume=1
+
 [Recent Files]
-File1[$e]=$HOME/Desktop/a-striking-conceptual-illustration-of-a-cyberpunk--8T_tQJhSR3y3hRW7rYWttw-kiTLYsxMT-m5d1bMRW7_5A.jpeg
-File10[$e]=$HOME/.config/spicetify/Themes/Nightlight/screenshots/nightlight.png
-File2[$e]=$HOME/Desktop/a-captivating-conceptual-illustration-showcases-a--wYdJBSWgQ2600dj9wrl96w-kiTLYsxMT-m5d1bMRW7_5A.jpeg
-File3[$e]=$HOME/Desktop/a-captivating-conceptual-illustration-of-a-cyberpu-jALfh2fcS2Ksl08Q4ba1VQ-lpU8K5CcTIyMw6eXEUdmzw.jpeg
-File4[$e]=$HOME/Desktop/a-striking-conceptual-illustration-of-a-cyberpunk--dF_KsWd2TG-w8E3El2BNww-lpU8K5CcTIyMw6eXEUdmzw.jpeg
-File5[$e]=$HOME/Downloads/wallpapers/Network/a-stunning-conceptual-illustration-of-a-futuristic-lGMsPJ9SR3Gb-CI5pefPNQ-BH45lx5OTKaFKksY2Y14HQ.jpeg
-File6[$e]=$HOME/Downloads/wallpapers/Network/a-striking-conceptual-illustration-of-a-cyberpunk--3Kcy2JRDSjmHQwGWYuATXQ-QsVL6LlqSiyRhU5_8U3v7A.jpeg
-File7[$e]=$HOME/Downloads/wallpapers/Network/a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng.jpeg
-File8[$e]=$HOME/Desktop/a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng-removebg-preview.png
-File9[$e]=$HOME/Desktop/loginimg.png
-Name1[$e]=a-striking-conceptual-illustration-of-a-cyberpunk--8T_tQJhSR3y3hRW7rYWttw-kiTLYsxMT-m5d1bMRW7_5A.jpeg
-Name10[$e]=nightlight.png
-Name2[$e]=a-captivating-conceptual-illustration-showcases-a--wYdJBSWgQ2600dj9wrl96w-kiTLYsxMT-m5d1bMRW7_5A.jpeg
-Name3[$e]=a-captivating-conceptual-illustration-of-a-cyberpu-jALfh2fcS2Ksl08Q4ba1VQ-lpU8K5CcTIyMw6eXEUdmzw.jpeg
-Name4[$e]=a-striking-conceptual-illustration-of-a-cyberpunk--dF_KsWd2TG-w8E3El2BNww-lpU8K5CcTIyMw6eXEUdmzw.jpeg
-Name5[$e]=a-stunning-conceptual-illustration-of-a-futuristic-lGMsPJ9SR3Gb-CI5pefPNQ-BH45lx5OTKaFKksY2Y14HQ.jpeg
-Name6[$e]=a-striking-conceptual-illustration-of-a-cyberpunk--3Kcy2JRDSjmHQwGWYuATXQ-QsVL6LlqSiyRhU5_8U3v7A.jpeg
-Name7[$e]=a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng.jpeg
-Name8[$e]=a-captivating-and-dynamic-conceptual-illustration--r0wG0u0ESYi-bza0l6aBJg-pZzWrBnxTTKsG2SPczh2Ng-removebg-preview.png
-Name9[$e]=loginimg.png
+File1[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/jpyqo_512.webp
+File10[$e]=$HOME/Documents/Screenshot_20240711_113613.png
+File2[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/lnugt_512.webp
+File3[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/61OUC7iSkDL._SX679_.jpg
+File4[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51VByS042FL._SX679_.jpg
+File5[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51SwGDEBuWL._SX679_.jpg
+File6[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51A-qIF0aFL._SX679_.jpg
+File7[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51N+V5pFUOL._SX679_.jpg
+File8[$e]=/mnt/MINE/backup/Projects/Mohak Herbs/Print labels/New Normal SVG Print 12 x 18 600.png
+File9[$e]=/mnt/MINE/backup/Projects/Mohak Herbs/Print labels/New Normal Print 12 x 18.png
+Name1[$e]=jpyqo_512.webp
+Name10[$e]=Screenshot_20240711_113613.png
+Name2[$e]=lnugt_512.webp
+Name3[$e]=61OUC7iSkDL._SX679_.jpg
+Name4[$e]=51VByS042FL._SX679_.jpg
+Name5[$e]=51SwGDEBuWL._SX679_.jpg
+Name6[$e]=51A-qIF0aFL._SX679_.jpg
+Name7[$e]=51N+V5pFUOL._SX679_.jpg
+Name8[$e]=New Normal SVG Print 12 x 18 600.png
+Name9[$e]=New Normal Print 12 x 18.png
 
 [SideBar]
 InformationSplitterSizes=225,250
-IsVisible ViewMode=true
-SideBarSplitterSizes=210,1709
+SideBarSplitterSizes=210,749

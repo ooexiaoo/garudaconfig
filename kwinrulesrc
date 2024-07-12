@@ -105,6 +105,8 @@ Description=Application settings for org.kde.dolphin
 clientmachine=localhost
 noborder=true
 noborderrule=2
+opacityactive=94
+opacityactiverule=2
 wmclass=dolphin org.kde.dolphin
 wmclasscomplete=true
 wmclassmatch=1
@@ -132,6 +134,17 @@ clientmachine=localhost
 noborder=true
 noborderrule=2
 wmclass=systemsettings
+wmclassmatch=1
+
+[21]
+Description=qmmp
+skipswitcher=true
+skipswitcherrule=2
+type=5
+typerule=2
+types=256
+wmclass=qmmp
+wmclasscomplete=false
 wmclassmatch=1
 
 [224cb583-9439-4ca2-b07b-365815f35f8c]

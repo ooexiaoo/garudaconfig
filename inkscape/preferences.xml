@@ -29,7 +29,7 @@
        state="1" />
     <group
        id="scrollbars"
-       state="1" />
+       state="0" />
   </group>
   <group
      id="fullscreen">
@@ -304,7 +304,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="px"
+       unit="in"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -584,7 +584,7 @@
        applyseparately="0" />
     <group
        id="align"
-       objects-align-to="selection"
+       objects-align-to="page"
        sel-as-groups="0"
        oncanvas="0" />
     <group
@@ -615,7 +615,7 @@
        path="">
       <group
          id="exportarea"
-         value="drawing" />
+         value="custom" />
       <group
          id="defaultxdpi" />
       <group
@@ -649,7 +649,7 @@
        ask="1"
        ask_svg="1"
        link="embed"
-       scale="optimizeQuality"
+       scale="auto"
        forcexdpi="0"
        import_mode_svg="include" />
     <group
@@ -978,7 +978,8 @@
        canvas="light">
       <group
          id="shown"
-         ver1.3="1" />
+         ver1.3="1"
+         ver1.3.2="1" />
     </group>
     <group
        id="kbshortcuts"
@@ -998,15 +999,17 @@
      org.inkscape.input.eps.autorotate="None"
      org.inkscape.input.gdkpixbuf.png.scale="optimizeQuality"
      org.inkscape.input.svg.scale="auto"
-     org.inkscape.input.gdkpixbuf.jpeg.scale="optimizeQuality" />
+     org.inkscape.input.gdkpixbuf.jpeg.scale="optimizeQuality"
+     org.inkscape.template.from-file.filename="/usr/share/inkscape/templates/no_layers.svg"
+     org.inkscape.input.gdkpixbuf.png.dpi="from_file" />
   <group
      id="desktop"
-     style="fill:#6a7682;font-size:16px;-inkscape-font-specification:'Potential, Normal';font-family:Potential">
+     style="fill:#000000;font-size:16px;-inkscape-font-specification:'Potential, Normal';font-family:Potential;stroke-width:3.77952756;-inkscape-stroke:none;stop-color:#000000">
     <group
        width="1910"
        height="1026"
        x="5"
-       y="54"
+       y="49"
        maximized="1"
        fullscreen="0"
        id="geometry" />
@@ -1122,8 +1125,8 @@
   <group
      id="theme"
      defaultPreferDarkTheme="1"
-     defaultIconTheme="Flat-Remix-Blue-Light-darkPanel"
-     defaultGtkTheme="Breeze"
+     defaultIconTheme="TokyoNight-SE"
+     defaultGtkTheme="Breeze-Dark"
      narrowSpinButton="1"
      preferDarkTheme="1"
      darkTheme="1"

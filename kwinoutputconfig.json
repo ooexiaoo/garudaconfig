@@ -3,6 +3,8 @@
         "data": [
             {
                 "autoRotation": "InTabletMode",
+                "brightness": 1,
+                "colorProfileSource": "sRGB",
                 "connectorName": "LVDS-1",
                 "highDynamicRange": false,
                 "iccProfilePath": "",

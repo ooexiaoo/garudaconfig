@@ -1,2 +1,3 @@
-2024/05/21-18:53:52.951 2c6b Creating DB /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.obsidian.md_0.indexeddb.leveldb since it was missing.
-2024/05/21-18:53:52.958 2c6b Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/04-03:54:32.057 40f6 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/04-03:54:32.058 40f6 Recovering log #3
+2024/07/04-03:54:32.073 40f6 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.obsidian.md_0.indexeddb.leveldb/000003.log 

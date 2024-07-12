@@ -1,6 +1,3 @@
-2024/06/20-16:30:52.383 174e Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/20-16:30:52.394 174e Recovering log #114
-2024/06/20-16:30:52.418 174e Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000114.log 
-2024/06/20-16:31:22.439 174f Level-0 table #120: started
-2024/06/20-16:31:22.503 174f Level-0 table #120: 2818923 bytes OK
-2024/06/20-16:31:22.510 174f Delete type=0 #114
+2024/07/10-21:37:44.362 192b Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/10-21:37:44.363 192b Recovering log #135
+2024/07/10-21:37:44.363 192b Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000135.log 
