@@ -1,3 +1,6 @@
-2024/07/12-23:35:02.133 2e8d Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2024/07/12-23:35:02.140 2e8d Recovering log #5844
-2024/07/12-23:35:02.146 2e8d Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/005844.log 
+2024/07/14-17:39:43.518 a40 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2024/07/14-17:39:43.534 a40 Recovering log #5999
+2024/07/14-17:39:43.657 a40 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/005999.log 
+2024/07/14-17:41:05.799 a2e Level-0 table #6003: started
+2024/07/14-17:41:05.833 a2e Level-0 table #6003: 1106544 bytes OK
+2024/07/14-17:41:05.841 a2e Delete type=0 #5999

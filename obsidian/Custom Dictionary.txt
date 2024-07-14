@@ -38,6 +38,7 @@ Linkedin
 MBT
 Meesho
 Mohak
+Munger
 Murti
 NPK
 Nashik
@@ -97,4 +98,4 @@ shonen
 veganomist.com
 waifu
 yatra
-checksum_v1 = 04ea887af3cdc373c6509aed07f28ce7
+checksum_v1 = ed6f5530ac10ca3e21bfae148b1792bc

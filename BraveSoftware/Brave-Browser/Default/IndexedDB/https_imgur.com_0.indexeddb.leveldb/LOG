@@ -1,26 +1,4 @@
-2024/06/21-18:43:36.953 8f1 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/21-18:43:36.955 8f1 Recovering log #4
-2024/06/21-18:43:36.955 8f1 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000004.log 
-2024/06/21-18:43:37.087 901 Level-0 table #8: started
-2024/06/21-18:43:37.089 901 Level-0 table #8: 2072 bytes OK
-2024/06/21-18:43:37.093 901 Delete type=0 #4
-2024/06/21-18:43:37.094 8ef Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/06/21-18:43:53.104 8ef Level-0 table #10: started
-2024/06/21-18:43:53.107 8ef Level-0 table #10: 3213 bytes OK
-2024/06/21-18:43:53.110 8ef Delete type=0 #7
-2024/06/21-18:43:53.111 8ef Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 217 : 1
-2024/06/21-18:43:53.111 8ef Compacting 1@0 + 1@1 files
-2024/06/21-18:43:53.114 8ef Generated table #11@0: 45 keys, 1639 bytes
-2024/06/21-18:43:53.114 8ef Compacted 1@0 + 1@1 files => 1639 bytes
-2024/06/21-18:43:53.120 8ef compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/06/21-18:43:53.121 8ef Delete type=2 #8
-2024/06/21-18:43:53.121 8ef Delete type=2 #10
-2024/06/21-18:43:53.121 8ef Manual compaction at level-0 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 217 : 1 .. (end); will stop at (end)
-2024/06/21-18:43:53.122 8ef Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 267 : 1
-2024/06/21-18:43:53.122 8ef Compacting 1@1 + 1@2 files
-2024/06/21-18:43:53.127 8ef Generated table #12@1: 36 keys, 1571 bytes
-2024/06/21-18:43:53.127 8ef Compacted 1@1 + 1@2 files => 1571 bytes
-2024/06/21-18:43:53.133 8ef compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/06/21-18:43:53.133 8ef Delete type=2 #5
-2024/06/21-18:43:53.133 8ef Delete type=2 #11
-2024/06/21-18:43:53.134 8ef Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 267 : 1 .. (end); will stop at (end)
+2024/07/13-19:10:53.288 1bd5 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/13-19:10:53.289 1bd5 Recovering log #9
+2024/07/13-19:10:53.289 1bd5 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000009.log 
+2024/07/13-19:10:53.639 1bd2 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

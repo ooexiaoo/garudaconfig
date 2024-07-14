@@ -22,26 +22,26 @@ ToolBarsMovable=Disabled
 Gwenview_Volume=1
 
 [Recent Files]
-File1[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/jpyqo_512.webp
-File10[$e]=$HOME/Documents/Screenshot_20240711_113613.png
-File2[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/lnugt_512.webp
-File3[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/61OUC7iSkDL._SX679_.jpg
-File4[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51VByS042FL._SX679_.jpg
-File5[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51SwGDEBuWL._SX679_.jpg
-File6[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51A-qIF0aFL._SX679_.jpg
-File7[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51N+V5pFUOL._SX679_.jpg
-File8[$e]=/mnt/MINE/backup/Projects/Mohak Herbs/Print labels/New Normal SVG Print 12 x 18 600.png
-File9[$e]=/mnt/MINE/backup/Projects/Mohak Herbs/Print labels/New Normal Print 12 x 18.png
-Name1[$e]=jpyqo_512.webp
-Name10[$e]=Screenshot_20240711_113613.png
-Name2[$e]=lnugt_512.webp
-Name3[$e]=61OUC7iSkDL._SX679_.jpg
-Name4[$e]=51VByS042FL._SX679_.jpg
-Name5[$e]=51SwGDEBuWL._SX679_.jpg
-Name6[$e]=51A-qIF0aFL._SX679_.jpg
-Name7[$e]=51N+V5pFUOL._SX679_.jpg
-Name8[$e]=New Normal SVG Print 12 x 18 600.png
-Name9[$e]=New Normal Print 12 x 18.png
+File1[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51SwGDEBuWL._SX679_.jpg
+File10[$e]=$HOME/Downloads/IMG_20240713_145420.jpg
+File2[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51A-qIF0aFL._SX679_.jpg
+File3[$e]=/mnt/SDA3/WORK/Mohak Herbs/Meesho Product/51N+V5pFUOL._SX679_.jpg
+File4[$e]=/mnt/MINE/backup/Projects/Mohak Herbs/Print labels/New Normal SVG Print 12 x 18 600.png
+File5[$e]=/mnt/MINE/backup/Projects/Mohak Herbs/Print labels/New Normal Print 12 x 18.png
+File6[$e]=$HOME/Documents/Screenshot_20240711_113613.png
+File7[$e]=$HOME/Downloads/IMG_20240713_145329.jpg
+File8[$e]=$HOME/Downloads/IMG_20240713_145332.jpg
+File9[$e]=$HOME/Downloads/IMG_20240713_145413.jpg
+Name1[$e]=51SwGDEBuWL._SX679_.jpg
+Name10[$e]=IMG_20240713_145420.jpg
+Name2[$e]=51A-qIF0aFL._SX679_.jpg
+Name3[$e]=51N+V5pFUOL._SX679_.jpg
+Name4[$e]=New Normal SVG Print 12 x 18 600.png
+Name5[$e]=New Normal Print 12 x 18.png
+Name6[$e]=Screenshot_20240711_113613.png
+Name7[$e]=IMG_20240713_145329.jpg
+Name8[$e]=IMG_20240713_145332.jpg
+Name9[$e]=IMG_20240713_145413.jpg
 
 [SideBar]
 InformationSplitterSizes=225,250

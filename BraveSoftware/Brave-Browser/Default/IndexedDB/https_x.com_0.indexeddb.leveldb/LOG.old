@@ -1,3 +1,15 @@
-2024/07/11-21:53:21.982 22bb Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/11-21:53:21.982 22bb Recovering log #149
-2024/07/11-21:53:21.997 22bb Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000149.log 
+2024/07/13-21:20:29.060 28b2 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/13-21:20:29.064 28b2 Recovering log #149
+2024/07/13-21:20:29.152 28b2 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000149.log 
+2024/07/13-21:27:06.503 28a1 Level-0 table #154: started
+2024/07/13-21:27:06.582 28a1 Level-0 table #154: 857621 bytes OK
+2024/07/13-21:27:06.592 28a1 Delete type=0 #149
+2024/07/13-21:27:06.594 28a3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/13-21:27:06.595 28a1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0c\x00e\x00m\x00o\x00j\x00i\x00P\x00i\x00c\x00k\x00e\x00r\x002' @ 47403 : 1
+2024/07/13-21:27:06.596 28a1 Compacting 1@1 + 1@2 files
+2024/07/13-21:27:06.608 28a1 Generated table #155@1: 74 keys, 9084 bytes
+2024/07/13-21:27:06.609 28a1 Compacted 1@1 + 1@2 files => 9084 bytes
+2024/07/13-21:27:06.613 28a1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/13-21:27:06.614 28a1 Delete type=2 #151
+2024/07/13-21:27:06.614 28a1 Delete type=2 #154
+2024/07/13-21:27:06.616 28a1 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0c\x00e\x00m\x00o\x00j\x00i\x00P\x00i\x00c\x00k\x00e\x00r\x002' @ 47403 : 1 .. (end); will stop at (end)

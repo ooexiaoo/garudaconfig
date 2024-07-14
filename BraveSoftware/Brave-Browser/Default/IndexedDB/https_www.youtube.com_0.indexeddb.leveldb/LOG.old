@@ -1,14 +1,14 @@
-2024/07/12-21:08:10.170 262b Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/12-21:08:10.173 262b Recovering log #3836
-2024/07/12-21:08:10.197 262b Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/003836.log 
-2024/07/12-21:08:23.430 262c Level-0 table #3842: started
-2024/07/12-21:08:23.464 262c Level-0 table #3842: 1644527 bytes OK
-2024/07/12-21:08:23.471 262c Delete type=0 #3836
-2024/07/12-21:09:46.375 262b Compacting 1@1 + 2@2 files
-2024/07/12-21:09:46.576 262b Generated table #3843@1: 39979 keys, 2293936 bytes
-2024/07/12-21:09:46.701 262b Generated table #3844@1: 22931 keys, 1543299 bytes
-2024/07/12-21:09:46.701 262b Compacted 1@1 + 2@2 files => 3837235 bytes
-2024/07/12-21:09:46.704 262b compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/07/12-21:09:46.705 262b Delete type=2 #3838
-2024/07/12-21:09:46.705 262b Delete type=2 #3839
-2024/07/12-21:09:46.705 262b Delete type=2 #3842
+2024/07/13-22:27:50.465 28a1 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/13-22:27:50.472 28a1 Recovering log #3863
+2024/07/13-22:27:50.511 28a1 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/003863.log 
+2024/07/13-22:28:19.267 28a1 Level-0 table #3869: started
+2024/07/13-22:28:19.305 28a1 Level-0 table #3869: 1992294 bytes OK
+2024/07/13-22:28:19.311 28a1 Delete type=0 #3863
+2024/07/13-22:29:54.525 28a3 Compacting 1@1 + 2@2 files
+2024/07/13-22:29:54.757 28a3 Generated table #3870@1: 40173 keys, 2294771 bytes
+2024/07/13-22:29:54.894 28a3 Generated table #3871@1: 22802 keys, 1531369 bytes
+2024/07/13-22:29:54.895 28a3 Compacted 1@1 + 2@2 files => 3826140 bytes
+2024/07/13-22:29:54.898 28a3 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/13-22:29:54.899 28a3 Delete type=2 #3865
+2024/07/13-22:29:54.899 28a3 Delete type=2 #3866
+2024/07/13-22:29:54.899 28a3 Delete type=2 #3869

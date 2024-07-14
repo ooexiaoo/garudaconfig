@@ -1,3 +1,7 @@
-2024/05/18-15:57:49.084 8be Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/18-15:57:49.084 8be Recovering log #3
-2024/05/18-15:57:49.088 8be Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/000003.log 
+2024/06/21-04:02:34.032 913 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/21-04:02:34.033 913 Recovering log #3
+2024/06/21-04:02:34.037 913 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/000003.log 
+2024/06/21-04:02:37.957 914 Level-0 table #5: started
+2024/06/21-04:02:37.965 914 Level-0 table #5: 29651 bytes OK
+2024/06/21-04:02:37.970 914 Delete type=0 #3
+2024/06/21-04:02:37.971 914 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

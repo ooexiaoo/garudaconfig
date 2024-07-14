@@ -34,8 +34,8 @@
             "file:///mnt/SDA2/Code%20Pages/Glassmorsphism%20Layout%20Design": "__default__profile__",
             "file:///mnt/SDA2/Code%20Pages/qr%20gen": "__default__profile__",
             "file:///mnt/SDA3/kawaiidoro": "__default__profile__",
-            "file:///mnt/SDA2/Code%20Pages/dawn": "__default__profile__",
-            "file:///mnt/SDA2/Code%20Pages/WishingU": "__default__profile__"
+            "file:///mnt/SDA2/Code%20Pages/WishingU": "__default__profile__",
+            "file:///mnt/SDA2/Code%20Pages/dawn": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -46,15 +46,15 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///mnt/SDA2/Code%20Pages/WishingU"
+                "folderUri": "file:///mnt/SDA2/Code%20Pages/dawn"
             }
         ],
         "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///mnt/SDA2/Code%20Pages/WishingU",
-            "backupPath": "/home/exia/.config/Code - OSS/Backups/d024280c8ad4e7237b0e6a4cc5f319f7",
+            "folder": "file:///mnt/SDA2/Code%20Pages/dawn",
+            "backupPath": "/home/exia/.config/Code - OSS/Backups/4cde228caef89a70121cf34f87a046e9",
             "uiState": {
                 "mode": 1,
                 "x": 960,
@@ -103,21 +103,11 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/SDA2/Code%20Pages/WishingU",
-                                        "path": "/mnt/SDA2/Code Pages/WishingU",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/SDA2/Code Pages/WishingU"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -129,6 +119,17 @@
                                     },
                                     "enabled": true,
                                     "label": "/mnt/SDA2/Code Pages/dawn"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/SDA2/Code%20Pages/WishingU",
+                                        "path": "/mnt/SDA2/Code Pages/WishingU",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/SDA2/Code Pages/WishingU"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -332,6 +333,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
