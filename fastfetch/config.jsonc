@@ -1,0 +1,98 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "iterm",
+    "source": "/mnt/MINE/wallpapers/Neofetch images/angeldevil.jpg",
+    "width": 50,
+    "height": 15,
+    "padding": {
+      "top": 1,
+      "bottom": 1,
+      "left": 1,
+      "right": 1
+    }
+  },
+  "display": {
+    "separator": " - ",
+    "color": "green"
+  },
+// "paddingTop": 100,
+//  "paddingBottom": 0,
+  "modules": [
+    {
+      "type": "custom",
+      "format": "═══════════ Hardware Information ═══════════"
+    },
+//    {
+//      "type": "host",
+//      "key": "  "
+//    },
+//    {
+//      "type": "cpu",
+//      "key": "  "
+//    },
+    {
+      "type": "memory",
+      "key": " 󰑭 "
+    },
+    {
+      "type": "display",
+      "key": " 󰍹 "
+    },
+    {
+      "type": "poweradapter",
+      "key": "  "
+    },
+    {
+      "type": "bluetooth",
+      "key": "  "
+    },
+    {
+      "type": "sound",
+      "key": "  "
+    },
+    {
+      "type": "custom",
+      "format": "═══════════ Software Information ═══════════"
+    },
+    {
+      "type": "title",
+      "key": "  ",
+      "format": "{1}@{2}"
+    },
+    {
+      "type": "os",
+      "key": "  "
+    },
+    {
+      "type": "kernel",
+      "key": "  ",
+      "format": "{1} {2}"
+    },
+    {
+      "type": "packages",
+      "key": " 󰏖 "
+    },
+//    {
+//      "type": "lm",
+//      "key": " 󰧨 "
+//    },
+//    {
+//      "type": "de",
+//      "key": "  "
+//    },
+//    {
+//      "type": "wm",
+//      "key": "  "
+//    },
+    {
+      "type": "custom",
+      "format": "═════════════════════════════════════════════"
+    },
+    {
+      "type": "colors",
+      "paddingLeft": 2,
+      "symbol": "square"
+    }
+  ]
+}

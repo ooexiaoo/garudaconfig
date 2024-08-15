@@ -1,0 +1,7 @@
+Threshold = 17
+DisplayMonitorSources = false
+EnableUpdates = true
+FilterInput = true
+FilterOutput = false
+LastUsedInput = "alsa_input.usb-C-Media_Electronics_Inc._UHURU_USB_Studio_Mic_UM-1100-00.analog-stereo"
+LastUsedOutput = ""

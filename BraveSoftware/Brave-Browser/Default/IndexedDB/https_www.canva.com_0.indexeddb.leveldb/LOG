@@ -1,0 +1,12 @@
+2024/08/15-15:02:53.581 184f Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/15-15:02:53.586 184f Recovering log #19
+2024/08/15-15:02:53.734 184f Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000019.log 
+2024/08/15-15:03:05.048 1850 Level-0 table #24: started
+2024/08/15-15:03:05.121 1850 Level-0 table #24: 1524453 bytes OK
+2024/08/15-15:03:05.125 1850 Delete type=0 #19
+2024/08/15-15:03:16.885 1851 Compacting 1@1 + 1@2 files
+2024/08/15-15:03:16.904 1851 Generated table #25@1: 289 keys, 42052 bytes
+2024/08/15-15:03:16.904 1851 Compacted 1@1 + 1@2 files => 42052 bytes
+2024/08/15-15:03:16.908 1851 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/15-15:03:16.908 1851 Delete type=2 #21
+2024/08/15-15:03:16.909 1851 Delete type=2 #24

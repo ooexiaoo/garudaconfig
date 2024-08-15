@@ -1,0 +1,80 @@
+{
+   "checksum": "bc7233870c6f05118dfdbab626af2e03",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13367732924772138",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13367733451944300",
+            "date_last_used": "0",
+            "guid": "0f46218a-2e1a-4174-b1bf-d42a22dad9a5",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Meesho | Supplier Panel",
+            "type": "url",
+            "url": "https://supplier.meesho.com/panel/v3/new/growth/lyy2q/home"
+         }, {
+            "date_added": "13368007570734880",
+            "date_last_used": "0",
+            "guid": "34c72ebc-50d3-4cf0-9ada-cafededa9f1e",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gandhari | Mahabharata Wiki | Fandom",
+            "type": "url",
+            "url": "https://mahabharata.fandom.com/wiki/Gandhari"
+         }, {
+            "date_added": "13368034159104758",
+            "date_last_used": "0",
+            "guid": "a4e46a94-dc3c-4c25-a6a5-bfe86a50eb23",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Journey to Surrender: The Entire and Complete Story of Shikhandi",
+            "type": "url",
+            "url": "https://mexpostfact.blogspot.com/2015/05/shikhandis-story-shikhandis-story.html?m=1"
+         }, {
+            "date_added": "13368179598158759",
+            "date_last_used": "0",
+            "guid": "dad7e081-07f6-4e5b-b00c-33199f70fe04",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maintanence Sheet - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/12GzZL_PxPIAWLC6fOmc4uIzHd0m9fQtPi9JO_fgEvbc/edit?gid=0#gid=0"
+         } ],
+         "date_added": "13367732924772143",
+         "date_last_used": "0",
+         "date_modified": "13368179598158759",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13367732924772146",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

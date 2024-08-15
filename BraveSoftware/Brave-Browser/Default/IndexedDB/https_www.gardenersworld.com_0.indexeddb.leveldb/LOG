@@ -1,0 +1,6 @@
+2024/08/14-19:42:46.747 6d4 Creating DB /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gardenersworld.com_0.indexeddb.leveldb since it was missing.
+2024/08/14-19:42:46.753 6d4 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gardenersworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/14-19:43:09.215 6d3 Level-0 table #5: started
+2024/08/14-19:43:09.220 6d3 Level-0 table #5: 3193 bytes OK
+2024/08/14-19:43:09.225 6d3 Delete type=0 #3
+2024/08/14-19:43:09.225 6d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

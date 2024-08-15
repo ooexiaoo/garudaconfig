@@ -1,0 +1,37 @@
+2024-08-04 02:26:57.518 [info] Extension host with pid 11515 started
+2024-08-04 02:26:58.683 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-04 02:26:59.198 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-08-04 02:26:59.234 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-08-04 02:26:59.491 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-04 02:27:00.719 [info] Eager extensions activated
+2024-08-04 02:27:00.768 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:27:00.782 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:27:00.817 [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:27:34.878 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-08-04 02:27:35.076 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:27:35.132 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: false, activationEvent: '*'
+2024-08-04 02:27:35.901 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-04 02:27:35.913 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-04 02:27:35.993 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-04 02:27:38.943 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: false, activationEvent: '*'
+2024-08-04 02:28:12.346 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-04 02:28:12.387 [info] Extension host with pid 11515 exiting with code 0
+2024-08-04 02:28:18.311 [info] Extension host with pid 11664 started
+2024-08-04 02:28:18.699 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-04 02:28:18.863 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-04 02:28:18.869 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-08-04 02:28:18.936 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2024-08-04 02:28:19.009 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2024-08-04 02:28:19.446 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-04 02:28:19.536 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-04 02:28:19.841 [info] Eager extensions activated
+2024-08-04 02:28:19.871 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-04 02:28:19.892 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-04 02:28:20.027 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-04 02:28:20.134 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:28:20.143 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:28:20.169 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:28:20.217 [info] ExtensionService#_doActivateExtension unthrottled.doki-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-08-04 02:29:47.094 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-08-04 02:30:10.791 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-04 02:30:10.853 [info] Extension host with pid 11664 exiting with code 0

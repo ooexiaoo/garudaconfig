@@ -1,0 +1,14 @@
+[Keyboard]
+KeyRepeat=repeat
+NumLock=0
+RepeatDelay=250
+RepeatRate=25
+
+[Libinput][2][8][AlpsPS/2 ALPS GlidePoint]
+Enabled=false
+
+[Libinput][4173][0][Sony Vaio Jogdial]
+ScrollFactor=5
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true

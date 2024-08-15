@@ -1,0 +1,93 @@
+(VSCode) 2024-08-13 17:41:48.957 [INFO]: No proxy settings found
+(VSCode) 2024-08-13 17:41:51.626 [INFO]: Creating manager directory: /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager
+(VSCode) 2024-08-13 17:41:53.467 [INFO]: Using cached LS with valid crc32: /home/exia/.vscode-oss/extensions/codeium.codeium-1.10.11-universal/dist/4afed79fc3218d4ed6a74b3082a291b8e866ba19/language_server_linux_x64
+(VSCode) 2024-08-13 17:41:53.482 [INFO]: Language server started
+2024/08/13 17:41:53 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+I0813 17:41:54.022801  3083 main.go:415] [Logging] Initialized the logger
+I0813 17:41:54.023281  3083 main.go:503] Setting GOMAXPROCS to 4
+I0813 17:41:54.024121  3083 main.go:663] Starting language server manager with pid 3083
+I0813 17:41:54.024340  3083 main.go:118] Manager acquired its lock file /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager/locks/manager.lock
+I0813 17:41:54.026421  3083 main.go:257] Waiting for random port file in /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager/child_random_port_1723551114024608731_761864169511679536 to be created
+2024/08/13 17:41:54 maxprocs: Leaving GOMAXPROCS=4: CPU quota undefined
+I0813 17:41:54.478696  3090 main.go:415] [Logging] Initialized the logger
+I0813 17:41:54.478803  3090 main.go:503] Setting GOMAXPROCS to 4
+I0813 17:41:54.479034  3090 main.go:657] Starting language server process with pid 3090
+I0813 17:41:54.479095  3090 server.go:158] Language server will attempt to listen on host 127.0.0.1
+I0813 17:41:54.479377  3090 server.go:165] Language server listening on random port at 39047
+I0813 17:41:54.479517  3090 proxy.go:113] proxyplease.proxy> No proxy provided. Attempting to infer from system.
+I0813 17:41:54.479587  3090 proxy.go:113] proxyplease.proxy> No proxy could be determined. Assuming a direct connection.
+I0813 17:41:54.479657  3090 client.go:589] [DEBUG] GET https://server.codeium.com/exa.api_server_pb.ApiServerService/GetCompletions
+I0813 17:41:55.432422  3090 unleash.go:90] Initializing Unleash
+I0813 17:41:56.213636  3090 unleash.go:110] Successfully initialized Unleash
+E0813 17:41:56.243519  3090 client_manager.go:270] Metadata is nil when trying to refresh user JWT
+I0813 17:41:56.245747  3090 server.go:360] Successfully created API server client
+I0813 17:41:56.364249  3090 server.go:369] Successfully initialized tokenizer
+E0813 17:41:56.365264  3090 context_module.go:350] unable to get default pinned context guideline: open /home/exia/.codeium/codeium_settings.yaml: no such file or directory
+I0813 17:41:56.365495  3090 server.go:477] Local search is enabled, will index local files.
+I0813 17:41:56.365534  3090 server.go:481] Using 1 indexer workers
+I0813 17:41:56.365717  3090 sqlite_faiss_db_client.go:70] Using database at /home/exia/.codeium/database/9c0694567290725d9dcba14ade58e297/2/MODEL_EMBED_6591
+I0813 17:41:56.377600  3090 sqlite_faiss_db_client.go:84] Successfully created embedding search database in 11ms
+I0813 17:41:56.378331  3090 indexer.go:251] Using 4 embed workers
+I0813 17:41:56.378433  3090 search_provider.go:246] Successfully created and started indexer
+I0813 17:41:56.378527  3090 search_provider.go:273] Successfully created embedding search provider
+I0813 17:41:56.403789  3090 server.go:555] Successfully created completion provider
+I0813 17:41:56.404020  3090 server.go:604] Child process attempting to acquire lock file /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager/locks/child_lock_1723551114024683887_2217760119119395370
+I0813 17:41:56.404165  3090 server.go:612] Child process acquired lock file /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager/locks/child_lock_1723551114024683887_2217760119119395370
+I0813 17:41:56.413608  3090 server.go:185] LSP listening on random port at 44377
+I0813 17:41:56.414428  3090 web_server.go:240] Chat Web Server listening at ws://127.0.0.1:40483
+44377
+I0813 17:41:56.447287  3083 main.go:293] Language server manager found random server port 39047
+I0813 17:41:56.447371  3083 main.go:294] Language server manager found random lsp port 44377
+I0813 17:41:56.447419  3083 main.go:301] Language server manager attempting to connect to language server at 127.0.0.1:39047
+I0813 17:41:56.492631  3083 main.go:172] Fixing language server port at 39047
+I0813 17:41:56.492704  3083 main.go:352] Language server manager successfully connected to new language server at 127.0.0.1:39047
+(VSCode) 2024-08-13 17:41:56.520 [INFO]: Found language server running on port 39047
+I0813 17:41:56.594131  3090 utils.go:185] Analyzing workspace files for /mnt/sda2/Code Pages/parallax stack/
+I0813 17:41:56.594399  3090 utils.go:245] Done analyzing workspace files for /mnt/sda2/Code Pages/parallax stack/
+I0813 17:41:56.594426  3090 lsp.go:208] Found 10 files in workspace /mnt/sda2/Code Pages/parallax stack/
+I0813 17:41:56.594605  3090 lsp.go:232] Adding workspace listener for [0xc000415420]
+I0813 17:41:56.594765  3090 indexing_listener.go:232] Add workspace event with uid 1 for workspace /mnt/sda2/Code Pages/parallax stack/
+I0813 17:41:56.609937  3090 lazy_model.go:32] Successfully created faiss index
+I0813 17:41:56.611767  3090 indexing_listener.go:291] Done enqueue workspace with uid 1
+I0813 17:41:56.656519  3090 rpcs_miscellaneous.go:323] University version is up to date.
+I0813 17:46:56.740562  3090 rpcs_miscellaneous.go:113] Indexer stats: database:{local_sqlite_faiss:{faiss_state_stats:{embedding_source:EMBEDDING_SOURCE_CODE_CONTEXT_ITEM workspace:"/mnt/sda2/Code Pages/parallax stack" item_count:11} total_item_count:11 quantized:true}}
+I0813 17:46:56.761253  3090 rpcs_miscellaneous.go:120] Memory stats: {"runtime":{"alloc":46694656,"heap_inuse":50806784,"heap_released":2392064,"heap_sys":69828608,"total_alloc":131282448,"stack_inuse":1245184,"sys":78733592,"num_goroutine":49},"proc":{"virt_size":2328588,"pss":136319}}
+(VSCode) 2024-08-13 17:47:05.354 [INFO]: Completion request succeeded (1646.82ms)
+(VSCode) 2024-08-13 17:47:05.359 [INFO]: Generated 2 completions
+(VSCode) 2024-08-13 17:47:05.364 [INFO]: provideInlineCompletionItems request succeeded (1662.87ms)
+(VSCode) 2024-08-13 17:47:09.137 [INFO]: Completion request succeeded (1184.81ms)
+(VSCode) 2024-08-13 17:47:09.140 [INFO]: No completions were generated
+(VSCode) 2024-08-13 17:47:09.142 [INFO]: provideInlineCompletionItems request succeeded (1191.71ms)
+(VSCode) 2024-08-13 17:47:17.500 [INFO]: Completion request succeeded (28.74ms)
+(VSCode) 2024-08-13 17:47:17.513 [INFO]: Generated 2 completions
+(VSCode) 2024-08-13 17:47:17.515 [INFO]: provideInlineCompletionItems request succeeded (45.39ms)
+(VSCode) 2024-08-13 17:47:19.583 [INFO]: Completion request succeeded (1214ms)
+(VSCode) 2024-08-13 17:47:19.586 [INFO]: No completions were generated
+(VSCode) 2024-08-13 17:47:19.587 [INFO]: provideInlineCompletionItems request succeeded (1233.3ms)
+(VSCode) 2024-08-13 17:48:55.489 [INFO]: Completion request was cancelled by token (197.74ms)
+(VSCode) 2024-08-13 17:48:56.941 [INFO]: Completion request succeeded (1076.72ms)
+(VSCode) 2024-08-13 17:48:56.947 [INFO]: No completions were generated
+(VSCode) 2024-08-13 17:48:56.948 [INFO]: provideInlineCompletionItems request succeeded (1087.18ms)
+(VSCode) 2024-08-13 17:49:06.739 [INFO]: Completion request succeeded (763.44ms)
+(VSCode) 2024-08-13 17:49:06.752 [INFO]: Generated 1 completion
+(VSCode) 2024-08-13 17:49:06.758 [INFO]: provideInlineCompletionItems request succeeded (785.97ms)
+(VSCode) 2024-08-13 17:49:09.353 [INFO]: Completion request succeeded (494.51ms)
+(VSCode) 2024-08-13 17:49:09.355 [INFO]: No completions were generated
+(VSCode) 2024-08-13 17:49:09.357 [INFO]: provideInlineCompletionItems request succeeded (499.89ms)
+(VSCode) 2024-08-13 17:49:36.871 [INFO]: Completion request succeeded (403.32ms)
+(VSCode) 2024-08-13 17:49:36.874 [INFO]: No completions were generated
+(VSCode) 2024-08-13 17:49:36.875 [INFO]: provideInlineCompletionItems request succeeded (409.98ms)
+(VSCode) 2024-08-13 17:49:37.419 [INFO]: Completion request succeeded (402.05ms)
+(VSCode) 2024-08-13 17:49:37.421 [INFO]: No completions were generated
+(VSCode) 2024-08-13 17:49:37.422 [INFO]: provideInlineCompletionItems request succeeded (406.58ms)
+(VSCode) 2024-08-13 17:49:38.735 [INFO]: Completion request succeeded (1004.09ms)
+(VSCode) 2024-08-13 17:49:38.739 [INFO]: No completions were generated
+(VSCode) 2024-08-13 17:49:38.740 [INFO]: provideInlineCompletionItems request succeeded (1010.75ms)
+(VSCode) 2024-08-13 17:50:12.844 [INFO]: Disposing language server process
+(VSCode) 2024-08-13 17:50:12.844 [INFO]: Deleting manager directory: /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager
+(VSCode) 2024-08-13 17:50:12.847 [INFO]: Successfully disposed language server
+W0813 17:50:12.846763  3083 main.go:122] Language server manager got signal terminated, shutting down
+E0813 17:50:12.853098  3090 server.go:285] Error while locking manager lock file - open /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager/locks/manager.lock: no such file or directory
+I0813 17:50:12.853210  3090 server.go:691] Language server shutting down
+E0813 17:50:12.873423  3083 main.go:366] Failed to acquire lock on /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager/locks/child_lock_1723551114024683887_2217760119119395370: open /tmp/155ec313-6e62-47b6-9420-dc894011bcd3/codeium/manager/locks/child_lock_1723551114024683887_2217760119119395370: no such file or directory
+I0813 17:50:12.884788  3090 server.go:714] Exit requested on language server process 3090

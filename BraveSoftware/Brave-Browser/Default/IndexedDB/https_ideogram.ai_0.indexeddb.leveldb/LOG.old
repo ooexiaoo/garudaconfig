@@ -1,0 +1,24 @@
+2024/08/15-07:03:11.230 776 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ideogram.ai_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/15-07:03:11.233 776 Recovering log #12
+2024/08/15-07:03:11.233 776 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ideogram.ai_0.indexeddb.leveldb/000012.log 
+2024/08/15-07:03:11.325 775 Level-0 table #18: started
+2024/08/15-07:03:11.332 775 Level-0 table #18: 799 bytes OK
+2024/08/15-07:03:11.341 775 Delete type=0 #12
+2024/08/15-07:03:11.342 764 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/15-07:03:28.056 765 Level-0 table #20: started
+2024/08/15-07:03:28.059 765 Level-0 table #20: 10537 bytes OK
+2024/08/15-07:03:28.064 765 Delete type=0 #17
+2024/08/15-07:03:28.065 763 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 316 : 1
+2024/08/15-07:03:28.065 763 Compacting 1@0 + 1@1 files
+2024/08/15-07:03:28.068 763 Generated table #21@0: 43 keys, 3325 bytes
+2024/08/15-07:03:28.068 763 Compacted 1@0 + 1@1 files => 3325 bytes
+2024/08/15-07:03:28.071 763 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/15-07:03:28.072 763 Delete type=2 #20
+2024/08/15-07:03:28.073 763 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 316 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/15-07:04:07.264 764 Compacting 1@1 + 1@2 files
+2024/08/15-07:04:07.267 764 Generated table #22@1: 40 keys, 3356 bytes
+2024/08/15-07:04:07.267 764 Compacted 1@1 + 1@2 files => 3356 bytes
+2024/08/15-07:04:07.270 764 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/15-07:04:07.271 764 Delete type=2 #15
+2024/08/15-07:04:07.271 764 Delete type=2 #18
+2024/08/15-07:04:07.271 764 Delete type=2 #21

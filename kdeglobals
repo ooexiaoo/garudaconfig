@@ -1,0 +1,147 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=-0.9500000000000001
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=154,46,34
+BackgroundNormal=50,50,54
+DecorationFocus=199,45,26
+DecorationHover=199,45,26
+ForegroundActive=199,45,26
+ForegroundInactive=242,243,243
+ForegroundLink=253,179,177
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=254,254,254
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=27,27,29
+BackgroundNormal=27,27,29
+DecorationFocus=199,45,26
+DecorationHover=199,45,26
+ForegroundActive=199,45,26
+ForegroundLink=253,179,177
+
+[Colors:Selection]
+BackgroundAlternate=147,39,26
+BackgroundNormal=147,39,26
+DecorationFocus=199,45,26
+DecorationHover=199,45,26
+ForegroundActive=199,45,26
+ForegroundInactive=255,255,255
+ForegroundLink=145,33,19
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=255,255,255
+ForegroundPositive=156,83,198
+ForegroundVisited=189,195,199
+
+[Colors:Tooltip]
+BackgroundAlternate=39,39,42
+BackgroundNormal=39,39,42
+DecorationFocus=199,45,26
+DecorationHover=199,45,26
+ForegroundActive=199,45,26
+ForegroundInactive=242,243,243
+ForegroundLink=253,179,177
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=252,253,253
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=27,27,29
+BackgroundNormal=27,27,29
+DecorationFocus=199,45,26
+DecorationHover=199,45,26
+ForegroundActive=199,45,26
+ForegroundInactive=242,243,243
+ForegroundLink=253,179,177
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=254,254,254
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[Colors:Window]
+BackgroundAlternate=27,27,29
+BackgroundNormal=27,27,29
+DecorationFocus=199,45,26
+DecorationHover=199,45,26
+ForegroundActive=199,45,26
+ForegroundInactive=242,243,243
+ForegroundLink=253,179,177
+ForegroundNegative=67,205,189
+ForegroundNeutral=95,125,205
+ForegroundNormal=252,253,253
+ForegroundPositive=156,83,198
+ForegroundVisited=127,140,141
+
+[DirSelect Dialog]
+DirSelectDialog Size=961,662
+History Items[$e]=file:///mnt/sda2/My-PKM-copy
+
+[General]
+AccentColor=199,45,26
+BrowserApplication=brave-browser.desktop
+ColorSchemeHash=404c9c568102723de6d5694e4902840a6a5076c6
+accentColorFromWallpaper=true
+fixed=FiraCode Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=Fira Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=Fira Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=Fira Sans,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=Fira Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[KDE]
+LookAndFeelPackage=Nothing
+SingleClick=true
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=true
+Speedbar Width=134
+View Style=Simple
+
+[WM]
+activeBackground=27,27,29
+activeBlend=27,27,29
+activeFont=Fira Sans,10,-1,5,75,0,0,0,0,0,Bold
+activeForeground=237,240,242
+inactiveBackground=27,27,29
+inactiveBlend=27,27,29
+inactiveForeground=181,182,182

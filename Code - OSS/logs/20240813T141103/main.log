@@ -1,0 +1,8 @@
+2024-08-13 14:11:04.122 [info] update#setState disabled
+2024-08-13 14:11:04.129 [info] update#ctor - updates are disabled as there is no update URL
+2024-08-13 14:11:34.195 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-08-13 14:11:34.761 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-08-13 14:15:52.162 [info] Extension host with pid 3121 exited with code: 0, signal: unknown.
+2024-08-13 14:15:52.197 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744072277895000, signal: unknown
+2024-08-13 14:23:33.555 [info] Extension host with pid 3487 exited with code: 0, signal: unknown.
+2024-08-13 14:23:33.738 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744072277895000, signal: unknown

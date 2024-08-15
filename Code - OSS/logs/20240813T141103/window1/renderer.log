@@ -1,0 +1,35 @@
+2024-08-13 14:11:06.855 [info] Started local extension host with pid 3121.
+2024-08-13 14:11:10.825 [info] [perf] Render performance baseline is 97ms
+2024-08-13 14:11:15.183 [error] Error: Server returned 429
+    at c (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:694:48938)
+    at ae.getManifest (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:815:42378)
+    at async $e.Ab (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2660:53104)
+    at async $e.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2660:49796)
+    at async l.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2433:24899)
+    at async l.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2433:23426)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2433:22409)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2561:27041
+    at async ne.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2724:17387)
+2024-08-13 14:11:34.749 [error] [Extension Host] Error: EACCES: permission denied, rename '/usr/lib/code/product.json' -> '/usr/lib/code/product.json.orig.1.92.1'
+	at Object.renameSync (node:fs:1030:11)
+	at exports.fixCheckSums (/home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/CheckSumService.js:32:34)
+	at /home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/AutoInstaller.js:108:35
+2024-08-13 14:13:19.232 [error] [Extension Host] Error: EACCES: permission denied, rename '/usr/lib/code/product.json' -> '/usr/lib/code/product.json.orig.1.92.1'
+	at Object.renameSync (node:fs:1030:11)
+	at exports.fixCheckSums (/home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/CheckSumService.js:32:34)
+	at /home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/ThemeManager.js:170:35
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-13 14:15:45.327 [error] [Extension Host] Error: EACCES: permission denied, rename '/usr/lib/code/product.json' -> '/usr/lib/code/product.json.orig.1.92.1'
+	at Object.renameSync (node:fs:1030:11)
+	at exports.fixCheckSums (/home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/CheckSumService.js:32:34)
+	at /home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal/out/ThemeManager.js:170:35
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-08-13 14:15:55.555 [info] Started local extension host with pid 3487.
+2024-08-13 14:15:58.667 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2024-08-13 14:15:59.981 [info] [perf] Render performance baseline is 141ms

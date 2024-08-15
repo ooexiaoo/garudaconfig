@@ -1,0 +1,6 @@
+2024/08/15-13:51:56.931 184f Creating DB /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.olx.in_0.indexeddb.leveldb since it was missing.
+2024/08/15-13:51:56.936 184f Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.olx.in_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/15-13:53:12.017 1850 Level-0 table #5: started
+2024/08/15-13:53:12.020 1850 Level-0 table #5: 3702 bytes OK
+2024/08/15-13:53:12.023 1850 Delete type=0 #3
+2024/08/15-13:53:12.024 1850 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

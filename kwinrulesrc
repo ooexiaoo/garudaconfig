@@ -1,0 +1,108 @@
+[1]
+Description=Application settings for org.kde.dolphin
+noborder=true
+noborderrule=2
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[13293dd3-2000-4549-986f-faf7f9c633c3]
+Description=Application settings for konsole
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=konsole
+wmclassmatch=1
+
+[18d0a954-a356-4476-805f-ffa3878700a5]
+Description=Application settings for dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=dolphin
+wmclassmatch=1
+
+[2]
+Description=Application settings for org.kde.konsole
+noborder=true
+noborderrule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[2c15bcd0-2936-40f8-953c-8fcbaa22e838]
+Description=Application settings for org.kde.konsole
+noborder=true
+noborderrule=2
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[4e2aef47-cdcc-45e9-8884-571e68932f6b]
+Description=Application settings for org.kde.kate
+noborder=true
+noborderrule=2
+wmclass=kate org.kde.kate
+wmclasscomplete=true
+wmclassmatch=1
+
+[5e05613d-0d62-4627-a2ee-199e458d6a51]
+Description=Application settings for NoiseTorch-ng
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=NoiseTorch-ng
+wmclassmatch=1
+
+[63471287-1253-4442-807e-fdebaa2929a9]
+Description=Application settings for QjackCtl
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=qjackctl QjackCtl
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=11
+rules=18d0a954-a356-4476-805f-ffa3878700a5,13293dd3-2000-4549-986f-faf7f9c633c3,a87fb7ed-601b-46ff-8784-9ec810f2b06b,4e2aef47-cdcc-45e9-8884-571e68932f6b,a71af2e6-22b6-4020-b974-b3f8c346b4b3,d229ca32-e38b-460b-b4de-dc2875e29e3e,63471287-1253-4442-807e-fdebaa2929a9,5e05613d-0d62-4627-a2ee-199e458d6a51,b80b33c3-c962-48cd-b314-7bc577ca37e5,1,2
+
+[a71af2e6-22b6-4020-b974-b3f8c346b4b3]
+Description=Application settings for code-oss
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=code-oss
+wmclassmatch=1
+
+[a84fda46-cfd5-44a4-ac13-801631a5ca79]
+Description=Application settings for org.kde.dolphin
+noborder=true
+noborderrule=2
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[a87fb7ed-601b-46ff-8784-9ec810f2b06b]
+Description=Application settings for systemsettings
+noborder=true
+noborderrule=2
+wmclass=systemsettings
+wmclassmatch=1
+
+[b80b33c3-c962-48cd-b314-7bc577ca37e5]
+Description=Application settings for obsidian
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=obsidian
+wmclassmatch=1
+
+[d229ca32-e38b-460b-b4de-dc2875e29e3e]
+Description=Application settings for Spotify
+clientmachine=localhost
+noborder=true
+noborderrule=2
+wmclass=spotify Spotify
+wmclasscomplete=true
+wmclassmatch=1

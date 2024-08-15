@@ -1,0 +1,10 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,/mnt/sda3/WORK/Mohak Herbs/Products Images/1/,$HOME/Desktop/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled

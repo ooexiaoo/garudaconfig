@@ -1,0 +1,7 @@
+# Ignore Brave browser data
+.config/BraveSoftware/
+BraveSoftware/
+
+# Ignore Code-OSS (VS Code)
+.config/Code/
+Code/

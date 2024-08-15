@@ -1,0 +1,14 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/Screenshot_20240803_005030.png
+File2[$e]=/mnt/sda2/My-PKM-copy/🛢️ Resources/📁 Files/📸Images/images(1).jpg
+Name1[$e]=Screenshot_20240803_005030.png
+Name2[$e]=images(1).jpg
+
+[SideBar]
+InformationSplitterSizes=209,246

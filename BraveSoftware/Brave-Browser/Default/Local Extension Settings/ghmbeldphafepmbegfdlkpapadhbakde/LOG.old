@@ -1,0 +1,73 @@
+2024/08/15-11:50:17.273 1861 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/MANIFEST-000001
+2024/08/15-11:50:17.275 1861 Recovering log #441
+2024/08/15-11:50:17.303 1861 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/ghmbeldphafepmbegfdlkpapadhbakde/000441.log 
+2024/08/15-11:50:30.094 1850 Level-0 table #445: started
+2024/08/15-11:50:30.185 1850 Level-0 table #445: 5466689 bytes OK
+2024/08/15-11:50:30.191 1850 Delete type=0 #441
+2024/08/15-12:07:36.207 1850 Level-0 table #447: started
+2024/08/15-12:07:36.229 1850 Level-0 table #447: 637195 bytes OK
+2024/08/15-12:07:36.234 1850 Delete type=0 #444
+2024/08/15-12:07:36.235 1850 Compacting 4@0 + 2@1 files
+2024/08/15-12:07:36.413 1850 Generated table #448@0: 9 keys, 5102484 bytes
+2024/08/15-12:07:36.418 1850 Generated table #449@0: 2 keys, 404 bytes
+2024/08/15-12:07:36.418 1850 Compacted 4@0 + 2@1 files => 5102888 bytes
+2024/08/15-12:07:36.429 1850 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/08/15-12:07:36.429 1850 Delete type=2 #436
+2024/08/15-12:07:36.430 1850 Delete type=2 #437
+2024/08/15-12:07:36.430 1850 Delete type=2 #439
+2024/08/15-12:07:36.430 1850 Delete type=2 #442
+2024/08/15-12:07:36.430 1850 Delete type=2 #445
+2024/08/15-12:07:36.430 1850 Delete type=2 #447
+2024/08/15-12:20:30.329 1850 Level-0 table #451: started
+2024/08/15-12:20:30.446 1850 Level-0 table #451: 5689779 bytes OK
+2024/08/15-12:20:30.451 1850 Delete type=0 #446
+2024/08/15-12:50:30.767 1850 Level-0 table #453: started
+2024/08/15-12:50:30.917 1850 Level-0 table #453: 5322795 bytes OK
+2024/08/15-12:50:31.047 1850 Delete type=0 #450
+2024/08/15-13:51:01.387 1851 Level-0 table #455: started
+2024/08/15-13:51:01.404 1851 Level-0 table #455: 634072 bytes OK
+2024/08/15-13:51:01.410 1851 Delete type=0 #452
+2024/08/15-14:02:17.471 184f Level-0 table #457: started
+2024/08/15-14:02:17.488 184f Level-0 table #457: 632278 bytes OK
+2024/08/15-14:02:17.493 184f Delete type=0 #454
+2024/08/15-14:02:17.496 184f Compacting 4@0 + 2@1 files
+2024/08/15-14:02:17.639 184f Generated table #458@0: 9 keys, 5102351 bytes
+2024/08/15-14:02:17.644 184f Generated table #459@0: 2 keys, 419 bytes
+2024/08/15-14:02:17.644 184f Compacted 4@0 + 2@1 files => 5102770 bytes
+2024/08/15-14:02:17.648 184f compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/08/15-14:02:17.648 184f Delete type=2 #448
+2024/08/15-14:02:17.648 184f Delete type=2 #449
+2024/08/15-14:02:17.648 184f Delete type=2 #451
+2024/08/15-14:02:17.649 184f Delete type=2 #453
+2024/08/15-14:02:17.649 184f Delete type=2 #455
+2024/08/15-14:02:17.649 184f Delete type=2 #457
+2024/08/15-14:30:10.797 1850 Level-0 table #461: started
+2024/08/15-14:30:10.902 1850 Level-0 table #461: 5197765 bytes OK
+2024/08/15-14:30:10.907 1850 Delete type=0 #456
+2024/08/15-14:35:55.535 1850 Level-0 table #463: started
+2024/08/15-14:35:55.635 1850 Level-0 table #463: 5364529 bytes OK
+2024/08/15-14:35:55.640 1850 Delete type=0 #460
+2024/08/15-14:45:00.624 1850 Level-0 table #465: started
+2024/08/15-14:45:00.641 1850 Level-0 table #465: 628784 bytes OK
+2024/08/15-14:45:00.646 1850 Delete type=0 #462
+2024/08/15-14:52:42.185 1850 Level-0 table #467: started
+2024/08/15-14:52:42.213 1850 Level-0 table #467: 629819 bytes OK
+2024/08/15-14:52:42.221 1850 Delete type=0 #464
+2024/08/15-14:52:42.224 1850 Compacting 4@0 + 1@1 files
+2024/08/15-14:52:42.423 1850 Generated table #468@0: 9 keys, 5098878 bytes
+2024/08/15-14:52:42.423 1850 Compacted 4@0 + 1@1 files => 5098878 bytes
+2024/08/15-14:52:42.427 1850 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/08/15-14:52:42.428 1850 Delete type=2 #458
+2024/08/15-14:52:42.428 1850 Delete type=2 #461
+2024/08/15-14:52:42.428 1850 Delete type=2 #463
+2024/08/15-14:52:42.428 1850 Delete type=2 #465
+2024/08/15-14:52:42.428 1850 Delete type=2 #467
+2024/08/15-15:05:14.779 1850 Level-0 table #470: started
+2024/08/15-15:05:14.801 1850 Level-0 table #470: 623130 bytes OK
+2024/08/15-15:05:14.806 1850 Delete type=0 #466
+2024/08/15-15:05:51.988 1850 Level-0 table #472: started
+2024/08/15-15:05:52.091 1850 Level-0 table #472: 5100114 bytes OK
+2024/08/15-15:05:52.096 1850 Delete type=0 #469
+2024/08/15-15:05:57.518 1850 Level-0 table #474: started
+2024/08/15-15:05:57.600 1850 Level-0 table #474: 5074868 bytes OK
+2024/08/15-15:05:57.607 1850 Delete type=0 #471

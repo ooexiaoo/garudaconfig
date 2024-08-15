@@ -1,0 +1,14 @@
+2024/08/15-11:50:16.627 1851 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2024/08/15-11:50:16.629 1851 Recovering log #192
+2024/08/15-11:50:16.661 1851 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000192.log 
+2024/08/15-11:50:24.285 184f Level-0 table #198: started
+2024/08/15-11:50:24.344 184f Level-0 table #198: 3227768 bytes OK
+2024/08/15-11:50:24.348 184f Delete type=0 #192
+2024/08/15-12:04:56.086 1850 Compacting 1@1 + 2@2 files
+2024/08/15-12:04:56.177 1850 Generated table #199@1: 15 keys, 2913803 bytes
+2024/08/15-12:04:56.252 1850 Generated table #200@1: 27 keys, 1622993 bytes
+2024/08/15-12:04:56.252 1850 Compacted 1@1 + 2@2 files => 4536796 bytes
+2024/08/15-12:04:56.255 1850 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/08/15-12:04:56.256 1850 Delete type=2 #194
+2024/08/15-12:04:56.256 1850 Delete type=2 #195
+2024/08/15-12:04:56.256 1850 Delete type=2 #198

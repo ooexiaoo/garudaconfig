@@ -1,0 +1,117 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+/* Default state */
+a {
+    transition: all 0.3s;
+    color: rgb(240, 255, 108); /* Change this to your desired color */
+    text-decoration: none;
+}
+
+/* Hover state */
+a:hover {
+    color: red; /* Change this to your desired color on hover */
+}
+
+/* Visited state */
+a:visited {
+    color: rgb(163, 163, 163); /* Change this to your desired color for visited links */
+}
+
+/* Active state */
+a:active {
+    color: green; /* Change this to your desired color when the link is active */
+}
+
+p {
+    max-width: 600px; /* Adjust this value to your desired maximum width */
+    margin: 10px auto;   /* Centers the paragraph horizontally, optional */
+    overflow-wrap: break-word; /* Ensures long words break and wrap */
+}
+
+.back-to-home {
+    display: block;
+    margin: 20px auto; /* Adjust the margin as needed */
+    text-align: center;
+    color: #007bff; /* Change to your desired color */
+    text-decoration: none; /* Removes underline */
+    font-weight: bold;
+}
+
+.back-to-home:hover {
+    color: yellow; /* Change to your desired hover color */
+    text-decoration: underline; /* Optional: adds underline on hover */
+}
+
+@keyframes aurora {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    animation: aurora 15s ease infinite;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.global-data {
+    margin-bottom: 20px;
+}
+
+.global-data p {
+    margin: 5px 0;
+}
+
+.price-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.price-item {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(20% - 40px);
+    min-width: 200px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.price-item:hover {
+    transform: scale(1.05);
+}
+
+.price-item img {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.price-item span {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}

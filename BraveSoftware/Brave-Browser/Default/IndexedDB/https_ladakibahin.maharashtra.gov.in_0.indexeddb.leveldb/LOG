@@ -1,0 +1,28 @@
+2024/08/10-08:39:33.180 529 Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ladakibahin.maharashtra.gov.in_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-08:39:33.181 529 Recovering log #4
+2024/08/10-08:39:33.181 529 Reusing old log /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_ladakibahin.maharashtra.gov.in_0.indexeddb.leveldb/000004.log 
+2024/08/10-08:39:33.440 53e Level-0 table #8: started
+2024/08/10-08:39:33.443 53e Level-0 table #8: 1663 bytes OK
+2024/08/10-08:39:33.446 53e Delete type=0 #4
+2024/08/10-08:39:33.447 529 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/10-08:39:34.187 529 Level-0 table #10: started
+2024/08/10-08:39:34.195 529 Level-0 table #10: 1198 bytes OK
+2024/08/10-08:39:34.198 529 Delete type=0 #7
+2024/08/10-08:39:34.199 529 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 109 : 1
+2024/08/10-08:39:34.199 529 Compacting 1@0 + 1@1 files
+2024/08/10-08:39:34.203 529 Generated table #11@0: 46 keys, 1286 bytes
+2024/08/10-08:39:34.204 529 Compacted 1@0 + 1@1 files => 1286 bytes
+2024/08/10-08:39:34.208 529 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/10-08:39:34.208 529 Delete type=2 #10
+2024/08/10-08:39:34.209 529 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 109 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/10-08:44:31.835 53d Level-0 table #13: started
+2024/08/10-08:44:31.838 53d Level-0 table #13: 681 bytes OK
+2024/08/10-08:44:31.843 53d Delete type=2 #8
+2024/08/10-08:44:31.843 53d Delete type=0 #9
+2024/08/10-08:44:31.844 52b Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 128 : 1
+2024/08/10-08:44:31.845 52b Compacting 1@0 + 1@1 files
+2024/08/10-08:44:31.847 52b Generated table #14@0: 50 keys, 1331 bytes
+2024/08/10-08:44:31.847 52b Compacted 1@0 + 1@1 files => 1331 bytes
+2024/08/10-08:44:31.850 52b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/10-08:44:31.851 52b Delete type=2 #13
+2024/08/10-08:44:31.851 52a Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 128 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

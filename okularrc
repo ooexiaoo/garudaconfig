@@ -1,0 +1,15 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/_OceanofPDF.com_The_12_Week_Year_-_Brian_P_Morann_Michael_Lennington.pdf
+File2[$e]=$HOME/Downloads/The-12-Week-Year.pdf
+Name1[$e]=_OceanofPDF.com_The_12_Week_Year_-_Brian_P_Morann_Michael_Lennington.pdf
+Name2[$e]=The-12-Week-Year.pdf

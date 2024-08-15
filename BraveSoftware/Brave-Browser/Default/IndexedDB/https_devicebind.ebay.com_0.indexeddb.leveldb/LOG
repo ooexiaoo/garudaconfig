@@ -1,0 +1,6 @@
+2024/08/10-22:43:24.303 55e Creating DB /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb since it was missing.
+2024/08/10-22:43:24.316 55e Reusing MANIFEST /home/exia/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-22:43:26.411 55f Level-0 table #5: started
+2024/08/10-22:43:26.414 55f Level-0 table #5: 1216 bytes OK
+2024/08/10-22:43:26.419 55f Delete type=0 #3
+2024/08/10-22:43:26.419 55f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

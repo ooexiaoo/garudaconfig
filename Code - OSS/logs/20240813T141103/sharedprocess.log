@@ -1,0 +1,48 @@
+2024-08-13 14:11:18.037 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2024-08-13 14:11:18.316 [info] Installing extension: arcticicestudio.nord-visual-studio-code {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/exia/.vscode-oss/extensions/extensions.json","path":"/home/exia/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"}}
+2024-08-13 14:11:19.590 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-08-13 14:11:19.590 [info] Extension signature verification is not done: arcticicestudio.nord-visual-studio-code
+2024-08-13 14:11:19.667 [info] Extracted extension to file:///home/exia/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.19.0-universal: arcticicestudio.nord-visual-studio-code
+2024-08-13 14:11:19.678 [info] Renamed to /home/exia/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.19.0-universal
+2024-08-13 14:11:19.729 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code vscode-userdata:/home/exia/.vscode-oss/extensions/extensions.json
+2024-08-13 14:11:19.784 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)
+2024-08-13 14:11:31.547 [info] Getting Manifest... unthrottled.doki-theme
+2024-08-13 14:11:31.794 [info] Installing extension: unthrottled.doki-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/exia/.vscode-oss/extensions/extensions.json","path":"/home/exia/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"}}
+2024-08-13 14:11:32.611 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-08-13 14:11:32.612 [info] Extension signature verification is not done: unthrottled.doki-theme
+2024-08-13 14:11:33.022 [info] Extracted extension to file:///home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal: unthrottled.doki-theme
+2024-08-13 14:11:33.032 [info] Renamed to /home/exia/.vscode-oss/extensions/unthrottled.doki-theme-88.1.15-universal
+2024-08-13 14:11:33.073 [info] Extension installed successfully: unthrottled.doki-theme vscode-userdata:/home/exia/.vscode-oss/extensions/extensions.json
+2024-08-13 14:11:33.127 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)
+2024-08-13 14:17:15.506 [info] Getting Manifest... ritwickdey.liveserver
+2024-08-13 14:17:15.749 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/exia/.vscode-oss/extensions/extensions.json","path":"/home/exia/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.92.1","date":"2024-08-09T07:48:41.621Z"}}
+2024-08-13 14:17:16.413 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-fork.js
+2024-08-13 14:17:16.413 [info] Extension signature verification is not done: ritwickdey.liveserver
+2024-08-13 14:17:26.620 [info] Extracted extension to file:///home/exia/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal: ritwickdey.liveserver
+2024-08-13 14:17:26.629 [info] Renamed to /home/exia/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal
+2024-08-13 14:17:26.667 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/exia/.vscode-oss/extensions/extensions.json
+2024-08-13 14:17:26.731 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/exia/.vscode-oss/extensions/extensions.json.vsctmp'
+    at o.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)

@@ -1,0 +1,6 @@
+2024-08-13 09:50:07.573 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/exia/.config/starship.toml","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-08-13 09:50:08.834 [info] Started local extension host with pid 2902.
+2024-08-13 09:50:09.009 [info] Started initializing default profile extensions in extensions installation folder. file:///home/exia/.vscode-oss/extensions
+2024-08-13 09:50:10.458 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/exia/.vscode-oss/extensions
+2024-08-13 09:50:13.811 [info] [perf] Render performance baseline is 71ms
+2024-08-13 09:51:14.355 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: issueReporter.experimental.auxWindow
